@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  29 JUN 2025 23:13
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  29 JUN 2025 23:55
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -2499,174 +2499,101 @@ Package siunitx Info: Option "detect-all" has been deprecated in this release.
 (siunitx)             as a replacement.
 
 
-(./files/gbTeXglo-20250629MAURO.tex) (./files/gbTeXseparata-20250629MAURO.tex
-\c@PrimPag=\count581
-\script=\write9
 
-\openout9 = separatas.sh
-)
-(/usr/share/texlive/texmf-dist/tex/latex/impnattypo/impnattypo.sty
-Package: impnattypo 2019/03/04 1.5 Typographic utilities inspired by the French
- Imprimerie Nationale
-Package: impnattypo 
-
-(/usr/share/texlive/texmf-dist/tex/lualatex/luacode/luacode.sty
-Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
-\luacode@lines=\toks66
-\luacode@table@soft=\catcodetable18
-)
-Inserting `homeoarchy' in `post_linebreak_filter'.
-Inserting `homoioteleuton' in `post_linebreak_filter'.)
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
-Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
-Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
-
-(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
-Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
-Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
-)
-\c@section@level=\count582
-)
-\@linkdim=\dimen351
-\Hy@linkcounter=\count583
-\Hy@pagecounter=\count584
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
-)
-\Hy@SavedSpaceFactor=\count585
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
-)
-Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
-Package hyperref Info: Option `unicode' set `true' on input line 4062.
-Package hyperref Info: Hyper figures OFF on input line 4179.
-Package hyperref Info: Link nesting OFF on input line 4184.
-Package hyperref Info: Hyper index ON on input line 4187.
-Package hyperref Info: Plain pages OFF on input line 4194.
-Package hyperref Info: Backreferencing OFF on input line 4199.
-Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count586
-LaTeX Info: Redefining \url on input line 4784.
-\XeTeXLinkMargin=\dimen352
-
-(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
-Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
-)
-\Fld@menulength=\count587
-\Field@Width=\dimen353
-\Fld@charsize=\dimen354
-Package hyperref Info: Hyper figures OFF on input line 6063.
-Package hyperref Info: Link nesting OFF on input line 6068.
-Package hyperref Info: Hyper index ON on input line 6071.
-Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring ON on input line 6081.
-Package hyperref Info: Link coloring with OCG OFF on input line 6088.
-Package hyperref Info: PDF/A mode OFF on input line 6093.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-\Hy@abspage=\count588
-\c@Item=\count589
-\c@Hfootnote=\count590
-)
-Package hyperref Info: Driver (autodetected): hluatex.
-
-(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
-File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
-
-(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
-Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
-)
-)
-\Fld@listcount=\count591
-\c@bookmark@seq@number=\count592
-\Hy@SectionHShift=\skip193
-)
-(/usr/share/texlive/texmf-dist/tex/latex/easyreview/easyReview.sty
-Package: easyReview 2014/06/27 Package for Easy Review on LaTeX documents
-Package: easyReview 2013/12/09 Package for Easy Review on LaTeX documents
-
-(/usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
-Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
-
-(/usr/share/texlive/texmf-dist/tex/generic/soul/soul-ori.sty
-Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
-\SOUL@word=\toks67
-\SOUL@lasttoken=\toks68
-\SOUL@syllable=\toks69
-\SOUL@cmds=\toks70
-\SOUL@buffer=\toks71
-\SOUL@token=\toks72
-\SOUL@syllgoal=\dimen355
-\SOUL@syllwidth=\dimen356
-\SOUL@charkern=\dimen357
-\SOUL@hyphkern=\dimen358
-\SOUL@dimen=\dimen359
-\SOUL@dimeni=\dimen360
-\SOUL@minus=\count593
-\SOUL@comma=\count594
-\SOUL@apo=\count595
-\SOUL@grave=\count596
-\SOUL@spaceskip=\skip194
-\SOUL@ttwidth=\dimen361
-\SOUL@uldp=\dimen362
-\SOUL@ulht=\dimen363
-))
-(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
-Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
-Package: todonotes 2024/01/05
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarypositioning.code.tex
-File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
-)
-\c@@todonotes@numberoftodonotes=\count597
-)
-
-! LaTeX Error: Command \comment already defined.
-               Or name \end... illegal, see p.192 of the manual.
+! LaTeX Error: Option clash for package biblatex.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.69 ...comment}[2]{\highlight{#1}\todo[inline]{#2}}
-                                                  %    \end{macrocode}
-Your command was ignored.
-Type  I <command> <return>  to replace it with another command,
-or  <return>  to continue without it.
+l.435 \usepackage
+               {longtable}
+The package biblatex has already been loaded with options:
+  [style=philosophy-modern,sortcites=true,lowscauthors=true,scauthorsbib=true,a
+nnotation=true,backend=biber,labeldateparts=true,backref=true,useprefix=true,ci
+tereset=chapter,indexing=true,relatedformat=brackets,publocformat=loccolonpub,v
+olnumformat=strings,latinemph=true,inbeforejournal=true,shorthandintro=true,tex
+encoding=utf8,bibencoding=utf8,uniquelist=minyear]
+There has now been an attempt to load it with options
+  [style=verbose-note]
+Adding the global options:
+  style=philosophy-modern,sortcites=true,lowscauthors=true,scauthorsbib=true,an
+notation=true,backend=biber,labeldateparts=true,backref=true,useprefix=true,cit
+ereset=chapter,indexing=true,relatedformat=brackets,publocformat=loccolonpub,vo
+lnumformat=strings,latinemph=true,inbeforejournal=true,shorthandintro=true,texe
+ncoding=utf8,bibencoding=utf8,uniquelist=minyear,style=verbose-note
+to your \documentclass declaration may fix this.
+Try typing  <return>  to proceed.
 
-) (/usr/share/texlive/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
-Package: hyperxmp 2023/09/10 v5.12 Store hyperref metadata in XMP format
-\hyxmp@aep@toks=\toks73
-
-(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
-Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+(/usr/share/texlive/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2023/07/08 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen351
+\TX@old@table=\dimen352
+\TX@old@col=\dimen353
+\TX@target=\dimen354
+\TX@delta=\dimen355
+\TX@cols=\count581
+\TX@ftn=\toks66
 )
-\@hyxmp@count=\count598
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjustbox.sty
+Package: adjustbox 2022/10/17 v1.3a Adjusting TeX boxes (trim, clip, ...)
 
-(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
-Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/adjcalc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
 )
-\hyxmp@cct=\catcodetable19
-)
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/trimclip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
 
-! LaTeX Error: File `./files/gbTeXmeta-seminarioUBA.tex' not found.
+(/usr/share/texlive/texmf-dist/tex/latex/collectbox/collectbox.sty
+Package: collectbox 2022/10/17 v0.4c Collect macro arguments as boxes
+\collectedbox=\box154
+)
+\tc@llx=\dimen356
+\tc@lly=\dimen357
+\tc@urx=\dimen358
+\tc@ury=\dimen359
+
+(/usr/share/texlive/texmf-dist/tex/latex/adjustbox/tc-pgf.def
+File: tc-pgf.def 2019/01/04 v2.2 trimclip fall-back clipping driver using PGF
+)
+Package trimclip Info: No clipping driver 'tc-luatex.def' available.
+(trimclip)             Using fall-back PGF driver.
+)
+\adjbox@Width=\dimen360
+\adjbox@Height=\dimen361
+\adjbox@Depth=\dimen362
+\adjbox@Totalheight=\dimen363
+\adjbox@pwidth=\dimen364
+\adjbox@pheight=\dimen365
+\adjbox@pdepth=\dimen366
+\adjbox@ptotalheight=\dimen367
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifoddpage/ifoddpage.sty
+Package: ifoddpage 2022/10/18 v1.2 Conditionals for odd/even page detection
+\c@checkoddpage=\count582
+)
+(/usr/share/texlive/texmf-dist/tex/latex/varwidth/varwidth.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box155
+\sift@deathcycles=\count583
+\@vwid@loff=\dimen368
+\@vwid@roff=\dimen369
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+
+! LaTeX Error: File `./files/gbTeXglo-20250425MAURO.tex' not found.
 
 Type X to quit or <RETURN> to proceed,
 or enter new name. (Default extension: tex)
@@ -2675,20 +2602,20 @@ Enter file name:
 ! Emergency stop.
 <read *> 
    
-l.448 \input{./files/gbTeXmeta-seminarioUBA.tex}
+l.452 \input{./files/gbTeXglo-20250425MAURO.tex}
                                               
 *** (cannot \read from terminal in nonstop modes)
 
 
 
 Here is how much of LuaTeX's memory you used:
- 63061 strings out of 476553
- 125124,2848258 words of node,token memory allocated 2597 words of node memory still in use:
-   30 hlist, 1 vlist, 14 rule, 1 dir, 4 kern, 1 penalty, 3 glyph, 500 attribute,
- 143 glue_spec, 85 attribute_list, 1 if_stack, 6 write, 24 pdf_literal, 25 pdf_c
-olorstack nodes
-   avail lists: 1:1,2:20,3:1,4:2,5:4,7:8,8:2,9:1
- 83553 multiletter control sequences out of 65536+600000
- 70 fonts using 17334983 bytes
+ 57153 strings out of 476553
+ 125124,2373549 words of node,token memory allocated 2619 words of node memory still in use:
+   30 hlist, 1 vlist, 14 rule, 1 dir, 2 glue, 4 kern, 1 penalty, 2 glyph, 506 at
+tribute, 143 glue_spec, 86 attribute_list, 7 write, 24 pdf_literal, 25 pdf_color
+stack nodes
+   avail lists: 1:1,2:11,3:1,4:2,5:1,7:7,8:2
+ 77716 multiletter control sequences out of 65536+600000
+ 69 fonts using 17252227 bytes
  117i,1n,123p,2363b,286s stack positions out of 10000i,1000n,20000p,200000b,200000s
 !  ==> Fatal error occurred, no output PDF file produced!
