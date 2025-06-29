@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  29 JUN 2025 21:58
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  29 JUN 2025 23:13
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -2499,90 +2499,24 @@ Package siunitx Info: Option "detect-all" has been deprecated in this release.
 (siunitx)             as a replacement.
 
 
+(./files/gbTeXglo-20250629MAURO.tex) (./files/gbTeXseparata-20250629MAURO.tex
+\c@PrimPag=\count581
+\script=\write9
 
-! LaTeX Error: Two \documentclass or \documentstyle commands.
+\openout9 = separatas.sh
+)
+(/usr/share/texlive/texmf-dist/tex/latex/impnattypo/impnattypo.sty
+Package: impnattypo 2019/03/04 1.5 Typographic utilities inspired by the French
+ Imprimerie Nationale
+Package: impnattypo 
 
-See the LaTeX manual or LaTeX Companion for explanation.
-Type  H <return>  for immediate help.
- ...                                              
-                                                  
-l.435 \documentclass{
-                   book}
-The document may only declare one class.
-
-
-Package fontspec Info: Font family 'LibertinusSerif(1)' created for font
-(fontspec)             'Libertinus Serif' with options [Ligatures=TeX].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif:mode=node;script=latn;language=dflt;
-+tlig;"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif:mode=node;script=latn;language=dflt;
-+tlig;+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/B:mode=node;script=latn;language=dfl
-t;+tlig;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/B:mode=node;script=latn;language=dfl
-t;+tlig;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/I:mode=node;script=latn;language=dfl
-t;+tlig;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/I:mode=node;script=latn;language=dfl
-t;+tlig;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/BI:mode=node;script=latn;language=df
-lt;+tlig;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/BI:mode=node;script=latn;language=df
-lt;+tlig;+smcp;"
-
-
-Package fontspec Info: Font family 'LibertinusSerif(2)' created for font
-(fontspec)             'Libertinus Serif' with options [Renderer=Basic].
-(fontspec)              
-(fontspec)              This font family consists of the following NFSS
-(fontspec)             series/shapes:
-(fontspec)              
-(fontspec)             - 'normal' (m/n) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif:mode=base;script=latn;language=dflt;
-"
-(fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif:mode=base;script=latn;language=dflt;
-+smcp;"
-(fontspec)             - 'bold' (b/n) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/B:mode=base;script=latn;language=dfl
-t;"
-(fontspec)             - 'bold small caps'  (b/sc) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/B:mode=base;script=latn;language=dfl
-t;+smcp;"
-(fontspec)             - 'italic' (m/it) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/I:mode=base;script=latn;language=dfl
-t;"
-(fontspec)             - 'italic small caps'  (m/scit) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/I:mode=base;script=latn;language=dfl
-t;+smcp;"
-(fontspec)             - 'bold italic' (b/it) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/BI:mode=base;script=latn;language=df
-lt;"
-(fontspec)             - 'bold italic small caps'  (b/scit) with NFSS spec.:
-(fontspec)             <->"LibertinusSerif/BI:mode=base;script=latn;language=df
-lt;+smcp;"
-
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  TU/LibertinusMath(1)/m/n --> TU/LibertinusSerif(2)/m/n 
-on input line 439.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(2)/m/it on input li
-ne 439.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(2)/b/n on input lin
-e 439.
+(/usr/share/texlive/texmf-dist/tex/lualatex/luacode/luacode.sty
+Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
+\luacode@lines=\toks66
+\luacode@table@soft=\catcodetable18
+)
+Inserting `homeoarchy' in `post_linebreak_filter'.
+Inserting `homoioteleuton' in `post_linebreak_filter'.)
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
 Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
 
@@ -2601,20 +2535,22 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count581
+\c@section@level=\count582
 )
 \@linkdim=\dimen351
-\Hy@linkcounter=\count582
-\Hy@pagecounter=\count583
+\Hy@linkcounter=\count583
+\Hy@pagecounter=\count584
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count584
+\Hy@SavedSpaceFactor=\count585
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
 File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
 )
+Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
+Package hyperref Info: Option `unicode' set `true' on input line 4062.
 Package hyperref Info: Hyper figures OFF on input line 4179.
 Package hyperref Info: Link nesting OFF on input line 4184.
 Package hyperref Info: Hyper index ON on input line 4187.
@@ -2622,21 +2558,21 @@ Package hyperref Info: Plain pages OFF on input line 4194.
 Package hyperref Info: Backreferencing OFF on input line 4199.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4446.
-\c@Hy@tempcnt=\count585
+\c@Hy@tempcnt=\count586
 LaTeX Info: Redefining \url on input line 4784.
 \XeTeXLinkMargin=\dimen352
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 )
-\Fld@menulength=\count586
+\Fld@menulength=\count587
 \Field@Width=\dimen353
 \Fld@charsize=\dimen354
 Package hyperref Info: Hyper figures OFF on input line 6063.
 Package hyperref Info: Link nesting OFF on input line 6068.
 Package hyperref Info: Hyper index ON on input line 6071.
 Package hyperref Info: backreferencing OFF on input line 6078.
-Package hyperref Info: Link coloring OFF on input line 6083.
+Package hyperref Info: Link coloring ON on input line 6081.
 Package hyperref Info: Link coloring with OCG OFF on input line 6088.
 Package hyperref Info: PDF/A mode OFF on input line 6093.
 
@@ -2644,9 +2580,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6093.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count587
-\c@Item=\count588
-\c@Hfootnote=\count589
+\Hy@abspage=\count588
+\c@Item=\count589
+\c@Hfootnote=\count590
 )
 Package hyperref Info: Driver (autodetected): hluatex.
 
@@ -2657,1280 +2593,102 @@ File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\Fld@listcount=\count590
-\c@bookmark@seq@number=\count591
+\Fld@listcount=\count591
+\c@bookmark@seq@number=\count592
 \Hy@SectionHShift=\skip193
 )
-(/usr/share/texlive/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
-\multirow@colwidth=\skip194
-\multirow@cntb=\count592
-\multirow@dima=\skip195
-\bigstrutjot=\dimen355
-)
+(/usr/share/texlive/texmf-dist/tex/latex/easyreview/easyReview.sty
+Package: easyReview 2014/06/27 Package for Easy Review on LaTeX documents
+Package: easyReview 2013/12/09 Package for Easy Review on LaTeX documents
+
 (/usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
 Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/soul/soul-ori.sty
 Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
-\SOUL@word=\toks66
-\SOUL@lasttoken=\toks67
-\SOUL@syllable=\toks68
-\SOUL@cmds=\toks69
-\SOUL@buffer=\toks70
-\SOUL@token=\toks71
-\SOUL@syllgoal=\dimen356
-\SOUL@syllwidth=\dimen357
-\SOUL@charkern=\dimen358
-\SOUL@hyphkern=\dimen359
-\SOUL@dimen=\dimen360
-\SOUL@dimeni=\dimen361
+\SOUL@word=\toks67
+\SOUL@lasttoken=\toks68
+\SOUL@syllable=\toks69
+\SOUL@cmds=\toks70
+\SOUL@buffer=\toks71
+\SOUL@token=\toks72
+\SOUL@syllgoal=\dimen355
+\SOUL@syllwidth=\dimen356
+\SOUL@charkern=\dimen357
+\SOUL@hyphkern=\dimen358
+\SOUL@dimen=\dimen359
+\SOUL@dimeni=\dimen360
 \SOUL@minus=\count593
 \SOUL@comma=\count594
 \SOUL@apo=\count595
 \SOUL@grave=\count596
-\SOUL@spaceskip=\skip196
-\SOUL@ttwidth=\dimen362
-\SOUL@uldp=\dimen363
-\SOUL@ulht=\dimen364
+\SOUL@spaceskip=\skip194
+\SOUL@ttwidth=\dimen361
+\SOUL@uldp=\dimen362
+\SOUL@ulht=\dimen363
 ))
-Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
+Package: todonotes 2024/01/05
 
-(./pdf-20250629MAURO.aux
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
-\c@pagesLTS.roman.1.local.cnt=\count597
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )
-\openout1 = pdf-20250629MAURO.aux
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 450.
-LaTeX Font Info:    ... okay on input line 450.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: luatex
-*geometry* verbose mode - [ preamble ] result:
-* driver: luatex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* hratio: 1:1
-* vratio: 1:1
-* modes: includehead includefoot twoside 
-* h-part:(L,W,R)=(64.0187pt, 312.9803pt, 64.0187pt)
-* v-part:(T,H,B)=(35.0pt, 566.0pt, 53.41338pt)
-* \paperwidth=441.01772pt
-* \paperheight=654.41338pt
-* \textwidth=312.9803pt
-* \textheight=540.0pt
-* \oddsidemargin=-8.25128pt
-* \evensidemargin=-8.25128pt
-* \topmargin=-37.26999pt
-* \headheight=12.0pt
-* \headsep=14.0pt
-* \topskip=14.0pt
-* \footskip=0.0pt
-* \marginparwidth=125.0pt
-* \marginparsep=7.0pt
-* \columnsep=10.0pt
-* \skip\footins=14.0pt plus 0.1pt minus 0.1pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidetrue
-* \@mparswitchtrue
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-LaTeX Info: Redefining \. on input line 450.
-LaTeX Info: Redefining \% on input line 450.
-LaTeX Info: Redefining \up on input line 450.
-LaTeX Info: Redefining \microtypecontext on input line 450.
-Package microtype Info: Applying patch `item' on input line 450.
-Package microtype Info: Applying patch `toc' on input line 450.
-Package microtype Info: Applying patch `eqnum' on input line 450.
-Package microtype Info: Applying patch `footnote' on input line 450.
-Package microtype Info: Applying patch `verbatim' on input line 450.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 450.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of spacing.
-Package microtype Info: No adjustment of kerning.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `LibertinusSerif' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-
-Package pageslts Warning: Package pdfpages detected.
-(pageslts)                Using hyperref with pdfpages can cause problems. See
-(pageslts)                https://www.ctan.org/pkg/pax
-(pageslts)                for the Pdf Annotations eXtractor, pax.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count598
-\scratchdimen=\dimen365
-\scratchbox=\box154
-\nofMPsegments=\count599
-\nofMParguments=\count600
-\everyMPshowfont=\toks72
-\MPscratchCnt=\count601
-\MPscratchDim=\dimen366
-\MPnumerator=\count602
-\makeMPintoPDFobject=\count603
-\everyMPtoPDFconversion=\toks73
-) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
-
-(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
-F (HO)
-
-(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+\c@@todonotes@numberoftodonotes=\count597
 )
-Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
-))
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: hyperref package is loaded.
-Package caption Info: listings package is loaded.
-Package caption Info: longtable package is loaded.
 
-(/usr/share/texlive/texmf-dist/tex/latex/caption/ltcaption.sty
-Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
+! LaTeX Error: Command \comment already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...comment}[2]{\highlight{#1}\todo[inline]{#2}}
+                                                  %    \end{macrocode}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
+Package: hyperxmp 2023/09/10 v5.12 Store hyperref metadata in XMP format
+\hyxmp@aep@toks=\toks73
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
 )
-Package caption Info: scrextend package is loaded.
-\caption@addmargin@hsize=\dimen367
-\caption@addmargin@linewidth=\dimen368
-Package caption Info: supertabular package is loaded.
-Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count604
-Package biblatex Info: Trying to load language 'spanish' -> 'spanish-philosophy
-'...
-Package biblatex Info: ... file 'spanish-philosophy.lbx' found.
+\@hyxmp@count=\count598
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/spanish-philosophy
-.lbx
-File: spanish-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
-Package biblatex Info: Trying to load language 'spanish'...
-Package biblatex Info: ... file 'spanish.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
-File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
 )
-Package biblatex Info: Trying to load language 'spanish'...
-Package biblatex Info: ... file 'spanish.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/spanish.lbx
-File: spanish.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
-Package biblatex Info: Trying to load language 'german'...
-Package biblatex Info: ... file 'german.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/german.lbx
-File: german.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
+\hyxmp@cct=\catcodetable19
 )
-Package biblatex Info: Trying to load language 'english' -> 'english-philosophy
-'...
-Package biblatex Info: ... file 'english-philosophy.lbx' found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/english-philosophy
-.lbx
-File: english-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
+! LaTeX Error: File `./files/gbTeXmeta-seminarioUBA.tex' not found.
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
-Package biblatex Info: Trying to load language 'italian' -> 'italian-philosophy
-'...
-Package biblatex Info: ... file 'italian-philosophy.lbx' found.
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: tex)
 
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/italian-philosophy
-.lbx
-File: italian-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
-Package biblatex Info: Trying to load language 'italian'...
-Package biblatex Info: ... file 'italian.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
-File: italian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'italian'...
-Package biblatex Info: ... file 'italian.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/italian.lbx
-File: italian.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
-Package biblatex Info: Trying to load language 'portuguese'...
-Package biblatex Info: ... file 'portuguese.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/portuguese.lbx
-File: portuguese.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'french' -> 'french-philosophy'.
-..
-Package biblatex Info: ... file 'french-philosophy.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex-philosophy/french-philosophy.
-lbx
-File: french-philosophy.lbx 2022/09/16 v1.9.8g A set of styles for biblatex
-Package biblatex Info: Trying to load language 'french'...
-Package biblatex Info: ... file 'french.lbx' found.
- (/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/french.lbx
-File: french.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-)
-Package biblatex Info: Trying to load language 'french'...
-Package biblatex Info: ... file 'french.lbx' found.
-
-(/usr/share/texlive/texmf-dist/tex/latex/biblatex/lbx/french.lbx
-File: french.lbx 2023/03/05 v3.19 biblatex localization (PK/MW)
-))
-Package biblatex Info: Input encoding 'utf8' specified.
-Package biblatex Info: Data encoding 'utf8' specified.
-(biblatex)             No need to reencode data.
-
-\openout4 = pdf-20250629MAURO.bcf
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'pdf-20250629MAURO.bbl' found.
-
-(./pdf-20250629MAURO.bbl)
-Package biblatex Info: Reference section=0 on input line 450.
-Package biblatex Info: Reference segment=0 on input line 450.
-
-(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
-nary-spanish.trsl
-File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
-nslations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 450.
-
-(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
-nary-german.trsl
-File: translations-basic-dictionary-german.trsl (german translation file `trans
-lations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 450.
-
-(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
-nary-english.trsl
-File: translations-basic-dictionary-english.trsl (english translation file `tra
-nslations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 450.
-Package translations Info: no dictionary file `translations-basic-dictionary-it
-alian.trsl' found. on input line 450.
-Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 450.
-
-(/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
-nary-french.trsl
-File: translations-basic-dictionary-french.trsl (french translation file `trans
-lations-basic-dictionary')
-)
-Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 450.
-Package hyperref Info: Link coloring OFF on input line 450.
- (./pdf-20250629MAURO.out) (./pdf-20250629MAURO.out)
-\@outlinefile=\write9
-
-\openout9 = pdf-20250629MAURO.out
-\c@pagesLTS.pnc.roman=\count605
-\c@pagesLTS.double.roman=\count606
-\c@pagesLTS.current.local.roman=\count607
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 475.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `IBMPlexSansCondensed' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 475.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 475.
-LaTeX Info: Redefining \. on input line 484.
-LaTeX Info: Redefining \% on input line 484.
-LaTeX Info: Redefining \. on input line 484.
-LaTeX Info: Redefining \% on input line 484.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+Enter file name: 
+! Emergency stop.
+<read *> 
+   
+l.448 \input{./files/gbTeXmeta-seminarioUBA.tex}
+                                              
+*** (cannot \read from terminal in nonstop modes)
 
 
-]
-LaTeX Info: Redefining \. on input line 500.
-LaTeX Info: Redefining \% on input line 500.
-LaTeX Info: Redefining \. on input line 500.
-LaTeX Info: Redefining \% on input line 500.
- [2]
-LaTeX Info: Redefining \. on input line 563.
-LaTeX Info: Redefining \% on input line 563.
-LaTeX Info: Redefining \. on input line 563.
-LaTeX Info: Redefining \% on input line 563.
- [3]
-LaTeX Info: Redefining \. on input line 607.
-LaTeX Info: Redefining \% on input line 607.
-LaTeX Info: Redefining \. on input line 607.
-LaTeX Info: Redefining \% on input line 607.
- [4]
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 9.81033pt on input line 633.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 11.7724pt on input line 642.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `LibertinusMath' (encoding: TU).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 644.
-LaTeX Info: Redefining \. on input line 645.
-LaTeX Info: Redefining \% on input line 645.
-LaTeX Info: Redefining \. on input line 645.
-LaTeX Info: Redefining \% on input line 645.
- [5]
-LaTeX Info: Redefining \. on input line 653.
-LaTeX Info: Redefining \% on input line 653.
-LaTeX Info: Redefining \. on input line 653.
-LaTeX Info: Redefining \% on input line 653.
- [6]
-LaTeX Info: Redefining \. on input line 669.
-LaTeX Info: Redefining \% on input line 669.
-LaTeX Info: Redefining \. on input line 669.
-LaTeX Info: Redefining \% on input line 669.
- [7]
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
-LaTeX Info: Redefining \. on input line 681.
-LaTeX Info: Redefining \% on input line 681.
- [8]
-LaTeX Info: Redefining \. on input line 696.
-LaTeX Info: Redefining \% on input line 696.
-LaTeX Info: Redefining \. on input line 696.
-LaTeX Info: Redefining \% on input line 696.
-
-[9]
-LaTeX Info: Redefining \. on input line 712.
-LaTeX Info: Redefining \% on input line 712.
-LaTeX Info: Redefining \. on input line 712.
-LaTeX Info: Redefining \% on input line 712.
- [10]
-LaTeX Info: Redefining \. on input line 728.
-LaTeX Info: Redefining \% on input line 728.
-LaTeX Info: Redefining \. on input line 728.
-LaTeX Info: Redefining \% on input line 728.
- [11]
-LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 735.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 735.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 735.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 735.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 735.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 735.
-LaTeX Info: Redefining \. on input line 736.
-LaTeX Info: Redefining \% on input line 736.
-LaTeX Info: Redefining \. on input line 736.
-LaTeX Info: Redefining \% on input line 736.
- [12]
-LaTeX Info: Redefining \. on input line 775.
-LaTeX Info: Redefining \% on input line 775.
-LaTeX Info: Redefining \. on input line 775.
-LaTeX Info: Redefining \% on input line 775.
- [13]
-LaTeX Info: Redefining \. on input line 840.
-LaTeX Info: Redefining \% on input line 840.
-LaTeX Info: Redefining \. on input line 840.
-LaTeX Info: Redefining \% on input line 840.
- [14]
-LaTeX Info: Redefining \. on input line 856.
-LaTeX Info: Redefining \% on input line 856.
-LaTeX Info: Redefining \. on input line 856.
-LaTeX Info: Redefining \% on input line 856.
- [15]
-LaTeX Info: Redefining \. on input line 872.
-LaTeX Info: Redefining \% on input line 872.
-LaTeX Info: Redefining \. on input line 872.
-LaTeX Info: Redefining \% on input line 872.
- [16]
-LaTeX Info: Redefining \. on input line 886.
-LaTeX Info: Redefining \% on input line 886.
-LaTeX Info: Redefining \. on input line 886.
-LaTeX Info: Redefining \% on input line 886.
- [17]
-LaTeX Info: Redefining \. on input line 895.
-LaTeX Info: Redefining \% on input line 895.
-LaTeX Info: Redefining \. on input line 895.
-LaTeX Info: Redefining \% on input line 895.
- [18]
-LaTeX Info: Redefining \. on input line 911.
-LaTeX Info: Redefining \% on input line 911.
-LaTeX Info: Redefining \. on input line 911.
-LaTeX Info: Redefining \% on input line 911.
- [19]
-LaTeX Info: Redefining \. on input line 939.
-LaTeX Info: Redefining \% on input line 939.
-LaTeX Info: Redefining \. on input line 939.
-LaTeX Info: Redefining \% on input line 939.
- [20]
-LaTeX Info: Redefining \. on input line 948.
-LaTeX Info: Redefining \% on input line 948.
-LaTeX Info: Redefining \. on input line 948.
-LaTeX Info: Redefining \% on input line 948.
- [21]
-LaTeX Info: Redefining \. on input line 968.
-LaTeX Info: Redefining \% on input line 968.
-LaTeX Info: Redefining \. on input line 968.
-LaTeX Info: Redefining \% on input line 968.
- [22]
-LaTeX Info: Redefining \. on input line 978.
-LaTeX Info: Redefining \% on input line 978.
-LaTeX Info: Redefining \. on input line 978.
-LaTeX Info: Redefining \% on input line 978.
- [23]
-Overfull \vbox (1.78pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 986.
-LaTeX Info: Redefining \% on input line 986.
-LaTeX Info: Redefining \. on input line 986.
-LaTeX Info: Redefining \% on input line 986.
- [24]
-LaTeX Info: Redefining \. on input line 1002.
-LaTeX Info: Redefining \% on input line 1002.
-LaTeX Info: Redefining \. on input line 1002.
-LaTeX Info: Redefining \% on input line 1002.
-
-[25]
-LaTeX Info: Redefining \. on input line 1013.
-LaTeX Info: Redefining \% on input line 1013.
-LaTeX Info: Redefining \. on input line 1013.
-LaTeX Info: Redefining \% on input line 1013.
- [26]
-LaTeX Info: Redefining \. on input line 1027.
-LaTeX Info: Redefining \% on input line 1027.
-LaTeX Info: Redefining \. on input line 1027.
-LaTeX Info: Redefining \% on input line 1027.
- [27]
-LaTeX Info: Redefining \. on input line 1048.
-LaTeX Info: Redefining \% on input line 1048.
-LaTeX Info: Redefining \. on input line 1048.
-LaTeX Info: Redefining \% on input line 1048.
- [28]
-LaTeX Info: Redefining \. on input line 1071.
-LaTeX Info: Redefining \% on input line 1071.
-LaTeX Info: Redefining \. on input line 1071.
-LaTeX Info: Redefining \% on input line 1071.
- [29]
-LaTeX Info: Redefining \. on input line 1084.
-LaTeX Info: Redefining \% on input line 1084.
-LaTeX Info: Redefining \. on input line 1084.
-LaTeX Info: Redefining \% on input line 1084.
- [30]
-LaTeX Info: Redefining \. on input line 1105.
-LaTeX Info: Redefining \% on input line 1105.
-LaTeX Info: Redefining \. on input line 1105.
-LaTeX Info: Redefining \% on input line 1105.
- [31]
-LaTeX Info: Redefining \. on input line 1129.
-LaTeX Info: Redefining \% on input line 1129.
-LaTeX Info: Redefining \. on input line 1129.
-LaTeX Info: Redefining \% on input line 1129.
- [32]
-LaTeX Info: Redefining \. on input line 1146.
-LaTeX Info: Redefining \% on input line 1146.
-LaTeX Info: Redefining \. on input line 1146.
-LaTeX Info: Redefining \% on input line 1146.
- [33]
-LaTeX Info: Redefining \. on input line 1165.
-LaTeX Info: Redefining \% on input line 1165.
-LaTeX Info: Redefining \. on input line 1165.
-LaTeX Info: Redefining \% on input line 1165.
- [34]
-LaTeX Info: Redefining \. on input line 1185.
-LaTeX Info: Redefining \% on input line 1185.
-LaTeX Info: Redefining \. on input line 1185.
-LaTeX Info: Redefining \% on input line 1185.
- [35]
-LaTeX Info: Redefining \. on input line 1205.
-LaTeX Info: Redefining \% on input line 1205.
-LaTeX Info: Redefining \. on input line 1205.
-LaTeX Info: Redefining \% on input line 1205.
- [36]
-LaTeX Info: Redefining \. on input line 1219.
-LaTeX Info: Redefining \% on input line 1219.
-LaTeX Info: Redefining \. on input line 1219.
-LaTeX Info: Redefining \% on input line 1219.
- [37]
-LaTeX Info: Redefining \. on input line 1231.
-LaTeX Info: Redefining \% on input line 1231.
-LaTeX Info: Redefining \. on input line 1231.
-LaTeX Info: Redefining \% on input line 1231.
- [38]
-LaTeX Info: Redefining \. on input line 1245.
-LaTeX Info: Redefining \% on input line 1245.
-LaTeX Info: Redefining \. on input line 1245.
-LaTeX Info: Redefining \% on input line 1245.
- [39]
-Overfull \vbox (2.23006pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 1252.
-LaTeX Info: Redefining \% on input line 1252.
-LaTeX Info: Redefining \. on input line 1252.
-LaTeX Info: Redefining \% on input line 1252.
-
-[40]
-LaTeX Info: Redefining \. on input line 1281.
-LaTeX Info: Redefining \% on input line 1281.
-LaTeX Info: Redefining \. on input line 1281.
-LaTeX Info: Redefining \% on input line 1281.
- [41]
-LaTeX Info: Redefining \. on input line 1292.
-LaTeX Info: Redefining \% on input line 1292.
-LaTeX Info: Redefining \. on input line 1292.
-LaTeX Info: Redefining \% on input line 1292.
- [42]
-LaTeX Info: Redefining \. on input line 1303.
-LaTeX Info: Redefining \% on input line 1303.
-LaTeX Info: Redefining \. on input line 1303.
-LaTeX Info: Redefining \% on input line 1303.
- [43]
-Overfull \vbox (0.33003pt too high) has occurred while \output is active []
-
-LaTeX Info: Redefining \. on input line 1316.
-LaTeX Info: Redefining \% on input line 1316.
-LaTeX Info: Redefining \. on input line 1316.
-LaTeX Info: Redefining \% on input line 1316.
-
-[44]
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 7.84827pt on input line 1329.
-LaTeX Info: Redefining \. on input line 1330.
-LaTeX Info: Redefining \% on input line 1330.
-LaTeX Info: Redefining \. on input line 1330.
-LaTeX Info: Redefining \% on input line 1330.
- [45]
-LaTeX Info: Redefining \. on input line 1352.
-LaTeX Info: Redefining \% on input line 1352.
-LaTeX Info: Redefining \. on input line 1352.
-LaTeX Info: Redefining \% on input line 1352.
- [46]
-LaTeX Info: Redefining \. on input line 1370.
-LaTeX Info: Redefining \% on input line 1370.
-LaTeX Info: Redefining \. on input line 1370.
-LaTeX Info: Redefining \% on input line 1370.
- [47]
-LaTeX Info: Redefining \. on input line 1375.
-LaTeX Info: Redefining \% on input line 1375.
-LaTeX Info: Redefining \. on input line 1375.
-LaTeX Info: Redefining \% on input line 1375.
- [48]
-LaTeX Info: Redefining \. on input line 1399.
-LaTeX Info: Redefining \% on input line 1399.
-LaTeX Info: Redefining \. on input line 1399.
-LaTeX Info: Redefining \% on input line 1399.
- [49]
-LaTeX Info: Redefining \. on input line 1468.
-LaTeX Info: Redefining \% on input line 1468.
-LaTeX Info: Redefining \. on input line 1468.
-LaTeX Info: Redefining \% on input line 1468.
- [50]
-LaTeX Info: Redefining \. on input line 1481.
-LaTeX Info: Redefining \% on input line 1481.
-LaTeX Info: Redefining \. on input line 1481.
-LaTeX Info: Redefining \% on input line 1481.
- [51]
-LaTeX Info: Redefining \. on input line 1503.
-LaTeX Info: Redefining \% on input line 1503.
-LaTeX Info: Redefining \. on input line 1503.
-LaTeX Info: Redefining \% on input line 1503.
- [52]
-LaTeX Info: Redefining \. on input line 1523.
-LaTeX Info: Redefining \% on input line 1523.
-LaTeX Info: Redefining \. on input line 1523.
-LaTeX Info: Redefining \% on input line 1523.
- [53]
-LaTeX Info: Redefining \. on input line 1586.
-LaTeX Info: Redefining \% on input line 1586.
-LaTeX Info: Redefining \. on input line 1586.
-LaTeX Info: Redefining \% on input line 1586.
- [54]
-LaTeX Info: Redefining \. on input line 1586.
-LaTeX Info: Redefining \% on input line 1586.
-LaTeX Info: Redefining \. on input line 1586.
-LaTeX Info: Redefining \% on input line 1586.
- [55]
-LaTeX Info: Redefining \. on input line 1637.
-LaTeX Info: Redefining \% on input line 1637.
-LaTeX Info: Redefining \. on input line 1637.
-LaTeX Info: Redefining \% on input line 1637.
- [56]
-LaTeX Info: Redefining \. on input line 1649.
-LaTeX Info: Redefining \% on input line 1649.
-LaTeX Info: Redefining \. on input line 1649.
-LaTeX Info: Redefining \% on input line 1649.
- [57
-Missing character: There is no ʹ (U+02B9) in font [IBMPlexSansCondensed-Italic.
-otf]:mode=node;script=latn;language=dflt;+tlig;!
-]
-LaTeX Info: Redefining \. on input line 1663.
-LaTeX Info: Redefining \% on input line 1663.
-LaTeX Info: Redefining \. on input line 1663.
-LaTeX Info: Redefining \% on input line 1663.
- [58]
-LaTeX Info: Redefining \. on input line 1671.
-LaTeX Info: Redefining \% on input line 1671.
-LaTeX Info: Redefining \. on input line 1671.
-LaTeX Info: Redefining \% on input line 1671.
- [59]
-LaTeX Info: Redefining \. on input line 1693.
-LaTeX Info: Redefining \% on input line 1693.
-LaTeX Info: Redefining \. on input line 1693.
-LaTeX Info: Redefining \% on input line 1693.
- [60]
-LaTeX Info: Redefining \. on input line 1707.
-LaTeX Info: Redefining \% on input line 1707.
-LaTeX Info: Redefining \. on input line 1707.
-LaTeX Info: Redefining \% on input line 1707.
- [61]
-LaTeX Info: Redefining \. on input line 1721.
-LaTeX Info: Redefining \% on input line 1721.
-LaTeX Info: Redefining \. on input line 1721.
-LaTeX Info: Redefining \% on input line 1721.
- [62]
-LaTeX Info: Redefining \. on input line 1734.
-LaTeX Info: Redefining \% on input line 1734.
-LaTeX Info: Redefining \. on input line 1734.
-LaTeX Info: Redefining \% on input line 1734.
- [63]
-LaTeX Info: Redefining \. on input line 1752.
-LaTeX Info: Redefining \% on input line 1752.
-LaTeX Info: Redefining \. on input line 1752.
-LaTeX Info: Redefining \% on input line 1752.
- [64]
-LaTeX Info: Redefining \. on input line 1767.
-LaTeX Info: Redefining \% on input line 1767.
-LaTeX Info: Redefining \. on input line 1767.
-LaTeX Info: Redefining \% on input line 1767.
- [65]
-LaTeX Info: Redefining \. on input line 1786.
-LaTeX Info: Redefining \% on input line 1786.
-LaTeX Info: Redefining \. on input line 1786.
-LaTeX Info: Redefining \% on input line 1786.
- [66]
-LaTeX Info: Redefining \. on input line 1798.
-LaTeX Info: Redefining \% on input line 1798.
-LaTeX Info: Redefining \. on input line 1798.
-LaTeX Info: Redefining \% on input line 1798.
- [67]
-LaTeX Info: Redefining \. on input line 1811.
-LaTeX Info: Redefining \% on input line 1811.
-LaTeX Info: Redefining \. on input line 1811.
-LaTeX Info: Redefining \% on input line 1811.
- [68]
-LaTeX Info: Redefining \. on input line 1830.
-LaTeX Info: Redefining \% on input line 1830.
-LaTeX Info: Redefining \. on input line 1830.
-LaTeX Info: Redefining \% on input line 1830.
- [69]
-LaTeX Info: Redefining \. on input line 1845.
-LaTeX Info: Redefining \% on input line 1845.
-LaTeX Info: Redefining \. on input line 1845.
-LaTeX Info: Redefining \% on input line 1845.
- [70]
-LaTeX Info: Redefining \. on input line 1863.
-LaTeX Info: Redefining \% on input line 1863.
-LaTeX Info: Redefining \. on input line 1863.
-LaTeX Info: Redefining \% on input line 1863.
- [71]
-LaTeX Info: Redefining \. on input line 1877.
-LaTeX Info: Redefining \% on input line 1877.
-LaTeX Info: Redefining \. on input line 1877.
-LaTeX Info: Redefining \% on input line 1877.
-
-[72]
-LaTeX Info: Redefining \. on input line 1893.
-LaTeX Info: Redefining \% on input line 1893.
-LaTeX Info: Redefining \. on input line 1893.
-LaTeX Info: Redefining \% on input line 1893.
- [73]
-LaTeX Info: Redefining \. on input line 1903.
-LaTeX Info: Redefining \% on input line 1903.
-LaTeX Info: Redefining \. on input line 1903.
-LaTeX Info: Redefining \% on input line 1903.
- [74]
-LaTeX Info: Redefining \. on input line 1914.
-LaTeX Info: Redefining \% on input line 1914.
-LaTeX Info: Redefining \. on input line 1914.
-LaTeX Info: Redefining \% on input line 1914.
- [75]
-LaTeX Info: Redefining \. on input line 1926.
-LaTeX Info: Redefining \% on input line 1926.
-LaTeX Info: Redefining \. on input line 1926.
-LaTeX Info: Redefining \% on input line 1926.
- [76]
-LaTeX Info: Redefining \. on input line 1937.
-LaTeX Info: Redefining \% on input line 1937.
-LaTeX Info: Redefining \. on input line 1937.
-LaTeX Info: Redefining \% on input line 1937.
- [77]
-LaTeX Info: Redefining \. on input line 1951.
-LaTeX Info: Redefining \% on input line 1951.
-LaTeX Info: Redefining \. on input line 1951.
-LaTeX Info: Redefining \% on input line 1951.
- [78]
-LaTeX Info: Redefining \. on input line 1971.
-LaTeX Info: Redefining \% on input line 1971.
-LaTeX Info: Redefining \. on input line 1971.
-LaTeX Info: Redefining \% on input line 1971.
- [79]
-LaTeX Info: Redefining \. on input line 1983.
-LaTeX Info: Redefining \% on input line 1983.
-LaTeX Info: Redefining \. on input line 1983.
-LaTeX Info: Redefining \% on input line 1983.
- [80]
-LaTeX Info: Redefining \. on input line 1995.
-LaTeX Info: Redefining \% on input line 1995.
-LaTeX Info: Redefining \. on input line 1995.
-LaTeX Info: Redefining \% on input line 1995.
- [81]
-LaTeX Info: Redefining \. on input line 2001.
-LaTeX Info: Redefining \% on input line 2001.
-LaTeX Info: Redefining \. on input line 2001.
-LaTeX Info: Redefining \% on input line 2001.
- [82]
-LaTeX Info: Redefining \. on input line 2007.
-LaTeX Info: Redefining \% on input line 2007.
-LaTeX Info: Redefining \. on input line 2007.
-LaTeX Info: Redefining \% on input line 2007.
- [83]
-LaTeX Info: Redefining \. on input line 2025.
-LaTeX Info: Redefining \% on input line 2025.
-LaTeX Info: Redefining \. on input line 2025.
-LaTeX Info: Redefining \% on input line 2025.
- [84]
-LaTeX Info: Redefining \. on input line 2049.
-LaTeX Info: Redefining \% on input line 2049.
-LaTeX Info: Redefining \. on input line 2049.
-LaTeX Info: Redefining \% on input line 2049.
- [85]
-LaTeX Info: Redefining \. on input line 2067.
-LaTeX Info: Redefining \% on input line 2067.
-LaTeX Info: Redefining \. on input line 2067.
-LaTeX Info: Redefining \% on input line 2067.
- [86]
-LaTeX Info: Redefining \. on input line 2075.
-LaTeX Info: Redefining \% on input line 2075.
-LaTeX Info: Redefining \. on input line 2075.
-LaTeX Info: Redefining \% on input line 2075.
-
-[87]
-LaTeX Info: Redefining \. on input line 2089.
-LaTeX Info: Redefining \% on input line 2089.
-LaTeX Info: Redefining \. on input line 2089.
-LaTeX Info: Redefining \% on input line 2089.
- [88]
-LaTeX Info: Redefining \. on input line 2110.
-LaTeX Info: Redefining \% on input line 2110.
-LaTeX Info: Redefining \. on input line 2110.
-LaTeX Info: Redefining \% on input line 2110.
- [89]
-LaTeX Info: Redefining \. on input line 2121.
-LaTeX Info: Redefining \% on input line 2121.
-LaTeX Info: Redefining \. on input line 2121.
-LaTeX Info: Redefining \% on input line 2121.
- [90]
-LaTeX Info: Redefining \. on input line 2133.
-LaTeX Info: Redefining \% on input line 2133.
-LaTeX Info: Redefining \. on input line 2133.
-LaTeX Info: Redefining \% on input line 2133.
- [91]
-LaTeX Info: Redefining \. on input line 2148.
-LaTeX Info: Redefining \% on input line 2148.
-LaTeX Info: Redefining \. on input line 2148.
-LaTeX Info: Redefining \% on input line 2148.
- [92]
-LaTeX Info: Redefining \. on input line 2157.
-LaTeX Info: Redefining \% on input line 2157.
-LaTeX Info: Redefining \. on input line 2157.
-LaTeX Info: Redefining \% on input line 2157.
- [93]
-LaTeX Info: Redefining \. on input line 2168.
-LaTeX Info: Redefining \% on input line 2168.
-LaTeX Info: Redefining \. on input line 2168.
-LaTeX Info: Redefining \% on input line 2168.
- [94]
-LaTeX Info: Redefining \. on input line 2181.
-LaTeX Info: Redefining \% on input line 2181.
-LaTeX Info: Redefining \. on input line 2181.
-LaTeX Info: Redefining \% on input line 2181.
- [95]
-LaTeX Info: Redefining \. on input line 2192.
-LaTeX Info: Redefining \% on input line 2192.
-LaTeX Info: Redefining \. on input line 2192.
-LaTeX Info: Redefining \% on input line 2192.
- [96]
-LaTeX Info: Redefining \. on input line 2205.
-LaTeX Info: Redefining \% on input line 2205.
-LaTeX Info: Redefining \. on input line 2205.
-LaTeX Info: Redefining \% on input line 2205.
- [97]
-LaTeX Info: Redefining \. on input line 2211.
-LaTeX Info: Redefining \% on input line 2211.
-LaTeX Info: Redefining \. on input line 2211.
-LaTeX Info: Redefining \% on input line 2211.
- [98]
-LaTeX Info: Redefining \. on input line 2211.
-LaTeX Info: Redefining \% on input line 2211.
-LaTeX Info: Redefining \. on input line 2211.
-LaTeX Info: Redefining \% on input line 2211.
- [99]
-LaTeX Info: Redefining \. on input line 2225.
-LaTeX Info: Redefining \% on input line 2225.
-LaTeX Info: Redefining \. on input line 2225.
-LaTeX Info: Redefining \% on input line 2225.
- [100]
-LaTeX Info: Redefining \. on input line 2238.
-LaTeX Info: Redefining \% on input line 2238.
-LaTeX Info: Redefining \. on input line 2238.
-LaTeX Info: Redefining \% on input line 2238.
- [101]
-LaTeX Info: Redefining \. on input line 2251.
-LaTeX Info: Redefining \% on input line 2251.
-LaTeX Info: Redefining \. on input line 2251.
-LaTeX Info: Redefining \% on input line 2251.
-
-[102]
-LaTeX Info: Redefining \. on input line 2263.
-LaTeX Info: Redefining \% on input line 2263.
-LaTeX Info: Redefining \. on input line 2263.
-LaTeX Info: Redefining \% on input line 2263.
- [103]
-LaTeX Info: Redefining \. on input line 2284.
-LaTeX Info: Redefining \% on input line 2284.
-LaTeX Info: Redefining \. on input line 2284.
-LaTeX Info: Redefining \% on input line 2284.
- [104]
-LaTeX Info: Redefining \. on input line 2304.
-LaTeX Info: Redefining \% on input line 2304.
-LaTeX Info: Redefining \. on input line 2304.
-LaTeX Info: Redefining \% on input line 2304.
- [105]
-LaTeX Info: Redefining \. on input line 2313.
-LaTeX Info: Redefining \% on input line 2313.
-LaTeX Info: Redefining \. on input line 2313.
-LaTeX Info: Redefining \% on input line 2313.
- [106]
-LaTeX Info: Redefining \. on input line 2325.
-LaTeX Info: Redefining \% on input line 2325.
-LaTeX Info: Redefining \. on input line 2325.
-LaTeX Info: Redefining \% on input line 2325.
- [107]
-LaTeX Info: Redefining \. on input line 2343.
-LaTeX Info: Redefining \% on input line 2343.
-LaTeX Info: Redefining \. on input line 2343.
-LaTeX Info: Redefining \% on input line 2343.
- [108]
-LaTeX Info: Redefining \. on input line 2355.
-LaTeX Info: Redefining \% on input line 2355.
-LaTeX Info: Redefining \. on input line 2355.
-LaTeX Info: Redefining \% on input line 2355.
- [109]
-LaTeX Info: Redefining \. on input line 2377.
-LaTeX Info: Redefining \% on input line 2377.
-LaTeX Info: Redefining \. on input line 2377.
-LaTeX Info: Redefining \% on input line 2377.
- [110]
-LaTeX Info: Redefining \. on input line 2392.
-LaTeX Info: Redefining \% on input line 2392.
-LaTeX Info: Redefining \. on input line 2392.
-LaTeX Info: Redefining \% on input line 2392.
- [111]
-LaTeX Info: Redefining \. on input line 2403.
-LaTeX Info: Redefining \% on input line 2403.
-LaTeX Info: Redefining \. on input line 2403.
-LaTeX Info: Redefining \% on input line 2403.
- [112]
-LaTeX Info: Redefining \. on input line 2417.
-LaTeX Info: Redefining \% on input line 2417.
-LaTeX Info: Redefining \. on input line 2417.
-LaTeX Info: Redefining \% on input line 2417.
- [113]
-LaTeX Info: Redefining \. on input line 2433.
-LaTeX Info: Redefining \% on input line 2433.
-LaTeX Info: Redefining \. on input line 2433.
-LaTeX Info: Redefining \% on input line 2433.
-
-[114]
-LaTeX Info: Redefining \. on input line 2451.
-LaTeX Info: Redefining \% on input line 2451.
-LaTeX Info: Redefining \. on input line 2451.
-LaTeX Info: Redefining \% on input line 2451.
- [115]
-LaTeX Info: Redefining \. on input line 2463.
-LaTeX Info: Redefining \% on input line 2463.
-LaTeX Info: Redefining \. on input line 2463.
-LaTeX Info: Redefining \% on input line 2463.
- [116]
-LaTeX Info: Redefining \. on input line 2469.
-LaTeX Info: Redefining \% on input line 2469.
-LaTeX Info: Redefining \. on input line 2469.
-LaTeX Info: Redefining \% on input line 2469.
- [117]
-LaTeX Info: Redefining \. on input line 2483.
-LaTeX Info: Redefining \% on input line 2483.
-LaTeX Info: Redefining \. on input line 2483.
-LaTeX Info: Redefining \% on input line 2483.
- [118]
-LaTeX Info: Redefining \. on input line 2500.
-LaTeX Info: Redefining \% on input line 2500.
-LaTeX Info: Redefining \. on input line 2500.
-LaTeX Info: Redefining \% on input line 2500.
- [119]
-LaTeX Info: Redefining \. on input line 2515.
-LaTeX Info: Redefining \% on input line 2515.
-LaTeX Info: Redefining \. on input line 2515.
-LaTeX Info: Redefining \% on input line 2515.
- [120]
-LaTeX Info: Redefining \. on input line 2527.
-LaTeX Info: Redefining \% on input line 2527.
-LaTeX Info: Redefining \. on input line 2527.
-LaTeX Info: Redefining \% on input line 2527.
- [121]
-LaTeX Info: Redefining \. on input line 2533.
-LaTeX Info: Redefining \% on input line 2533.
-LaTeX Info: Redefining \. on input line 2533.
-LaTeX Info: Redefining \% on input line 2533.
- [122]
-LaTeX Info: Redefining \. on input line 2546.
-LaTeX Info: Redefining \% on input line 2546.
-LaTeX Info: Redefining \. on input line 2546.
-LaTeX Info: Redefining \% on input line 2546.
- [123]
-LaTeX Info: Redefining \. on input line 2563.
-LaTeX Info: Redefining \% on input line 2563.
-LaTeX Info: Redefining \. on input line 2563.
-LaTeX Info: Redefining \% on input line 2563.
- [124]
-LaTeX Info: Redefining \. on input line 2579.
-LaTeX Info: Redefining \% on input line 2579.
-LaTeX Info: Redefining \. on input line 2579.
-LaTeX Info: Redefining \% on input line 2579.
- [125]
-LaTeX Info: Redefining \. on input line 2591.
-LaTeX Info: Redefining \% on input line 2591.
-LaTeX Info: Redefining \. on input line 2591.
-LaTeX Info: Redefining \% on input line 2591.
-
-[126]
-LaTeX Info: Redefining \. on input line 2612.
-LaTeX Info: Redefining \% on input line 2612.
-LaTeX Info: Redefining \. on input line 2612.
-LaTeX Info: Redefining \% on input line 2612.
- [127]
-LaTeX Info: Redefining \. on input line 2629.
-LaTeX Info: Redefining \% on input line 2629.
-LaTeX Info: Redefining \. on input line 2629.
-LaTeX Info: Redefining \% on input line 2629.
- [128]
-LaTeX Info: Redefining \. on input line 2641.
-LaTeX Info: Redefining \% on input line 2641.
-LaTeX Info: Redefining \. on input line 2641.
-LaTeX Info: Redefining \% on input line 2641.
- [129]
-LaTeX Info: Redefining \. on input line 2658.
-LaTeX Info: Redefining \% on input line 2658.
-LaTeX Info: Redefining \. on input line 2658.
-LaTeX Info: Redefining \% on input line 2658.
- [130]
-LaTeX Info: Redefining \. on input line 2673.
-LaTeX Info: Redefining \% on input line 2673.
-LaTeX Info: Redefining \. on input line 2673.
-LaTeX Info: Redefining \% on input line 2673.
- [131]
-LaTeX Info: Redefining \. on input line 2676.
-LaTeX Info: Redefining \% on input line 2676.
-LaTeX Info: Redefining \. on input line 2676.
-LaTeX Info: Redefining \% on input line 2676.
- [132]
-LaTeX Info: Redefining \. on input line 2684.
-LaTeX Info: Redefining \% on input line 2684.
-LaTeX Info: Redefining \. on input line 2684.
-LaTeX Info: Redefining \% on input line 2684.
- [133]
-LaTeX Info: Redefining \. on input line 2697.
-LaTeX Info: Redefining \% on input line 2697.
-LaTeX Info: Redefining \. on input line 2697.
-LaTeX Info: Redefining \% on input line 2697.
- [134]
-LaTeX Info: Redefining \. on input line 2707.
-LaTeX Info: Redefining \% on input line 2707.
-LaTeX Info: Redefining \. on input line 2707.
-LaTeX Info: Redefining \% on input line 2707.
- [135]
-LaTeX Info: Redefining \. on input line 2715.
-LaTeX Info: Redefining \% on input line 2715.
-LaTeX Info: Redefining \. on input line 2715.
-LaTeX Info: Redefining \% on input line 2715.
- [136]
-LaTeX Info: Redefining \. on input line 2721.
-LaTeX Info: Redefining \% on input line 2721.
-LaTeX Info: Redefining \. on input line 2721.
-LaTeX Info: Redefining \% on input line 2721.
- [137]
-LaTeX Info: Redefining \. on input line 2737.
-LaTeX Info: Redefining \% on input line 2737.
-LaTeX Info: Redefining \. on input line 2737.
-LaTeX Info: Redefining \% on input line 2737.
-
-[138]
-LaTeX Info: Redefining \. on input line 2747.
-LaTeX Info: Redefining \% on input line 2747.
-LaTeX Info: Redefining \. on input line 2747.
-LaTeX Info: Redefining \% on input line 2747.
- [139]
-LaTeX Info: Redefining \. on input line 2759.
-LaTeX Info: Redefining \% on input line 2759.
-LaTeX Info: Redefining \. on input line 2759.
-LaTeX Info: Redefining \% on input line 2759.
- [140]
-LaTeX Info: Redefining \. on input line 2775.
-LaTeX Info: Redefining \% on input line 2775.
-LaTeX Info: Redefining \. on input line 2775.
-LaTeX Info: Redefining \% on input line 2775.
- [141]
-LaTeX Info: Redefining \. on input line 2783.
-LaTeX Info: Redefining \% on input line 2783.
-LaTeX Info: Redefining \. on input line 2783.
-LaTeX Info: Redefining \% on input line 2783.
- [142]
-LaTeX Info: Redefining \. on input line 2789.
-LaTeX Info: Redefining \% on input line 2789.
-LaTeX Info: Redefining \. on input line 2789.
-LaTeX Info: Redefining \% on input line 2789.
- [143]
-LaTeX Info: Redefining \. on input line 2799.
-LaTeX Info: Redefining \% on input line 2799.
-LaTeX Info: Redefining \. on input line 2799.
-LaTeX Info: Redefining \% on input line 2799.
- [144]
-LaTeX Info: Redefining \. on input line 2811.
-LaTeX Info: Redefining \% on input line 2811.
-LaTeX Info: Redefining \. on input line 2811.
-LaTeX Info: Redefining \% on input line 2811.
- [145]
-LaTeX Info: Redefining \. on input line 2824.
-LaTeX Info: Redefining \% on input line 2824.
-LaTeX Info: Redefining \. on input line 2824.
-LaTeX Info: Redefining \% on input line 2824.
- [146]
-LaTeX Info: Redefining \. on input line 2837.
-LaTeX Info: Redefining \% on input line 2837.
-LaTeX Info: Redefining \. on input line 2837.
-LaTeX Info: Redefining \% on input line 2837.
- [147]
-LaTeX Info: Redefining \. on input line 2847.
-LaTeX Info: Redefining \% on input line 2847.
-LaTeX Info: Redefining \. on input line 2847.
-LaTeX Info: Redefining \% on input line 2847.
- [148]
-LaTeX Info: Redefining \. on input line 2865.
-LaTeX Info: Redefining \% on input line 2865.
-LaTeX Info: Redefining \. on input line 2865.
-LaTeX Info: Redefining \% on input line 2865.
- [149]
-LaTeX Info: Redefining \. on input line 2877.
-LaTeX Info: Redefining \% on input line 2877.
-LaTeX Info: Redefining \. on input line 2877.
-LaTeX Info: Redefining \% on input line 2877.
-
-[150]
-LaTeX Info: Redefining \. on input line 2891.
-LaTeX Info: Redefining \% on input line 2891.
-LaTeX Info: Redefining \. on input line 2891.
-LaTeX Info: Redefining \% on input line 2891.
- [151]
-LaTeX Info: Redefining \. on input line 2902.
-LaTeX Info: Redefining \% on input line 2902.
-LaTeX Info: Redefining \. on input line 2902.
-LaTeX Info: Redefining \% on input line 2902.
- [152]
-LaTeX Info: Redefining \. on input line 2911.
-LaTeX Info: Redefining \% on input line 2911.
-LaTeX Info: Redefining \. on input line 2911.
-LaTeX Info: Redefining \% on input line 2911.
- [153]
-LaTeX Info: Redefining \. on input line 2918.
-LaTeX Info: Redefining \% on input line 2918.
-LaTeX Info: Redefining \. on input line 2918.
-LaTeX Info: Redefining \% on input line 2918.
- [154]
-LaTeX Info: Redefining \. on input line 2936.
-LaTeX Info: Redefining \% on input line 2936.
-LaTeX Info: Redefining \. on input line 2936.
-LaTeX Info: Redefining \% on input line 2936.
- [155]
-LaTeX Info: Redefining \. on input line 2954.
-LaTeX Info: Redefining \% on input line 2954.
-LaTeX Info: Redefining \. on input line 2954.
-LaTeX Info: Redefining \% on input line 2954.
- [156]
-LaTeX Info: Redefining \. on input line 2967.
-LaTeX Info: Redefining \% on input line 2967.
-LaTeX Info: Redefining \. on input line 2967.
-LaTeX Info: Redefining \% on input line 2967.
- [157]
-LaTeX Info: Redefining \. on input line 2980.
-LaTeX Info: Redefining \% on input line 2980.
-LaTeX Info: Redefining \. on input line 2980.
-LaTeX Info: Redefining \% on input line 2980.
- [158]
-LaTeX Info: Redefining \. on input line 2994.
-LaTeX Info: Redefining \% on input line 2994.
-LaTeX Info: Redefining \. on input line 2994.
-LaTeX Info: Redefining \% on input line 2994.
- [159]
-LaTeX Info: Redefining \. on input line 3018.
-LaTeX Info: Redefining \% on input line 3018.
-LaTeX Info: Redefining \. on input line 3018.
-LaTeX Info: Redefining \% on input line 3018.
- [160]
-LaTeX Info: Redefining \. on input line 3046.
-LaTeX Info: Redefining \% on input line 3046.
-LaTeX Info: Redefining \. on input line 3046.
-LaTeX Info: Redefining \% on input line 3046.
- [161]
-LaTeX Info: Redefining \. on input line 3086.
-LaTeX Info: Redefining \% on input line 3086.
-LaTeX Info: Redefining \. on input line 3086.
-LaTeX Info: Redefining \% on input line 3086.
-
-[162]
-LaTeX Info: Redefining \. on input line 3116.
-LaTeX Info: Redefining \% on input line 3116.
-LaTeX Info: Redefining \. on input line 3116.
-LaTeX Info: Redefining \% on input line 3116.
- [163]
-LaTeX Info: Redefining \. on input line 3156.
-LaTeX Info: Redefining \% on input line 3156.
-LaTeX Info: Redefining \. on input line 3156.
-LaTeX Info: Redefining \% on input line 3156.
- [164]
-LaTeX Info: Redefining \. on input line 3189.
-LaTeX Info: Redefining \% on input line 3189.
-LaTeX Info: Redefining \. on input line 3189.
-LaTeX Info: Redefining \% on input line 3189.
- [165]
-LaTeX Info: Redefining \. on input line 3223.
-LaTeX Info: Redefining \% on input line 3223.
-LaTeX Info: Redefining \. on input line 3223.
-LaTeX Info: Redefining \% on input line 3223.
- [166] 
-AED: pageslts setting LastPage 
-LaTeX Info: Redefining \. on input line 3242.
-LaTeX Info: Redefining \% on input line 3242.
-LaTeX Info: Redefining \. on input line 3242.
-LaTeX Info: Redefining \% on input line 3242.
-[167]
-
-Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
- found. (Remove \makenoidxglossaries if you don't want any glossaries.)
-This document will not have a glossary.
-
-\c@pagesLTS.roman.1.local.count=\count608
-
-AED: pageslts setting VeryLastPage via AfterLastShipout 
-
-AED: pageslts setting LastPages via AfterLastShipout 
-
-
-Package pageslts Info: Total number of pages is odd.
-
-
-(./pdf-20250629MAURO.aux
-LaTeX Info: Redefining \sptext on input line 20.
-LaTeX Info: Redefining \. on input line 20.
-LaTeX Info: Redefining \% on input line 20.
-)
- ***********
-LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-01-22>
- ***********
-Package rerunfilecheck Info: File `pdf-20250629MAURO.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package logreq Info: Writing requests to 'pdf-20250629MAURO.run.xml'.
-
-\openout1 = pdf-20250629MAURO.run.xml
-)
 
 Here is how much of LuaTeX's memory you used:
- 65869 strings out of 476553
- 6947464,2848258 words of node,token memory allocated
- 5920750 words of node memory still in use:
-   12840 hlist, 24 vlist, 4191 rule, 176 ins, 79548 disc, 5223 local_par, 314 ma
-th, 94820 glue, 59503 kern, 10591 penalty, 798 margin_kern, 507844 glyph, 101558
- attribute, 10470 glue_spec, 14520 attribute_list, 3 write, 24 pdf_literal, 372 
-pdf_start_link, 386 pdf_end_link, 344 pdf_dest, 240 pdf_action, 3203 pdf_colorst
-ack nodes
-   avail lists: 1:11,2:236,3:142,4:1219,5:204,6:22,7:3446,8:136,9:128,10:33,11:4
-14
- 85878 multiletter control sequences out of 65536+600000
- 104 fonts using 29612443 bytes
- 117i,9n,123p,5811b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-warning  (pdf backend): unreferenced destination with name '_bookmark8'
-</usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
-Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
-lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/pl
-ex/IBMPlexSansCondensed-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentyp
-e/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share/texlive/texmf-d
-ist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Regular.otf></usr/sha
-re/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bol
-d.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondense
-d-SemiBold.otf>
-Output written on pdf-20250629MAURO.pdf (167 pages, 622625 bytes).
-
-PDF statistics: 1355 PDF objects out of 1440 (max. 8388607)
- 1129 compressed objects within 12 object streams
- 372 named destinations out of 1000 (max. 131072)
- 256 words of extra memory for PDF output out of 10000 (max. 100000000)
-
+ 63061 strings out of 476553
+ 125124,2848258 words of node,token memory allocated 2597 words of node memory still in use:
+   30 hlist, 1 vlist, 14 rule, 1 dir, 4 kern, 1 penalty, 3 glyph, 500 attribute,
+ 143 glue_spec, 85 attribute_list, 1 if_stack, 6 write, 24 pdf_literal, 25 pdf_c
+olorstack nodes
+   avail lists: 1:1,2:20,3:1,4:2,5:4,7:8,8:2,9:1
+ 83553 multiletter control sequences out of 65536+600000
+ 70 fonts using 17334983 bytes
+ 117i,1n,123p,2363b,286s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
