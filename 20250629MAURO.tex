@@ -9,6 +9,11 @@
 \usepackage{longtable}
 \usepackage{caption}
 \usepackage{hyperref}
+\usepackage{array}      % para >{\ragged...}p{...}
+\usepackage{multirow}   % para \multirow (encabezado)
+\usepackage{booktabs}   % <-- define \toprule, \midrule, \cmidrule, \bottomrule
+\usepackage{soul}
+
 
 \begin{document}
 \frontmatter
@@ -147,8 +152,7 @@ INDICE
 
 \protect\hyperlink{bibliografuxeda}{BIBLIOGRAFÍA \protect\hyperlink{bibliografuxeda}{147}}
 
-\hl{\hfill\break
-}
+
 
 AGRADECIMIENTOS
 
@@ -160,8 +164,7 @@ A Martín Güelman por su paciencia y dedicación en la corrección de los avanc
 
 A Esther Jodice, por haberme acompañado en lo mejor de mi vida
 
-\hl{\hfill\break
-}
+
 
 \hypertarget{pre-texto}{%
 \section{Pre texto}\label{pre-texto}}
@@ -301,58 +304,34 @@ Los datos del \textbf{Cuadro 1} muestran con claridad el cambio de destino de la
 
 \textbf{Cuadro 1: Evolución de la distribución de la inversión publicitaria por medio entre 2010 y 2018 en Argentina}
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.2064}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0881}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0882}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0881}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0882}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0881}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0882}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0881}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0882}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.0882}}@{}}
-\toprule\noalign{}
-\multirow{2}{*}{\begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Medio}
-\end{minipage}} & \multicolumn{9}{>{\raggedright\arraybackslash}p{(\columnwidth - 18\tabcolsep) * \real{0.7936} + 16\tabcolsep}@{}}{%
-\begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Inversión publicitaria según medios, en \%}
-\end{minipage}} \\
-& \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2010}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2011}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2012}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2013}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2014}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2015}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2016}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-\textbf{2017}
-\end{quote}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\begin{quote}
-\textbf{2018}
-\end{quote}
-\end{minipage} \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-\textbf{Televisión abierta y cable} & \textbf{47,7} & \textbf{44,4} & \textbf{45} & \textbf{46,9} & \textbf{39,5} & \textbf{38,6} & \textbf{39} & \textbf{41} & \textbf{41} \\
-\textbf{Radios en AMBA e interior} & \textbf{3,2} & \textbf{3,2} & \textbf{3,7} & \textbf{4,0} & \textbf{4,6} & \textbf{5} & \textbf{8} & \textbf{8} & \textbf{8} \\
-\textbf{Diarios en AMBA e interior} & \textbf{34} & \textbf{35} & \textbf{34} & \textbf{31} & \textbf{25} & \textbf{22} & \textbf{21} & \textbf{16} & \textbf{15} \\
-\textbf{Revistas} & \textbf{4,7} & \textbf{4,8} & \textbf{4,6} & \textbf{4,2} & \textbf{3,1} & \textbf{3} & \textbf{3} & \textbf{2} & \textbf{2} \\
-\textbf{Vía pública} & \textbf{5,5} & \textbf{5,2} & \textbf{4,3} & \textbf{4,3} & \textbf{4.5} & \textbf{5} & \textbf{5} & \textbf{5} & \textbf{7} \\
-\textbf{Cine} & \textbf{1,3} & \textbf{1,2} & \textbf{1,3} & \textbf{1,3} & \textbf{1,2} & \textbf{1} & \textbf{1} & \textbf{1} & \textbf{1} \\
-\textbf{Internet} & \textbf{4,3} & \textbf{6,1} & \textbf{7,4} & \textbf{8,0} & \textbf{16} & \textbf{20} & \textbf{20} & \textbf{24} & \textbf{25} \\
+\begin{longtable}{@{}
+		>{\raggedright\arraybackslash}p{0.206\linewidth}  % Medio
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}   % 2010
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}   % 2011
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}   % 2012
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}   % 2013
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}   % 2014
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}   % 2015
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}   % 2016
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}   % 2017
+		>{\raggedleft\arraybackslash}p{0.088\linewidth}@{}} % 2018
+	\toprule
+	\multirow{2}{*}{\textbf{Medio}} &
+	\multicolumn{9}{c}{\textbf{Inversión publicitaria por medio (\%)}} \\*[-0.3em]
+	\cmidrule(l){2-10}
+	& \textbf{2010} & \textbf{2011} & \textbf{2012} & \textbf{2013} &
+	\textbf{2014} & \textbf{2015} & \textbf{2016} & \textbf{2017} & \textbf{2018} \\
+	\midrule
+	\endhead
+	%------------------------------------------------------------------
+	\textbf{Televisión abierta y cable}     & \textbf{47,7} & \textbf{44,4} & \textbf{45}   & \textbf{46,9} & \textbf{39,5} & \textbf{38,6} & \textbf{39} & \textbf{41} & \textbf{41} \\
+	\textbf{Radios (AMBA e interior)}       & \textbf{3,2}  & \textbf{3,2}  & \textbf{3,7}  & \textbf{4,0}  & \textbf{4,6}  & \textbf{5}    & \textbf{8}   & \textbf{8}  & \textbf{8}  \\
+	\textbf{Diarios (AMBA e interior)}      & \textbf{34}   & \textbf{35}   & \textbf{34}   & \textbf{31}   & \textbf{25}   & \textbf{22}   & \textbf{21}  & \textbf{16} & \textbf{15} \\
+	\textbf{Revistas}                       & \textbf{4,7}  & \textbf{4,8}  & \textbf{4,6}  & \textbf{4,2}  & \textbf{3,1}  & \textbf{3}    & \textbf{3}   & \textbf{2}  & \textbf{2}  \\
+	\textbf{Vía pública}                    & \textbf{5,5}  & \textbf{5,2}  & \textbf{4,3}  & \textbf{4,3}  & \textbf{4,5}  & \textbf{5}    & \textbf{5}   & \textbf{5}  & \textbf{7}  \\
+	\textbf{Cine}                           & \textbf{1,3}  & \textbf{1,2}  & \textbf{1,3}  & \textbf{1,3}  & \textbf{1,2}  & \textbf{1}    & \textbf{1}   & \textbf{1}  & \textbf{1}  \\
+	\textbf{Internet}                       & \textbf{4,3}  & \textbf{6,1}  & \textbf{7,4}  & \textbf{8,0}  & \textbf{16}   & \textbf{20}   & \textbf{20}  & \textbf{24} & \textbf{25} \\
+	\bottomrule
 \end{longtable}
 
 \ul{Fuente}: Cámara Argentina de Agencias de Medios
@@ -363,120 +342,69 @@ En la actualidad, la venta de diarios en Argentina ronda los 200 millones de eje
 
 \textbf{Cuadro 2: Circulación neta promedio de los principales diarios del AMBA (en miles)}\footnote{Fuente: Elaboración propia según datos del IVC. Se consideró el promedio semanal de lunes a domingo durante el mes de mayo de cada año.}
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.1507}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0749}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0749}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0749}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0749}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0747}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0747}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0747}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0747}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0747}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.0747}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{0.1014}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Circulación diarios pagos}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2010}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2011}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2012}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2013}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2014}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2015}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2016}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2017}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2018}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2019}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Dif.}
-
-\textbf{2010/}
-
-\textbf{2019}
-\end{minipage} \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-Clarín & 301 & 288 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & \textbf{-33} \\
-La Nación & 150 & 160 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100 & \textbf{-37} \\
-Diario Popular & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & \textbf{-48} \\
-\multicolumn{12}{@{}>{\raggedright\arraybackslash}p{(\columnwidth - 22\tabcolsep) * \real{1.0000} + 22\tabcolsep}@{}}{%
-} \\
+%––––– Tabla –––––––––––––––––––––––––––––––––––––––––––––
+\begin{longtable}{@{}
+		>{\raggedright\arraybackslash}p{0.160\linewidth}   % Medio
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2010
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2011
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2012
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2013
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2014
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2015
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2016
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2017
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2018
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}    % 2019
+		>{\raggedleft\arraybackslash}p{0.105\linewidth}@{}}% Dif.
+	\toprule
+	\textbf{Circulación diarios pagos} &
+	\textbf{2010} & \textbf{2011} & \textbf{2012} & \textbf{2013} &
+	\textbf{2014} & \textbf{2015} & \textbf{2016} & \textbf{2017} &
+	\textbf{2018} & \textbf{2019} &
+	\shortstack{\textbf{Dif.}\\\textbf{2010/2019}} \\
+	\midrule
+	\endhead
+	Clarín            & 301 & 288 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & \textbf{–33} \\
+	La Nación         & 150 & 160 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100 & \textbf{–37} \\
+	Diario Popular    &  90 &  91 &  89 &  88 &  82 &  84 &  78 &  69 &  62 &  51 & \textbf{–48} \\
+	\bottomrule
 \end{longtable}
 
 \textbf{Cuadro 3: Ranking de circulación de diarios. Día domingo, promedio mes de mayo. Primeros 10 títulos (en miles), 2010-2019}\footnote{Elaboración propia con datos del IVC.}
 
-\begin{longtable}[]{@{}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0888}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.1097}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0727}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0727}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0727}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0728}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0727}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0727}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0728}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0727}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0727}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0728}}
-  >{\raggedright\arraybackslash}p{(\columnwidth - 24\tabcolsep) * \real{0.0741}}@{}}
-\toprule\noalign{}
-\begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Diario}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Localidad}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2010}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2011}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2012}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2013}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2014}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2015}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2016}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2017}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2018}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{2019}
-\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
-\textbf{Dif.}
-
-\textbf{2010/2019}
-\end{minipage} \\
-\midrule\noalign{}
-\endhead
-\bottomrule\noalign{}
-\endlastfoot
-Clarín & AMBA & 664 & 591 & 599 & 570 & 513 & 508 & 487 & 446. & 388 & 396 & -40 \\
-La Nación & AMBA & 280 & 332 & 360 & 331 & 323. & 320 & 302 & 288 & 209 & 201 & -28 \\
-Diario Popular & AMBA & 147 & 131 & 135 & 131 & 120 & 118 & 106 & 95 & 85 & 73 & -50 \\
-La Voz del Int. & Córdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 & 53 & -46 \\
-Los Andes & Mendoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 & -48 \\
-La Capital & Rosario & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 & -63 \\
-La Gaceta & Tucumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 & -44 \\
-Río Negro & Gral. Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 & 21 & -53 \\
-El Día & La Plata & 40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 & -52 \\
-Diario Uno & Entre Ríos & 36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 & 11 & -69 \\
+\begin{longtable}{@{}
+		>{\raggedright\arraybackslash}p{0.151\linewidth}  % Diario
+		>{\raggedright\arraybackslash}p{0.110\linewidth}  % Localidad
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2010
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2011
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2012
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2013
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2014
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2015
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2016
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2017
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2018
+		>{\raggedleft\arraybackslash}p{0.073\linewidth}   % 2019
+		>{\raggedleft\arraybackslash}p{0.075\linewidth}@{}}% Dif.
+	\toprule
+	\textbf{Diario} & \textbf{Localidad} &
+	\textbf{2010} & \textbf{2011} & \textbf{2012} & \textbf{2013} &
+	\textbf{2014} & \textbf{2015} & \textbf{2016} & \textbf{2017} &
+	\textbf{2018} & \textbf{2019} &
+	\shortstack{\textbf{Dif.}\\\textbf{2010/19}} \\
+	\midrule
+	\endhead
+	Clarín              & AMBA        & 664 & 591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 & 396 & \textbf{–40} \\
+	La Nación           & AMBA        & 280 & 332 & 360 & 331 & 323 & 320 & 302 & 288 & 209 & 201 & \textbf{–28} \\
+	Diario Popular      & AMBA        & 147 & 131 & 135 & 131 & 120 & 118 & 106 &  95 &  85 &  73 & \textbf{–50} \\
+	La Voz del Interior & Córdoba     &  99 &  90 &  90 &  90 &  84 &  81 &  73 &  66 &  59 &  53 & \textbf{–46} \\
+	Los Andes           & Mendoza     &  83 &  78 &  77 &  73 &  68 &  65 &  57 &  52 &  49 &  43 & \textbf{–48} \\
+	La Capital          & Rosario     &  82 &  80 &  76 &  67 &  62 &  56 &  47 &  41 &  36 &  30 & \textbf{–63} \\
+	La Gaceta           & Tucumán     &  61 &  62 &  60 &  56 &  56 &  55 &  49 &  45 &  40 &  34 & \textbf{–44} \\
+	Río Negro           & Gral. Roca  &  45 &  44 &  42 &  36 &  35 &  35 &  32 &  28 &  26 &  21 & \textbf{–53} \\
+	El Día              & La Plata    &  40 &  41 &  39 &  35 &  35 &  33 &  31 &  26 &  23 &  19 & \textbf{–52} \\
+	Diario Uno          & Entre Ríos  &  36 &  38 &  22 &  34 &  30 &  28 &  26 &  26 &  25 &  11 & \textbf{–69} \\
+	\bottomrule
 \end{longtable}
 
 Con respecto a la circulación de diarios pagos, los títulos auditados registraron en general bajas en su circulación. En los últimos 10 años, \emph{Clarín} redujo sus ventas un 33\%, \emph{Diario Popular} el 48\% y \emph{La Nación} el 37\% (ver \textbf{Cuadro 2}).
