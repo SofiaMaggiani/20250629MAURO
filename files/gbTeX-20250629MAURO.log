@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 15:20
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 15:33
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -2498,17 +2498,266 @@ Package siunitx Info: Option "detect-all" has been deprecated in this release.
 (siunitx)             text-family-to-math = true, text-series-to-math = true"
 (siunitx)             as a replacement.
 
+
+(./files/gbTeXglo-20250629MAURO.tex
+
+! Package glossaries Error: description key required in \newglossaryentry for e
+ntry `@glo232-test'.
+
+See the glossaries package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 }
+   
+You haven't specified the entry description
+
+) (./files/gbTeXseparata-20250629MAURO.tex
+\c@PrimPag=\count581
+\script=\write9
+
+\openout9 = separatas.sh
+)
+(/usr/share/texlive/texmf-dist/tex/latex/impnattypo/impnattypo.sty
+Package: impnattypo 2019/03/04 1.5 Typographic utilities inspired by the French
+ Imprimerie Nationale
+Package: impnattypo 
+
+(/usr/share/texlive/texmf-dist/tex/lualatex/luacode/luacode.sty
+Package: luacode 2012/01/23 v1.2a lua-in-tex helpers (mpg)
+\luacode@lines=\toks66
+\luacode@table@soft=\catcodetable18
+)
+Inserting `homeoarchy' in `post_linebreak_filter'.
+Inserting `homoioteleuton' in `post_linebreak_filter'.)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-01-20 v7.01h Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count582
+)
+\@linkdim=\dimen351
+\Hy@linkcounter=\count583
+\Hy@pagecounter=\count584
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-01-20 v7.01h Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count585
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-01-20 v7.01h Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4062.
+Package hyperref Info: Option `unicode' set `true' on input line 4062.
+Package hyperref Info: Hyper figures OFF on input line 4179.
+Package hyperref Info: Link nesting OFF on input line 4184.
+Package hyperref Info: Hyper index ON on input line 4187.
+Package hyperref Info: Plain pages OFF on input line 4194.
+Package hyperref Info: Backreferencing OFF on input line 4199.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4446.
+\c@Hy@tempcnt=\count586
+LaTeX Info: Redefining \url on input line 4784.
+\XeTeXLinkMargin=\dimen352
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+)
+\Fld@menulength=\count587
+\Field@Width=\dimen353
+\Fld@charsize=\dimen354
+Package hyperref Info: Hyper figures OFF on input line 6063.
+Package hyperref Info: Link nesting OFF on input line 6068.
+Package hyperref Info: Hyper index ON on input line 6071.
+Package hyperref Info: backreferencing OFF on input line 6078.
+Package hyperref Info: Link coloring ON on input line 6081.
+Package hyperref Info: Link coloring with OCG OFF on input line 6088.
+Package hyperref Info: PDF/A mode OFF on input line 6093.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count588
+\c@Item=\count589
+\c@Hfootnote=\count590
+)
+Package hyperref Info: Driver (autodetected): hluatex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hluatex.def
+File: hluatex.def 2024-01-20 v7.01h Hyperref driver for luaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\Fld@listcount=\count591
+\c@bookmark@seq@number=\count592
+\Hy@SectionHShift=\skip193
+)
+(/usr/share/texlive/texmf-dist/tex/latex/easyreview/easyReview.sty
+Package: easyReview 2014/06/27 Package for Easy Review on LaTeX documents
+Package: easyReview 2013/12/09 Package for Easy Review on LaTeX documents
+
+(/usr/share/texlive/texmf-dist/tex/generic/soul/soul.sty
+Package: soul 2023-06-14 v3.1 Permit use of UTF-8 characters in soul (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/soul/soul-ori.sty
+Package: soul-ori 2023-06-14 v3.1 letterspacing/underlining (mf)
+\SOUL@word=\toks67
+\SOUL@lasttoken=\toks68
+\SOUL@syllable=\toks69
+\SOUL@cmds=\toks70
+\SOUL@buffer=\toks71
+\SOUL@token=\toks72
+\SOUL@syllgoal=\dimen355
+\SOUL@syllwidth=\dimen356
+\SOUL@charkern=\dimen357
+\SOUL@hyphkern=\dimen358
+\SOUL@dimen=\dimen359
+\SOUL@dimeni=\dimen360
+\SOUL@minus=\count593
+\SOUL@comma=\count594
+\SOUL@apo=\count595
+\SOUL@grave=\count596
+\SOUL@spaceskip=\skip194
+\SOUL@ttwidth=\dimen361
+\SOUL@uldp=\dimen362
+\SOUL@ulht=\dimen363
+))
+(/usr/share/texlive/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2024/01/05 v1.1.7 Todonotes source and documentation.
+Package: todonotes 2024/01/05
+
+(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
+zlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2023-01-15 v3.1.10 (3.1.10)
+)
+\c@@todonotes@numberoftodonotes=\count597
+)
+
+! LaTeX Error: Command \comment already defined.
+               Or name \end... illegal, see p.192 of the manual.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.69 ...comment}[2]{\highlight{#1}\todo[inline]{#2}}
+                                                  %    \end{macrocode}
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+) (/usr/share/texlive/texmf-dist/tex/latex/hyperxmp/hyperxmp.sty
+Package: hyperxmp 2023/09/10 v5.12 Store hyperref metadata in XMP format
+\hyxmp@aep@toks=\toks73
+
+(/usr/share/texlive/texmf-dist/tex/latex/ifmtarg/ifmtarg.sty
+Package: ifmtarg 2018/04/16 v1.2b check for an empty argument
+)
+\@hyxmp@count=\count598
+
+(/usr/share/texlive/texmf-dist/tex/latex/oberdiek/ifdraft.sty
+Package: ifdraft 2016/05/16 v1.4 Detect class options draft and final (HO)
+)
+\hyxmp@cct=\catcodetable19
+)
+(./files/gbTeXmeta-20250629MAURO.tex
+
+! Package kvsetkeys Error: Undefined key `pdfsummary'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 }
+    
+The keyval family of the key `pdfsummary' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package kvsetkeys Error: Undefined key `pdfcountry'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 }
+    
+The keyval family of the key `pdfcountry' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package kvsetkeys Error: Undefined key `pdfcity'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 }
+    
+The keyval family of the key `pdfcity' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! Package kvsetkeys Error: Undefined key `pdfcopyrightstatustype'.
+
+See the kvsetkeys package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.37 }
+    
+The keyval family of the key `pdfcopyrightstatustype' is `Hyp'.
+The setting of the key is ignored because of the error.
+
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Package hyperref Info: Option `unicode' set `true' on input line 37.
+
+Package hyperref Warning: Option `bookmarks' has already been used,
+(hyperref)                setting the option has no effect on input line 37.
+
+Package hyperref Info: Option `pdfdisplaydoctitle' set `true' on input line 37.
+
+Package hyperref Info: Option `pdfnewwindow' set `true' on input line 37.
+)
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
-
-(./pdf-20250629MAURO.aux
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+ (./pdf-20250629MAURO.aux
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 
 <Reading QR code for "https://www.edicionesimagomundi.com/" at level 3-M from a
 ux file.>
-\c@pagesLTS.roman.1.local.cnt=\count581
-\c@pagesLTS.arabic.1.local.cnt=\count582
+\c@pagesLTS.roman.1.local.cnt=\count599
+\c@pagesLTS.arabic.1.local.cnt=\count600
 )
 \openout1 = pdf-20250629MAURO.aux
 
@@ -2527,6 +2776,10 @@ LaTeX Font Info:    ... okay on input line 470.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 470.
 LaTeX Font Info:    ... okay on input line 470.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 470.
+LaTeX Font Info:    ... okay on input line 470.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 470.
+LaTeX Font Info:    ... okay on input line 470.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 470.
 LaTeX Font Info:    ... okay on input line 470.
 
 *geometry* driver: auto-detecting
@@ -2572,9 +2825,7 @@ LaTeX Info: Redefining \microtypecontext on input line 470.
 Package microtype Info: Applying patch `item' on input line 470.
 Package microtype Info: Applying patch `toc' on input line 470.
 Package microtype Info: Applying patch `eqnum' on input line 470.
-
-Package microtype Warning: Unable to apply patch `footnote' on input line 470.
-
+Package microtype Info: Applying patch `footnote' on input line 470.
 Package microtype Info: Applying patch `verbatim' on input line 470.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
@@ -2600,24 +2851,24 @@ LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/b/n on input lin
 e 470.
 
-Package pageslts Warning: Package hyperref NOT detected.
-(pageslts)                pageslts would support hyperref. The page references
-(pageslts)                will NOT be hyperlinked!
-(pageslts)                 on input line 470.
+Package pageslts Warning: Package pdfpages detected.
+(pageslts)                Using hyperref with pdfpages can cause problems. See
+(pageslts)                https://www.ctan.org/pkg/pax
+(pageslts)                for the Pdf Annotations eXtractor, pax.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count583
-\scratchdimen=\dimen351
+\scratchcounter=\count601
+\scratchdimen=\dimen364
 \scratchbox=\box154
-\nofMPsegments=\count584
-\nofMParguments=\count585
-\everyMPshowfont=\toks66
-\MPscratchCnt=\count586
-\MPscratchDim=\dimen352
-\MPnumerator=\count587
-\makeMPintoPDFobject=\count588
-\everyMPtoPDFconversion=\toks67
+\nofMPsegments=\count602
+\nofMParguments=\count603
+\everyMPshowfont=\toks74
+\MPscratchCnt=\count604
+\MPscratchDim=\dimen365
+\MPnumerator=\count605
+\makeMPintoPDFobject=\count606
+\everyMPtoPDFconversion=\toks75
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -2640,6 +2891,7 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: longtable package is loaded.
 
@@ -2647,11 +2899,11 @@ Package caption Info: longtable package is loaded.
 Package: ltcaption 2021/01/08 v1.4c longtable captions (AR)
 )
 Package caption Info: scrextend package is loaded.
-\caption@addmargin@hsize=\dimen353
-\caption@addmargin@linewidth=\dimen354
+\caption@addmargin@hsize=\dimen366
+\caption@addmargin@linewidth=\dimen367
 Package caption Info: supertabular package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count589
+\c@lstlisting=\count607
 Package biblatex Info: Trying to load language 'spanish' -> 'spanish-philosophy
 '...
 Package biblatex Info: ... file 'spanish-philosophy.lbx' found.
@@ -2783,10 +3035,16 @@ lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
 or `french'. on input line 470.
-\c@pagesLTS.pnc.roman=\count590
-\c@pagesLTS.double.roman=\count591
-\c@pagesLTS.current.local.roman=\count592
- (./artcap/inicio-frontmatter.tex [1
+Package hyperref Info: Link coloring ON on input line 470.
+ (./pdf-20250629MAURO.out) (./pdf-20250629MAURO.out)
+\@outlinefile=\write10
+
+\openout10 = pdf-20250629MAURO.out
+\c@pagesLTS.pnc.roman=\count608
+\c@pagesLTS.double.roman=\count609
+\c@pagesLTS.current.local.roman=\count610
+
+(./artcap/inicio-frontmatter.tex [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
@@ -2799,13 +3057,13 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 14.15991pt on input line 31.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 16.99188pt on input line 39.
-<./media/logo-imago-ByW.png, id=55, 85.2786pt x 42.1575pt>
+<./media/logo-imago-ByW.png, id=77, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
 Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
  [5<./media/logo-imago-ByW.png>]
-<./media/desconocido.png, id=60, 85.2786pt x 98.0463pt>
+<./media/desconocido.png, id=84, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
 Package luatex.def Info: ./media/desconocido.png  used on input line 55.
@@ -2846,10 +3104,10 @@ LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 9.69757pt on input line 509.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 11.63708pt on input line 509.
-LaTeX Info: Redefining \. on input line 521.
-LaTeX Info: Redefining \% on input line 521.
-LaTeX Info: Redefining \. on input line 521.
-LaTeX Info: Redefining \% on input line 521.
+LaTeX Info: Redefining \. on input line 520.
+LaTeX Info: Redefining \% on input line 520.
+LaTeX Info: Redefining \. on input line 520.
+LaTeX Info: Redefining \% on input line 520.
  [8]
 LaTeX Info: Redefining \. on input line 540.
 LaTeX Info: Redefining \% on input line 540.
@@ -2861,10 +3119,10 @@ LaTeX Info: Redefining \% on input line 545.
 LaTeX Info: Redefining \. on input line 545.
 LaTeX Info: Redefining \% on input line 545.
  [10]
-\c@pagesLTS.roman.1.local.count=\count593
-\c@pagesLTS.pnc.arabic=\count594
-\c@pagesLTS.double.arabic=\count595
-\c@pagesLTS.current.local.arabic=\count596
+\c@pagesLTS.roman.1.local.count=\count611
+\c@pagesLTS.pnc.arabic=\count612
+\c@pagesLTS.double.arabic=\count613
+\c@pagesLTS.current.local.arabic=\count614
 
 Capítulo 1.
 Package biblatex Info: Resetting trackers on input line 562.
@@ -2943,10 +3201,10 @@ LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 7.75806pt on input line 661.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
 (Font)              scaled to size 10.61993pt on input line 680.
-LaTeX Info: Redefining \. on input line 689.
-LaTeX Info: Redefining \% on input line 689.
-LaTeX Info: Redefining \. on input line 689.
-LaTeX Info: Redefining \% on input line 689.
+LaTeX Info: Redefining \. on input line 688.
+LaTeX Info: Redefining \% on input line 688.
+LaTeX Info: Redefining \. on input line 688.
+LaTeX Info: Redefining \% on input line 688.
  [9]
 
 ! LaTeX Error: Environment tabularx undefined.
@@ -4837,91 +5095,46 @@ LaTeX Info: Redefining \% on input line 817.
 [10]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
 (Font)              scaled to size 9.81033pt on input line 821.
-LaTeX Info: Redefining \. on input line 834.
-LaTeX Info: Redefining \% on input line 834.
-LaTeX Info: Redefining \. on input line 834.
-LaTeX Info: Redefining \% on input line 834.
+LaTeX Info: Redefining \. on input line 832.
+LaTeX Info: Redefining \% on input line 832.
+LaTeX Info: Redefining \. on input line 832.
+LaTeX Info: Redefining \% on input line 832.
  [11]
-LaTeX Info: Redefining \. on input line 845.
-LaTeX Info: Redefining \% on input line 845.
-LaTeX Info: Redefining \. on input line 845.
-LaTeX Info: Redefining \% on input line 845.
+LaTeX Info: Redefining \. on input line 844.
+LaTeX Info: Redefining \% on input line 844.
+LaTeX Info: Redefining \. on input line 844.
+LaTeX Info: Redefining \% on input line 844.
  [12]
-! Undefined control sequence.
-<argument> ...es ~Fuente: Columbia Journalism Review y \href 
-                                                  {http://www.wan-ifra.org/}...
-l.860 ... of Newspapers and News Publishers}~(WAN).}
-                                                  . Actualmente, la producci...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-LaTeX Info: Redefining \. on input line 861.
-LaTeX Info: Redefining \% on input line 861.
-LaTeX Info: Redefining \. on input line 861.
-LaTeX Info: Redefining \% on input line 861.
-[13]
+LaTeX Info: Redefining \. on input line 858.
+LaTeX Info: Redefining \% on input line 858.
+LaTeX Info: Redefining \. on input line 858.
+LaTeX Info: Redefining \% on input line 858.
+ [13]
 LaTeX Info: Redefining \. on input line 867.
 LaTeX Info: Redefining \% on input line 867.
 LaTeX Info: Redefining \. on input line 867.
 LaTeX Info: Redefining \% on input line 867.
  [14]
-LaTeX Info: Redefining \. on input line 879.
-LaTeX Info: Redefining \% on input line 879.
-LaTeX Info: Redefining \. on input line 879.
-LaTeX Info: Redefining \% on input line 879.
+LaTeX Info: Redefining \. on input line 878.
+LaTeX Info: Redefining \% on input line 878.
+LaTeX Info: Redefining \. on input line 878.
+LaTeX Info: Redefining \% on input line 878.
  [15]
-LaTeX Info: Redefining \. on input line 903.
-LaTeX Info: Redefining \% on input line 903.
-LaTeX Info: Redefining \. on input line 903.
-LaTeX Info: Redefining \% on input line 903.
+LaTeX Info: Redefining \. on input line 900.
+LaTeX Info: Redefining \% on input line 900.
+LaTeX Info: Redefining \. on input line 900.
+LaTeX Info: Redefining \% on input line 900.
  [16]
-LaTeX Info: Redefining \. on input line 913.
-LaTeX Info: Redefining \% on input line 913.
-LaTeX Info: Redefining \. on input line 913.
-LaTeX Info: Redefining \% on input line 913.
+LaTeX Info: Redefining \. on input line 912.
+LaTeX Info: Redefining \% on input line 912.
+LaTeX Info: Redefining \. on input line 912.
+LaTeX Info: Redefining \% on input line 912.
  [17]
-! Undefined control sequence.
-l.922 \protect\hypertarget
-                        {_Toc50463143}{}{}
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Missing $ inserted.
-<inserted text> 
-$
-l.922 \protect\hypertarget{_
-                          Toc50463143}{}{}
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Extra }, or forgotten $.
-l.922 \protect\hypertarget{_Toc50463143}
-                                      {}{}
-I've deleted a group-closing symbol because it seems to be
-spurious, as in `$x}$'. But perhaps the } is legitimate and
-you forgot something else, as in `\hbox{$x}'. In such cases
-the way to recover is to insert both the forgotten and the
-deleted material, e.g., by typing `I$}'.
-
-! Missing $ inserted.
-<inserted text> 
-$
-l.923 
-    
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
 LaTeX Info: Redefining \. on input line 924.
 LaTeX Info: Redefining \% on input line 924.
 LaTeX Info: Redefining \. on input line 924.
 LaTeX Info: Redefining \% on input line 924.
-[18]
+ [18]
 Capítulo 2.
 Package biblatex Info: Resetting trackers on input line 924.
 LaTeX Info: Redefining \. on input line 935.
@@ -5063,20 +5276,11 @@ LaTeX Info: Redefining \% on input line 1264.
 [43
 
 ]
-! Undefined control sequence.
-l.1267 ...ción de otra realidad}, editado por \href
-                                                  {http://www.lecturalia.com...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
 LaTeX Info: Redefining \. on input line 1274.
 LaTeX Info: Redefining \% on input line 1274.
 LaTeX Info: Redefining \. on input line 1274.
 LaTeX Info: Redefining \% on input line 1274.
-[44]
+ [44]
 LaTeX Info: Redefining \. on input line 1287.
 LaTeX Info: Redefining \% on input line 1287.
 LaTeX Info: Redefining \. on input line 1287.
@@ -5097,105 +5301,51 @@ LaTeX Info: Redefining \% on input line 1330.
 LaTeX Info: Redefining \. on input line 1330.
 LaTeX Info: Redefining \% on input line 1330.
  [48]
-! Undefined control sequence.
-l.1333 ...cen y valoran: María Julia Oliván, \href
-                                                  {http://www.tematika.com/b...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1333 ...leccionada=Autor\&idSeccionPropia=1}{\href
-                                                  {http://www.tematika.com/b...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1333 ...blo Sirvén, Edi Zunino, Luis Majul, \href
-                                                  {http://www.edhasa.com.ar/...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1333 ...Muchnik}, Eduardo Blaustein, Gabriel \href
-                                                  {http://www.edicionesb-arg...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1333 ...or/levinas-daniel/}{Levinas}, Darío \href
-                                                  {http://www.cuspide.com/re...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-! Undefined control sequence.
-l.1333 ...43\&orden=fecha}{Villarruel}, ~Jorge \href
-                                                  {http://www.cuspide.com/re...
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
-
-LaTeX Info: Redefining \. on input line 1334.
-LaTeX Info: Redefining \% on input line 1334.
-LaTeX Info: Redefining \. on input line 1334.
-LaTeX Info: Redefining \% on input line 1334.
-[49]
-LaTeX Info: Redefining \. on input line 1357.
-LaTeX Info: Redefining \% on input line 1357.
-LaTeX Info: Redefining \. on input line 1357.
-LaTeX Info: Redefining \% on input line 1357.
+LaTeX Info: Redefining \. on input line 1337.
+LaTeX Info: Redefining \% on input line 1337.
+LaTeX Info: Redefining \. on input line 1337.
+LaTeX Info: Redefining \% on input line 1337.
+ [49]
+LaTeX Info: Redefining \. on input line 1416.
+LaTeX Info: Redefining \% on input line 1416.
+LaTeX Info: Redefining \. on input line 1416.
+LaTeX Info: Redefining \% on input line 1416.
  [50]
-LaTeX Info: Redefining \. on input line 1434.
-LaTeX Info: Redefining \% on input line 1434.
-LaTeX Info: Redefining \. on input line 1434.
-LaTeX Info: Redefining \% on input line 1434.
- [51]
-LaTeX Info: Redefining \. on input line 1451.
-LaTeX Info: Redefining \% on input line 1451.
-LaTeX Info: Redefining \. on input line 1451.
-LaTeX Info: Redefining \% on input line 1451.
- [52] 
+LaTeX Info: Redefining \. on input line 1444.
+LaTeX Info: Redefining \% on input line 1444.
+LaTeX Info: Redefining \. on input line 1444.
+LaTeX Info: Redefining \% on input line 1444.
+ [51] 
 AED: pageslts setting LastPage 
 LaTeX Info: Redefining \. on input line 2903.
 LaTeX Info: Redefining \% on input line 2903.
 LaTeX Info: Redefining \. on input line 2903.
 LaTeX Info: Redefining \% on input line 2903.
-[53]
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
+File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
+)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
+File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
+) [52]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
 This document will not have a glossary.
 
-\c@pagesLTS.arabic.1.local.count=\count597
+\c@pagesLTS.arabic.1.local.count=\count615
 
 AED: pageslts setting VeryLastPage via AfterLastShipout 
 
 AED: pageslts setting LastPages via AfterLastShipout 
 
 
-Package pageslts Info: Total number of pages is odd.
+Package pageslts Info: Total number of pages is even.
 
 
 (./pdf-20250629MAURO.aux
-LaTeX Info: Redefining \sptext on input line 17.
-LaTeX Info: Redefining \. on input line 17.
-LaTeX Info: Redefining \% on input line 17.
+LaTeX Info: Redefining \sptext on input line 20.
+LaTeX Info: Redefining \. on input line 20.
+LaTeX Info: Redefining \% on input line 20.
 
 <Reading QR code for "https://www.edicionesimagomundi.com/" at level 3-M from a
 ux file.>
@@ -5204,42 +5354,148 @@ ux file.>
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
+Package rerunfilecheck Info: File `pdf-20250629MAURO.out' has not changed.
+(rerunfilecheck)             Checksum: CCD37613C3D1AD85E0A374BE8A51A223;951.
 Package logreq Info: Writing requests to 'pdf-20250629MAURO.run.xml'.
 
 \openout1 = pdf-20250629MAURO.run.xml
 )
-(\end occurred inside a group at level 1)
-
-### simple group (level 1) entered at line 922 ({)
-### bottom level
 
 Here is how much of LuaTeX's memory you used:
- 59851 strings out of 476553
- 2276479,2848258 words of node,token memory allocated
- 2094803 words of node memory still in use:
-   10631 hlist, 389 vlist, 5375 rule, 46 ins, 1 adjust, 26282 disc, 1460 local_p
-ar, 203 math, 39182 glue, 16776 kern, 3187 penalty, 481 margin_kern, 166961 glyp
-h, 41267 attribute, 2484 glue_spec, 5907 attribute_list, 206 write, 24 pdf_liter
-al, 440 pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:9,2:294,3:235,4:41,5:428,6:85,7:5569,8:88,9:760,10:29,11:760
- 80307 multiletter control sequences out of 65536+600000
- 101 fonts using 28108375 bytes
+ 67029 strings out of 476553
+ 2276513,2848258 words of node,token memory allocated
+ 2023476 words of node memory still in use:
+   10690 hlist, 389 vlist, 5375 rule, 46 ins, 1 adjust, 24983 disc, 1510 local_p
+ar, 199 math, 38462 glue, 16080 kern, 3314 penalty, 388 margin_kern, 158144 glyp
+h, 44319 attribute, 2582 glue_spec, 6343 attribute_list, 206 write, 26 pdf_liter
+al, 168 pdf_start_link, 171 pdf_end_link, 86 pdf_dest, 127 pdf_action, 779 pdf_c
+olorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:10,2:316,3:277,4:56,5:393,6:99,7:4344,8:88,9:835,10:28,11:579
+ 87145 multiletter control sequences out of 65536+600000
+ 102 fonts using 28191175 bytes
  117i,11n,123p,5827b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
-Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libert
-inus-fonts/LibertinusMath-Regular.otf></usr/share/texlive/texmf-dist/fonts/opent
-ype/public/libertinus-fonts/LibertinusMath-Regular.otf></usr/share/texlive/texmf
--dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Italic.otf></usr/share/texliv
-e/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Bold.otf></u
-sr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBol
-d.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libe
-rtinusSerif-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IB
-MPlexSansCondensed-Regular.otf></usr/share/texlive/texmf-dist/fonts/opentype/pub
-lic/libertinus-fonts/LibertinusSerif-Regular.otf>
-Output written on pdf-20250629MAURO.pdf (63 pages, 247632 bytes).
 
-PDF statistics: 307 PDF objects out of 1000 (max. 8388607)
- 186 compressed objects within 2 object streams
- 0 named destinations out of 1000 (max. 131072)
- 256 words of extra memory for PDF output out of 10000 (max. 100000000)
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6998-SIRVEN2
+011'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6997-NOVARO2
+015'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6996-SIVAK20
+15'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6995-OLIVAN2
+009'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6994-BARRERA
+2004'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6993-BARBIER
+1999'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6992-MAUSS20
+09'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6991-MERCADO
+2012'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6990-VERON19
+87'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6989-CASTELL
+S1998'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6988-WEBER19
+92'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6987-GILBELL
+OTA2012'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6986-MENESES
+FERNANDEZ2008'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6985-MENESES
+FERNANDEZ2010'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6984-SIEBERT
+1967'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6983-URE2014
+'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6982-STEFONI
+2013'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6981-ARRUETA
+2013'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6980-MARTINI
+2004'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6979-MAJUL19
+99'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6978-BELIZ19
+98'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6977-FRAGA19
+97'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6975-RUIZ201
+4'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6976-AMADO20
+16'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6974-WOLF200
+4'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6973-BOURDIE
+U1997'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6960-WINAZKI
+2000'
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.9'
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.8'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6970-MOYANO2
+013'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6969-MOYANO2
+008'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6968-MOYANO1
+996'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6967-ALONSO1
+997'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6966-RIVERA1
+998'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6963-RIVERA1
+990'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6972-SAFERST
+EIN2016'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6971-DEDIEGO
+2012'
+</usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
+Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
+lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public
+/libertinus-fonts/LibertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/fonts/
+opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/texmf-di
+st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
+/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
+sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
+if-Regular.otf>
+Output written on pdf-20250629MAURO.pdf (62 pages, 330155 bytes).
+
+PDF statistics: 670 PDF objects out of 1000 (max. 8388607)
+ 456 compressed objects within 5 object streams
+ 186 named destinations out of 1000 (max. 131072)
+ 293 words of extra memory for PDF output out of 10000 (max. 100000000)
 
