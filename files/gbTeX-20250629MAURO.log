@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 15:33
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 15:44
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -3080,26 +3080,63 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 ) [6<./media/desconocido.png>]
-Package biblatex Info: Resetting trackers on input line 499.
+Package biblatex Info: Resetting trackers on input line 476.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 499.
+(Font)              scaled to size 14.12686pt on input line 476.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `IBMPlexSansCondensed' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 499.
+(Font)              scaled to size 16.95224pt on input line 476.
+ (./pdf-20250629MAURO.toc
+LaTeX Info: Redefining \sptext on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 9.81033pt on input line 2.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 10.61993pt on input line 2.
+)
+\tf@toc=\write11
+
+\openout11 = pdf-20250629MAURO.toc
+
+(./artcap/inicio-frontmatter.tex
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+LaTeX Info: Redefining \. on input line 2.
+LaTeX Info: Redefining \% on input line 2.
+ [7
+
+] [8] [9] [10] [11]
+File: ./media/logo-imago-ByW.png Graphic file (type png)
+<use ./media/logo-imago-ByW.png>
+Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
+(luatex.def)             Requested size: 56.9055pt x 28.1315pt.
+ [12]
+File: ./media/desconocido.png Graphic file (type png)
+<use ./media/desconocido.png>
+Package luatex.def Info: ./media/desconocido.png  used on input line 55.
+(luatex.def)             Requested size: 56.9055pt x 65.42586pt.
+
+
+
+<QR code requested for "https://www.edicionesimagomundi.com/" in version 0-M.>
+
+<Copying the QR code for "https://www.edicionesimagomundi.com/" in version 3-M 
+as previously calculated.>
+) [13] [14
+
+]
+Package biblatex Info: Resetting trackers on input line 499.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
 (Font)              scaled to size 11.79993pt on input line 505.
 LaTeX Info: Redefining \. on input line 508.
 LaTeX Info: Redefining \% on input line 508.
 LaTeX Info: Redefining \. on input line 508.
 LaTeX Info: Redefining \% on input line 508.
- [7
-
-]
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 509.
+ [15]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 9.69757pt on input line 509.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
@@ -3108,17 +3145,17 @@ LaTeX Info: Redefining \. on input line 520.
 LaTeX Info: Redefining \% on input line 520.
 LaTeX Info: Redefining \. on input line 520.
 LaTeX Info: Redefining \% on input line 520.
- [8]
+ [16]
 LaTeX Info: Redefining \. on input line 540.
 LaTeX Info: Redefining \% on input line 540.
 LaTeX Info: Redefining \. on input line 540.
 LaTeX Info: Redefining \% on input line 540.
- [9]
+ [17]
 LaTeX Info: Redefining \. on input line 545.
 LaTeX Info: Redefining \% on input line 545.
 LaTeX Info: Redefining \. on input line 545.
 LaTeX Info: Redefining \% on input line 545.
- [10]
+ [18]
 \c@pagesLTS.roman.1.local.count=\count611
 \c@pagesLTS.pnc.arabic=\count612
 \c@pagesLTS.double.arabic=\count613
@@ -3134,8 +3171,6 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 8.25995pt on input line 566.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 6.86723pt on input line 566.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 566.
 LaTeX Info: Redefining \. on input line 573.
 LaTeX Info: Redefining \% on input line 573.
 LaTeX Info: Redefining \. on input line 573.
@@ -5355,24 +5390,24 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `pdf-20250629MAURO.out' has not changed.
-(rerunfilecheck)             Checksum: CCD37613C3D1AD85E0A374BE8A51A223;951.
+(rerunfilecheck)             Checksum: 67B2E92C462AA34BC63C3B2A3B4D98BA;951.
 Package logreq Info: Writing requests to 'pdf-20250629MAURO.run.xml'.
 
 \openout1 = pdf-20250629MAURO.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 67029 strings out of 476553
- 2276513,2848258 words of node,token memory allocated
- 2023476 words of node memory still in use:
-   10690 hlist, 389 vlist, 5375 rule, 46 ins, 1 adjust, 24983 disc, 1510 local_p
-ar, 199 math, 38462 glue, 16080 kern, 3314 penalty, 388 margin_kern, 158144 glyp
-h, 44319 attribute, 2582 glue_spec, 6343 attribute_list, 206 write, 26 pdf_liter
-al, 168 pdf_start_link, 171 pdf_end_link, 86 pdf_dest, 127 pdf_action, 779 pdf_c
-olorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
-   avail lists: 1:10,2:316,3:277,4:56,5:393,6:99,7:4344,8:88,9:835,10:28,11:579
- 87145 multiletter control sequences out of 65536+600000
- 102 fonts using 28191175 bytes
+ 67064 strings out of 476553
+ 2276559,2848258 words of node,token memory allocated
+ 2146131 words of node memory still in use:
+   13581 hlist, 390 vlist, 7950 rule, 46 ins, 2 adjust, 25474 disc, 1668 local_p
+ar, 201 math, 39556 glue, 16337 kern, 3627 penalty, 428 margin_kern, 161600 glyp
+h, 57906 attribute, 2812 glue_spec, 8284 attribute_list, 206 write, 26 pdf_liter
+al, 177 pdf_start_link, 180 pdf_end_link, 86 pdf_dest, 132 pdf_action, 897 pdf_c
+olorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
+   avail lists: 1:8,2:324,3:277,4:56,5:395,6:99,7:4362,8:88,9:835,10:28,11:583
+ 87150 multiletter control sequences out of 65536+600000
+ 102 fonts using 28191311 bytes
  117i,11n,123p,5827b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'cite.0@@6998-SIRVEN2
@@ -5492,10 +5527,10 @@ st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250629MAURO.pdf (62 pages, 330155 bytes).
+Output written on pdf-20250629MAURO.pdf (70 pages, 337140 bytes).
 
-PDF statistics: 670 PDF objects out of 1000 (max. 8388607)
- 456 compressed objects within 5 object streams
- 186 named destinations out of 1000 (max. 131072)
+PDF statistics: 717 PDF objects out of 1000 (max. 8388607)
+ 490 compressed objects within 5 object streams
+ 197 named destinations out of 1000 (max. 131072)
  293 words of extra memory for PDF output out of 10000 (max. 100000000)
 

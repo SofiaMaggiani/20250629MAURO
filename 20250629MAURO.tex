@@ -33,33 +33,33 @@
 \fi
 \fi
 
-% Definir el color de fondo: gris con 10% de magenta
-%\definecolor{chaptercircle}{cmyk}{0,0.1,0,0}
+% Definir el color de fondo: gris con 20% de magenta
+\definecolor{chaptercircle}{cmyk}{0,0.2,0,0}
 \begin{document}
 \frontmatter
 
-%\ifPDF
-%\input{./artcap/inicio-frontmatter.tex}
-%\Author{Sumario}
-%\tableofcontents
-%	\else
-%	\ifBNPDF
-%	\input{./artcap/inicio-frontmatter.tex}
-%	\Author{Sumario}
-%	\tableofcontents
-%		\else
-%		\ifPNGEPUB
-%		\input{./artcap/inicio-frontmatter.tex}
-%		\Author{Sumario}
-%		\tableofcontents
-%		\fi
-%	\fi
-%\fi
-%
-%
-%\ifHTMLEPUB
-%\tableofcontents
-%\fi
+\ifPDF
+\input{./artcap/inicio-frontmatter.tex}
+\Author{Sumario}
+\tableofcontents
+	\else
+	\ifBNPDF
+	\input{./artcap/inicio-frontmatter.tex}
+	\Author{Sumario}
+	\tableofcontents
+		\else
+		\ifPNGEPUB
+		\input{./artcap/inicio-frontmatter.tex}
+		\Author{Sumario}
+		\tableofcontents
+		\fi
+	\fi
+\fi
+
+
+\ifHTMLEPUB
+\tableofcontents
+\fi
 
 \input{./artcap/inicio-frontmatter.tex}
 \author{Mauro Dobruskin}
