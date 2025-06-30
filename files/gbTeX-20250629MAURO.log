@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 20:38
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 20:41
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -6712,7 +6712,7 @@ pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
    avail lists: 1:6,2:213,3:562,4:109,5:141,6:23,7:3410,8:137,9:232,10:31,11:288
 ,12:1
  87295 multiletter control sequences out of 65536+600000
- 104 fonts using 28723803 bytes
+ 104 fonts using 28723939 bytes
  117i,15n,123p,5883b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.10'
