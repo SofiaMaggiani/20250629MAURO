@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 20:15
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 20:38
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -3049,13 +3049,6 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                @6996-DIAZ2009
-(biblatex)                Please verify the spelling and rerun
-(biblatex)                LaTeX afterwards.
-
-
-Package biblatex Warning: The following entry could not be found
-(biblatex)                in the database:
 (biblatex)                @7015-JORNET2014
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
@@ -3154,7 +3147,7 @@ Package biblatex Warning: The following entry could not be found
 
 Package biblatex Warning: The following entry could not be found
 (biblatex)                in the database:
-(biblatex)                @7067-ZUNINO2011
+(biblatex)                @7068-ZUNINO2011
 (biblatex)                Please verify the spelling and rerun
 (biblatex)                LaTeX afterwards.
 
@@ -3263,42 +3256,42 @@ LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 8.
+(Font)              scaled to size 9.81033pt on input line 2.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 8.
+(Font)              scaled to size 10.61993pt on input line 2.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 11.79993pt on input line 30.
+(Font)              scaled to size 11.79993pt on input line 24.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 9.81033pt on input line 30.
+(Font)              scaled to size 9.81033pt on input line 24.
 )
 \tf@toc=\write11
 
 \openout11 = pdf-20250629MAURO.toc
+LaTeX Info: Redefining \. on input line 506.
+LaTeX Info: Redefining \% on input line 506.
+LaTeX Info: Redefining \. on input line 506.
+LaTeX Info: Redefining \% on input line 506.
+ [5
+
+]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 9.69757pt on input line 507.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 11.63708pt on input line 507.
-LaTeX Info: Redefining \. on input line 514.
-LaTeX Info: Redefining \% on input line 514.
-LaTeX Info: Redefining \. on input line 514.
-LaTeX Info: Redefining \% on input line 514.
- [5
-
-]
-LaTeX Info: Redefining \. on input line 526.
-LaTeX Info: Redefining \% on input line 526.
-LaTeX Info: Redefining \. on input line 526.
-LaTeX Info: Redefining \% on input line 526.
+LaTeX Info: Redefining \. on input line 520.
+LaTeX Info: Redefining \% on input line 520.
+LaTeX Info: Redefining \. on input line 520.
+LaTeX Info: Redefining \% on input line 520.
  [6]
-LaTeX Info: Redefining \. on input line 548.
-LaTeX Info: Redefining \% on input line 548.
-LaTeX Info: Redefining \. on input line 548.
-LaTeX Info: Redefining \% on input line 548.
+LaTeX Info: Redefining \. on input line 529.
+LaTeX Info: Redefining \% on input line 529.
+LaTeX Info: Redefining \. on input line 529.
+LaTeX Info: Redefining \% on input line 529.
  [7]
-LaTeX Info: Redefining \. on input line 553.
-LaTeX Info: Redefining \% on input line 553.
-LaTeX Info: Redefining \. on input line 553.
-LaTeX Info: Redefining \% on input line 553.
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
+LaTeX Info: Redefining \. on input line 550.
+LaTeX Info: Redefining \% on input line 550.
  [8]
 LaTeX Info: Redefining \. on input line 553.
 LaTeX Info: Redefining \% on input line 553.
@@ -5538,23 +5531,11 @@ LaTeX Info: Redefining \% on input line 1599.
 LaTeX Info: Redefining \. on input line 1599.
 LaTeX Info: Redefining \% on input line 1599.
 [59]
-
-LaTeX Warning: Citation '@6996-DIAZ2009' on page 60 undefined on input line 160
-3.
-
-
-LaTeX Warning: Citation '@6996-DIAZ2009' on page 60 undefined on input line 160
-6.
-
-
-LaTeX Warning: Citation '@6996-DIAZ2009' on page 60 undefined on input line 161
-2.
-
 LaTeX Info: Redefining \. on input line 1613.
 LaTeX Info: Redefining \% on input line 1613.
 LaTeX Info: Redefining \. on input line 1613.
 LaTeX Info: Redefining \% on input line 1613.
-[60]
+ [60]
 
 LaTeX Warning: Citation '@7040-OLIVAN2010' on page 61 undefined on input line 1
 624.
@@ -5614,7 +5595,7 @@ LaTeX Info: Redefining \. on input line 1695.
 LaTeX Info: Redefining \% on input line 1695.
 [66]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 67 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 67 undefined on input line 1
 704.
 
 LaTeX Info: Redefining \. on input line 1705.
@@ -5623,15 +5604,15 @@ LaTeX Info: Redefining \. on input line 1705.
 LaTeX Info: Redefining \% on input line 1705.
 [67]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 68 undefined on input line 1
 707.
 
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 68 undefined on input line 1
 716.
 
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 68 undefined on input line 1
 722.
 
 LaTeX Info: Redefining \. on input line 1723.
@@ -5640,7 +5621,7 @@ LaTeX Info: Redefining \. on input line 1723.
 LaTeX Info: Redefining \% on input line 1723.
 [68]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 69 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 69 undefined on input line 1
 733.
 
 LaTeX Info: Redefining \. on input line 1735.
@@ -5649,15 +5630,15 @@ LaTeX Info: Redefining \. on input line 1735.
 LaTeX Info: Redefining \% on input line 1735.
 [69]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 70 undefined on input line 1
 736.
 
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 70 undefined on input line 1
 744.
 
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 70 undefined on input line 1
 750.
 
 LaTeX Info: Redefining \. on input line 1751.
@@ -5666,7 +5647,7 @@ LaTeX Info: Redefining \. on input line 1751.
 LaTeX Info: Redefining \% on input line 1751.
 [70]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 71 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 71 undefined on input line 1
 760.
 
 LaTeX Info: Redefining \. on input line 1766.
@@ -5675,7 +5656,7 @@ LaTeX Info: Redefining \. on input line 1766.
 LaTeX Info: Redefining \% on input line 1766.
 [71]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 72 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 72 undefined on input line 1
 772.
 
 LaTeX Info: Redefining \. on input line 1776.
@@ -5689,7 +5670,7 @@ LaTeX Info: Redefining \. on input line 1793.
 LaTeX Info: Redefining \% on input line 1793.
  [73]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 74 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 74 undefined on input line 1
 804.
 
 LaTeX Info: Redefining \. on input line 1805.
@@ -5698,19 +5679,19 @@ LaTeX Info: Redefining \. on input line 1805.
 LaTeX Info: Redefining \% on input line 1805.
 [74]
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 75 undefined on input line 1
 811.
 
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 75 undefined on input line 1
 813.
 
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 75 undefined on input line 1
 818.
 
 
-LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+LaTeX Warning: Citation '@7068-ZUNINO2011' on page 75 undefined on input line 1
 824.
 
 LaTeX Info: Redefining \. on input line 1825.
@@ -6720,18 +6701,18 @@ Package logreq Info: Writing requests to 'pdf-20250629MAURO.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67401 strings out of 476553
- 6947443,2848258 words of node,token memory allocated
- 5924934 words of node memory still in use:
-   17733 hlist, 781 vlist, 7988 rule, 184 ins, 2 adjust, 78262 disc, 3837 local_
-par, 422 math, 101231 glue, 60296 kern, 9294 penalty, 974 margin_kern, 496943 gl
-yph, 98989 attribute, 6723 glue_spec, 14153 attribute_list, 387 write, 36 pdf_li
-teral, 390 pdf_start_link, 396 pdf_end_link, 350 pdf_dest, 277 pdf_action, 1798 
+ 67404 strings out of 476553
+ 6947407,2848258 words of node,token memory allocated
+ 5926589 words of node memory still in use:
+   17714 hlist, 781 vlist, 7964 rule, 184 ins, 2 adjust, 78282 disc, 3840 local_
+par, 422 math, 101258 glue, 60313 kern, 9308 penalty, 975 margin_kern, 497039 gl
+yph, 99234 attribute, 6731 glue_spec, 14188 attribute_list, 407 write, 36 pdf_li
+teral, 404 pdf_start_link, 410 pdf_end_link, 350 pdf_dest, 285 pdf_action, 1782 
 pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
    avail lists: 1:6,2:213,3:562,4:109,5:141,6:23,7:3410,8:137,9:232,10:31,11:288
 ,12:1
- 87287 multiletter control sequences out of 65536+600000
- 104 fonts using 28723939 bytes
+ 87295 multiletter control sequences out of 65536+600000
+ 104 fonts using 28723803 bytes
  117i,15n,123p,5883b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.10'
@@ -6748,10 +6729,10 @@ e/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250629MAURO.pdf (190 pages, 753131 bytes).
+Output written on pdf-20250629MAURO.pdf (190 pages, 753469 bytes).
 
-PDF statistics: 1538 PDF objects out of 1728 (max. 8388607)
- 1197 compressed objects within 12 object streams
- 403 named destinations out of 1000 (max. 131072)
+PDF statistics: 1544 PDF objects out of 1728 (max. 8388607)
+ 1202 compressed objects within 13 object streams
+ 398 named destinations out of 1000 (max. 131072)
  309 words of extra memory for PDF output out of 10000 (max. 100000000)
 
