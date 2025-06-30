@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 16:12
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 16:24
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -3044,29 +3044,29 @@ Package hyperref Info: Link coloring ON on input line 477.
 \c@pagesLTS.double.roman=\count609
 \c@pagesLTS.current.local.roman=\count610
 
-(./artcap/inicio-frontmatter.tex [1
+(./artcap/inicio-frontmatter.tex
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 20.39026pt on input line 11.
+ [1
 
 
 {/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 20.39026pt on input line 19.
- [3] [4]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 11.79993pt on input line 31.
+(Font)              scaled to size 11.79993pt on input line 23.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 14.15991pt on input line 31.
+(Font)              scaled to size 14.15991pt on input line 23.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 16.99188pt on input line 39.
-<./media/logo-imago-ByW.png, id=77, 85.2786pt x 42.1575pt>
+(Font)              scaled to size 16.99188pt on input line 31.
+<./media/logo-imago-ByW.png, id=69, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
-Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
+Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 38.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
- [5<./media/logo-imago-ByW.png>]
-<./media/desconocido.png, id=84, 85.2786pt x 98.0463pt>
+ [3<./media/logo-imago-ByW.png>]
+<./media/desconocido.png, id=76, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
-Package luatex.def Info: ./media/desconocido.png  used on input line 55.
+Package luatex.def Info: ./media/desconocido.png  used on input line 47.
 (luatex.def)             Requested size: 56.9055pt x 65.42586pt.
 
 
@@ -3079,7 +3079,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `LibertinusMath' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-) [6<./media/desconocido.png>]
+) [4<./media/desconocido.png>]
 Package biblatex Info: Resetting trackers on input line 483.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
 (Font)              scaled to size 14.12686pt on input line 483.
@@ -3103,21 +3103,21 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 \openout11 = pdf-20250629MAURO.toc
 
 (./artcap/inicio-frontmatter.tex
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
-LaTeX Info: Redefining \. on input line 2.
-LaTeX Info: Redefining \% on input line 2.
- [7
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+LaTeX Info: Redefining \. on input line 4.
+LaTeX Info: Redefining \% on input line 4.
+ [5
 
-] [8] [9] [10] [11]
+] [6] [7]
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
-Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 46.
+Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 38.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
- [12]
+ [8]
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
-Package luatex.def Info: ./media/desconocido.png  used on input line 55.
+Package luatex.def Info: ./media/desconocido.png  used on input line 47.
 (luatex.def)             Requested size: 56.9055pt x 65.42586pt.
 
 
@@ -3126,7 +3126,7 @@ Package luatex.def Info: ./media/desconocido.png  used on input line 55.
 
 <Copying the QR code for "https://www.edicionesimagomundi.com/" in version 3-M 
 as previously calculated.>
-) [13] [14
+) [9] [10
 
 ]
 Package biblatex Info: Resetting trackers on input line 506.
@@ -3136,7 +3136,7 @@ LaTeX Info: Redefining \. on input line 515.
 LaTeX Info: Redefining \% on input line 515.
 LaTeX Info: Redefining \. on input line 515.
 LaTeX Info: Redefining \% on input line 515.
- [15]
+ [11]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
 (Font)              scaled to size 9.69757pt on input line 516.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
@@ -3145,17 +3145,17 @@ LaTeX Info: Redefining \. on input line 527.
 LaTeX Info: Redefining \% on input line 527.
 LaTeX Info: Redefining \. on input line 527.
 LaTeX Info: Redefining \% on input line 527.
- [16]
+ [12]
 LaTeX Info: Redefining \. on input line 547.
 LaTeX Info: Redefining \% on input line 547.
 LaTeX Info: Redefining \. on input line 547.
 LaTeX Info: Redefining \% on input line 547.
- [17]
+ [13]
 LaTeX Info: Redefining \. on input line 552.
 LaTeX Info: Redefining \% on input line 552.
 LaTeX Info: Redefining \. on input line 552.
 LaTeX Info: Redefining \% on input line 552.
- [18]
+ [14]
 \c@pagesLTS.roman.1.local.count=\count611
 \c@pagesLTS.pnc.arabic=\count612
 \c@pagesLTS.double.arabic=\count613
@@ -5170,203 +5170,244 @@ LaTeX Info: Redefining \% on input line 919.
 LaTeX Info: Redefining \. on input line 919.
 LaTeX Info: Redefining \% on input line 919.
  [19]
-LaTeX Info: Redefining \. on input line 931.
-LaTeX Info: Redefining \% on input line 931.
-LaTeX Info: Redefining \. on input line 931.
-LaTeX Info: Redefining \% on input line 931.
+LaTeX Info: Redefining \. on input line 930.
+LaTeX Info: Redefining \% on input line 930.
+LaTeX Info: Redefining \. on input line 930.
+LaTeX Info: Redefining \% on input line 930.
  [20]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 931.
-LaTeX Info: Redefining \. on input line 942.
-LaTeX Info: Redefining \% on input line 942.
-LaTeX Info: Redefining \. on input line 942.
-LaTeX Info: Redefining \% on input line 942.
+Package biblatex Info: Resetting trackers on input line 930.
+LaTeX Info: Redefining \. on input line 941.
+LaTeX Info: Redefining \% on input line 941.
+LaTeX Info: Redefining \. on input line 941.
+LaTeX Info: Redefining \% on input line 941.
 [21
 
 ]
-LaTeX Info: Redefining \. on input line 950.
-LaTeX Info: Redefining \% on input line 950.
-LaTeX Info: Redefining \. on input line 950.
-LaTeX Info: Redefining \% on input line 950.
+LaTeX Info: Redefining \. on input line 949.
+LaTeX Info: Redefining \% on input line 949.
+LaTeX Info: Redefining \. on input line 949.
+LaTeX Info: Redefining \% on input line 949.
  [22]
 Overfull \vbox (0.96939pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 958.
-LaTeX Info: Redefining \% on input line 958.
-LaTeX Info: Redefining \. on input line 958.
-LaTeX Info: Redefining \% on input line 958.
+LaTeX Info: Redefining \. on input line 957.
+LaTeX Info: Redefining \% on input line 957.
+LaTeX Info: Redefining \. on input line 957.
+LaTeX Info: Redefining \% on input line 957.
 
 [23]
-LaTeX Info: Redefining \. on input line 970.
-LaTeX Info: Redefining \% on input line 970.
-LaTeX Info: Redefining \. on input line 970.
-LaTeX Info: Redefining \% on input line 970.
+LaTeX Info: Redefining \. on input line 969.
+LaTeX Info: Redefining \% on input line 969.
+LaTeX Info: Redefining \. on input line 969.
+LaTeX Info: Redefining \% on input line 969.
  [24]
-LaTeX Info: Redefining \. on input line 979.
-LaTeX Info: Redefining \% on input line 979.
-LaTeX Info: Redefining \. on input line 979.
-LaTeX Info: Redefining \% on input line 979.
+LaTeX Info: Redefining \. on input line 978.
+LaTeX Info: Redefining \% on input line 978.
+LaTeX Info: Redefining \. on input line 978.
+LaTeX Info: Redefining \% on input line 978.
  [25]
-LaTeX Info: Redefining \. on input line 994.
-LaTeX Info: Redefining \% on input line 994.
-LaTeX Info: Redefining \. on input line 994.
-LaTeX Info: Redefining \% on input line 994.
+LaTeX Info: Redefining \. on input line 993.
+LaTeX Info: Redefining \% on input line 993.
+LaTeX Info: Redefining \. on input line 993.
+LaTeX Info: Redefining \% on input line 993.
  [26]
-LaTeX Info: Redefining \. on input line 1001.
-LaTeX Info: Redefining \% on input line 1001.
-LaTeX Info: Redefining \. on input line 1001.
-LaTeX Info: Redefining \% on input line 1001.
+LaTeX Info: Redefining \. on input line 1000.
+LaTeX Info: Redefining \% on input line 1000.
+LaTeX Info: Redefining \. on input line 1000.
+LaTeX Info: Redefining \% on input line 1000.
  [27]
-LaTeX Info: Redefining \. on input line 1028.
-LaTeX Info: Redefining \% on input line 1028.
-LaTeX Info: Redefining \. on input line 1028.
-LaTeX Info: Redefining \% on input line 1028.
+LaTeX Info: Redefining \. on input line 1027.
+LaTeX Info: Redefining \% on input line 1027.
+LaTeX Info: Redefining \. on input line 1027.
+LaTeX Info: Redefining \% on input line 1027.
  [28]
-LaTeX Info: Redefining \. on input line 1045.
-LaTeX Info: Redefining \% on input line 1045.
-LaTeX Info: Redefining \. on input line 1045.
-LaTeX Info: Redefining \% on input line 1045.
+LaTeX Info: Redefining \. on input line 1044.
+LaTeX Info: Redefining \% on input line 1044.
+LaTeX Info: Redefining \. on input line 1044.
+LaTeX Info: Redefining \% on input line 1044.
  [29]
-LaTeX Info: Redefining \. on input line 1053.
-LaTeX Info: Redefining \% on input line 1053.
-LaTeX Info: Redefining \. on input line 1053.
-LaTeX Info: Redefining \% on input line 1053.
+LaTeX Info: Redefining \. on input line 1052.
+LaTeX Info: Redefining \% on input line 1052.
+LaTeX Info: Redefining \. on input line 1052.
+LaTeX Info: Redefining \% on input line 1052.
  [30]
-LaTeX Info: Redefining \. on input line 1076.
-LaTeX Info: Redefining \% on input line 1076.
-LaTeX Info: Redefining \. on input line 1076.
-LaTeX Info: Redefining \% on input line 1076.
+LaTeX Info: Redefining \. on input line 1075.
+LaTeX Info: Redefining \% on input line 1075.
+LaTeX Info: Redefining \. on input line 1075.
+LaTeX Info: Redefining \% on input line 1075.
  [31]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
-(Font)              scaled to size 11.79993pt on input line 1082.
-LaTeX Info: Redefining \. on input line 1096.
-LaTeX Info: Redefining \% on input line 1096.
-LaTeX Info: Redefining \. on input line 1096.
-LaTeX Info: Redefining \% on input line 1096.
+(Font)              scaled to size 11.79993pt on input line 1081.
+LaTeX Info: Redefining \. on input line 1095.
+LaTeX Info: Redefining \% on input line 1095.
+LaTeX Info: Redefining \. on input line 1095.
+LaTeX Info: Redefining \% on input line 1095.
  [32]
-LaTeX Info: Redefining \. on input line 1113.
-LaTeX Info: Redefining \% on input line 1113.
-LaTeX Info: Redefining \. on input line 1113.
-LaTeX Info: Redefining \% on input line 1113.
+LaTeX Info: Redefining \. on input line 1112.
+LaTeX Info: Redefining \% on input line 1112.
+LaTeX Info: Redefining \. on input line 1112.
+LaTeX Info: Redefining \% on input line 1112.
  [33]
-LaTeX Info: Redefining \. on input line 1126.
-LaTeX Info: Redefining \% on input line 1126.
-LaTeX Info: Redefining \. on input line 1126.
-LaTeX Info: Redefining \% on input line 1126.
+LaTeX Info: Redefining \. on input line 1125.
+LaTeX Info: Redefining \% on input line 1125.
+LaTeX Info: Redefining \. on input line 1125.
+LaTeX Info: Redefining \% on input line 1125.
  [34]
-LaTeX Info: Redefining \. on input line 1150.
-LaTeX Info: Redefining \% on input line 1150.
-LaTeX Info: Redefining \. on input line 1150.
-LaTeX Info: Redefining \% on input line 1150.
+LaTeX Info: Redefining \. on input line 1149.
+LaTeX Info: Redefining \% on input line 1149.
+LaTeX Info: Redefining \. on input line 1149.
+LaTeX Info: Redefining \% on input line 1149.
  [35]
-LaTeX Info: Redefining \. on input line 1157.
-LaTeX Info: Redefining \% on input line 1157.
-LaTeX Info: Redefining \. on input line 1157.
-LaTeX Info: Redefining \% on input line 1157.
+LaTeX Info: Redefining \. on input line 1156.
+LaTeX Info: Redefining \% on input line 1156.
+LaTeX Info: Redefining \. on input line 1156.
+LaTeX Info: Redefining \% on input line 1156.
  [36]
-LaTeX Info: Redefining \. on input line 1182.
-LaTeX Info: Redefining \% on input line 1182.
-LaTeX Info: Redefining \. on input line 1182.
-LaTeX Info: Redefining \% on input line 1182.
+LaTeX Info: Redefining \. on input line 1178.
+LaTeX Info: Redefining \% on input line 1178.
+LaTeX Info: Redefining \. on input line 1178.
+LaTeX Info: Redefining \% on input line 1178.
  [37]
-LaTeX Info: Redefining \. on input line 1191.
-LaTeX Info: Redefining \% on input line 1191.
-LaTeX Info: Redefining \. on input line 1191.
-LaTeX Info: Redefining \% on input line 1191.
+LaTeX Info: Redefining \. on input line 1186.
+LaTeX Info: Redefining \% on input line 1186.
+LaTeX Info: Redefining \. on input line 1186.
+LaTeX Info: Redefining \% on input line 1186.
 
 [38]
-LaTeX Info: Redefining \. on input line 1199.
-LaTeX Info: Redefining \% on input line 1199.
-LaTeX Info: Redefining \. on input line 1199.
-LaTeX Info: Redefining \% on input line 1199.
+LaTeX Info: Redefining \. on input line 1197.
+LaTeX Info: Redefining \% on input line 1197.
+LaTeX Info: Redefining \. on input line 1197.
+LaTeX Info: Redefining \% on input line 1197.
  [39]
-LaTeX Info: Redefining \. on input line 1214.
-LaTeX Info: Redefining \% on input line 1214.
-LaTeX Info: Redefining \. on input line 1214.
-LaTeX Info: Redefining \% on input line 1214.
+LaTeX Info: Redefining \. on input line 1212.
+LaTeX Info: Redefining \% on input line 1212.
+LaTeX Info: Redefining \. on input line 1212.
+LaTeX Info: Redefining \% on input line 1212.
  [40]
-LaTeX Info: Redefining \. on input line 1217.
-LaTeX Info: Redefining \% on input line 1217.
-LaTeX Info: Redefining \. on input line 1217.
-LaTeX Info: Redefining \% on input line 1217.
+LaTeX Info: Redefining \. on input line 1216.
+LaTeX Info: Redefining \% on input line 1216.
+LaTeX Info: Redefining \. on input line 1216.
+LaTeX Info: Redefining \% on input line 1216.
  [41]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 1233.
-LaTeX Info: Redefining \. on input line 1247.
-LaTeX Info: Redefining \% on input line 1247.
-LaTeX Info: Redefining \. on input line 1247.
-LaTeX Info: Redefining \% on input line 1247.
+(Font)              scaled to size 11.79993pt on input line 1232.
+LaTeX Info: Redefining \. on input line 1244.
+LaTeX Info: Redefining \% on input line 1244.
+LaTeX Info: Redefining \. on input line 1244.
+LaTeX Info: Redefining \% on input line 1244.
  [42]
-LaTeX Info: Redefining \. on input line 1259.
-LaTeX Info: Redefining \% on input line 1259.
-LaTeX Info: Redefining \. on input line 1259.
-LaTeX Info: Redefining \% on input line 1259.
+LaTeX Info: Redefining \. on input line 1255.
+LaTeX Info: Redefining \% on input line 1255.
+LaTeX Info: Redefining \. on input line 1255.
+LaTeX Info: Redefining \% on input line 1255.
  [43]
-LaTeX Info: Redefining \. on input line 1260.
-LaTeX Info: Redefining \% on input line 1260.
-LaTeX Info: Redefining \. on input line 1260.
-LaTeX Info: Redefining \% on input line 1260.
+LaTeX Info: Redefining \. on input line 1259.
+LaTeX Info: Redefining \% on input line 1259.
+LaTeX Info: Redefining \. on input line 1259.
+LaTeX Info: Redefining \% on input line 1259.
  [44]
 Capítulo 3.
-Package biblatex Info: Resetting trackers on input line 1260.
-LaTeX Info: Redefining \. on input line 1271.
-LaTeX Info: Redefining \% on input line 1271.
-LaTeX Info: Redefining \. on input line 1271.
-LaTeX Info: Redefining \% on input line 1271.
+Package biblatex Info: Resetting trackers on input line 1259.
+LaTeX Info: Redefining \. on input line 1270.
+LaTeX Info: Redefining \% on input line 1270.
+LaTeX Info: Redefining \. on input line 1270.
+LaTeX Info: Redefining \% on input line 1270.
 [45
 
 ]
-LaTeX Info: Redefining \. on input line 1281.
-LaTeX Info: Redefining \% on input line 1281.
-LaTeX Info: Redefining \. on input line 1281.
-LaTeX Info: Redefining \% on input line 1281.
+LaTeX Info: Redefining \. on input line 1280.
+LaTeX Info: Redefining \% on input line 1280.
+LaTeX Info: Redefining \. on input line 1280.
+LaTeX Info: Redefining \% on input line 1280.
  [46]
-LaTeX Info: Redefining \. on input line 1294.
-LaTeX Info: Redefining \% on input line 1294.
-LaTeX Info: Redefining \. on input line 1294.
-LaTeX Info: Redefining \% on input line 1294.
+LaTeX Info: Redefining \. on input line 1293.
+LaTeX Info: Redefining \% on input line 1293.
+LaTeX Info: Redefining \. on input line 1293.
+LaTeX Info: Redefining \% on input line 1293.
  [47]
-LaTeX Info: Redefining \. on input line 1315.
-LaTeX Info: Redefining \% on input line 1315.
-LaTeX Info: Redefining \. on input line 1315.
-LaTeX Info: Redefining \% on input line 1315.
+LaTeX Info: Redefining \. on input line 1314.
+LaTeX Info: Redefining \% on input line 1314.
+LaTeX Info: Redefining \. on input line 1314.
+LaTeX Info: Redefining \% on input line 1314.
  [48]
-LaTeX Info: Redefining \. on input line 1328.
-LaTeX Info: Redefining \% on input line 1328.
-LaTeX Info: Redefining \. on input line 1328.
-LaTeX Info: Redefining \% on input line 1328.
+LaTeX Info: Redefining \. on input line 1327.
+LaTeX Info: Redefining \% on input line 1327.
+LaTeX Info: Redefining \. on input line 1327.
+LaTeX Info: Redefining \% on input line 1327.
  [49]
-LaTeX Info: Redefining \. on input line 1337.
-LaTeX Info: Redefining \% on input line 1337.
-LaTeX Info: Redefining \. on input line 1337.
-LaTeX Info: Redefining \% on input line 1337.
+LaTeX Info: Redefining \. on input line 1336.
+LaTeX Info: Redefining \% on input line 1336.
+LaTeX Info: Redefining \. on input line 1336.
+LaTeX Info: Redefining \% on input line 1336.
  [50]
-LaTeX Info: Redefining \. on input line 1344.
-LaTeX Info: Redefining \% on input line 1344.
-LaTeX Info: Redefining \. on input line 1344.
-LaTeX Info: Redefining \% on input line 1344.
+LaTeX Info: Redefining \. on input line 1343.
+LaTeX Info: Redefining \% on input line 1343.
+LaTeX Info: Redefining \. on input line 1343.
+LaTeX Info: Redefining \% on input line 1343.
  [51]
-LaTeX Info: Redefining \. on input line 1423.
-LaTeX Info: Redefining \% on input line 1423.
-LaTeX Info: Redefining \. on input line 1423.
-LaTeX Info: Redefining \% on input line 1423.
+LaTeX Info: Redefining \. on input line 1422.
+LaTeX Info: Redefining \% on input line 1422.
+LaTeX Info: Redefining \. on input line 1422.
+LaTeX Info: Redefining \% on input line 1422.
  [52]
-LaTeX Info: Redefining \. on input line 1451.
-LaTeX Info: Redefining \% on input line 1451.
-LaTeX Info: Redefining \. on input line 1451.
-LaTeX Info: Redefining \% on input line 1451.
- [53] 
+LaTeX Info: Redefining \. on input line 1450.
+LaTeX Info: Redefining \% on input line 1450.
+LaTeX Info: Redefining \. on input line 1450.
+LaTeX Info: Redefining \% on input line 1450.
+ [53]
+LaTeX Info: Redefining \. on input line 1464.
+LaTeX Info: Redefining \% on input line 1464.
+LaTeX Info: Redefining \. on input line 1464.
+LaTeX Info: Redefining \% on input line 1464.
+ [54]
+LaTeX Info: Redefining \. on input line 2894.
+LaTeX Info: Redefining \% on input line 2894.
+LaTeX Info: Redefining \. on input line 2894.
+LaTeX Info: Redefining \% on input line 2894.
+ [55] [56
+
+]
+Package biblatex Info: Resetting trackers on input line 2894.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 10.61993pt on input line 2894.
+LaTeX Info: Redefining \. on input line 2894.
+LaTeX Info: Redefining \% on input line 2894.
+LaTeX Info: Redefining \. on input line 2894.
+LaTeX Info: Redefining \% on input line 2894.
+ [57]
+LaTeX Info: Redefining \. on input line 2894.
+LaTeX Info: Redefining \% on input line 2894.
+LaTeX Info: Redefining \. on input line 2894.
+LaTeX Info: Redefining \% on input line 2894.
+ [58]
+LaTeX Info: Redefining \. on input line 2894.
+LaTeX Info: Redefining \% on input line 2894.
+LaTeX Info: Redefining \. on input line 2894.
+LaTeX Info: Redefining \% on input line 2894.
+ [59]
+(./artcap/colofon.tex
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+LaTeX Info: Redefining \. on input line 1.
+LaTeX Info: Redefining \% on input line 1.
+ [60]
+Package biblatex Info: Resetting trackers on input line 1.
+)
+LaTeX Info: Redefining \. on input line 2902.
+LaTeX Info: Redefining \% on input line 2902.
+LaTeX Info: Redefining \. on input line 2902.
+LaTeX Info: Redefining \% on input line 2902.
+ [61
+
+] 
 AED: pageslts setting LastPage 
-LaTeX Info: Redefining \. on input line 2910.
-LaTeX Info: Redefining \% on input line 2910.
-LaTeX Info: Redefining \. on input line 2910.
-LaTeX Info: Redefining \% on input line 2910.
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [54]
+) [62]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -5402,132 +5443,25 @@ Package logreq Info: Writing requests to 'pdf-20250629MAURO.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67075 strings out of 476553
- 2276554,2848258 words of node,token memory allocated
- 2168879 words of node memory still in use:
-   13657 hlist, 393 vlist, 7976 rule, 49 ins, 3 adjust, 25734 disc, 1690 local_p
-ar, 207 math, 39948 glue, 16480 kern, 3678 penalty, 431 margin_kern, 163529 glyp
-h, 58473 attribute, 2840 glue_spec, 8365 attribute_list, 220 write, 26 pdf_liter
-al, 181 pdf_start_link, 184 pdf_end_link, 91 pdf_dest, 135 pdf_action, 905 pdf_c
-olorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
-   avail lists: 1:7,2:324,3:277,4:56,5:395,6:99,7:4362,8:88,9:835,10:28,11:583
- 87157 multiletter control sequences out of 65536+600000
- 102 fonts using 28191379 bytes
+ 67213 strings out of 476553
+ 2845590,2848258 words of node,token memory allocated
+ 2294123 words of node memory still in use:
+   14013 hlist, 393 vlist, 7992 rule, 49 ins, 3 adjust, 27090 disc, 1807 local_p
+ar, 212 math, 41983 glue, 17141 kern, 4257 penalty, 460 margin_kern, 172288 glyp
+h, 67454 attribute, 3177 glue_spec, 9648 attribute_list, 387 write, 26 pdf_liter
+al, 285 pdf_start_link, 289 pdf_end_link, 91 pdf_dest, 192 pdf_action, 1210 pdf_
+colorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
+   avail lists: 1:9,2:213,3:562,4:109,5:141,6:23,7:3408,8:136,9:304,10:28,11:288
+,12:1
+ 87282 multiletter control sequences out of 65536+600000
+ 103 fonts using 28613835 bytes
  117i,15n,123p,5827b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6998-SIRVEN2
-011'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6997-NOVARO2
-015'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6996-SIVAK20
-15'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6995-OLIVAN2
-009'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6994-BARRERA
-2004'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6993-BARBIER
-1999'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6992-MAUSS20
-09'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6991-MERCADO
-2012'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6990-VERON19
-87'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6989-CASTELL
-S1998'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6988-WEBER19
-92'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6987-GILBELL
-OTA2012'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6986-MENESES
-FERNANDEZ2008'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6985-MENESES
-FERNANDEZ2010'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6984-SIEBERT
-1967'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6983-URE2014
-'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6982-STEFONI
-2013'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6981-ARRUETA
-2013'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6980-MARTINI
-2004'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6979-MAJUL19
-99'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6978-BELIZ19
-98'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6977-FRAGA19
-97'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6975-RUIZ201
-4'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6976-AMADO20
-16'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6974-WOLF200
-4'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6973-BOURDIE
-U1997'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6960-WINAZKI
-2000'
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.10'
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.9'
 
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6970-MOYANO2
-013'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6969-MOYANO2
-008'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6968-MOYANO1
-996'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6967-ALONSO1
-997'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6966-RIVERA1
-998'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6963-RIVERA1
-990'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6972-SAFERST
-EIN2016'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6971-DEDIEGO
-2012'
-
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
-
-warning  (pdf backend): unreferenced destination with name 'cite.0@@6961-BOURDIE
-U2008'
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
 lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public
@@ -5537,10 +5471,10 @@ st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250629MAURO.pdf (72 pages, 339682 bytes).
+Output written on pdf-20250629MAURO.pdf (76 pages, 355542 bytes).
 
-PDF statistics: 734 PDF objects out of 1000 (max. 8388607)
- 501 compressed objects within 6 object streams
- 201 named destinations out of 1000 (max. 131072)
+PDF statistics: 821 PDF objects out of 1000 (max. 8388607)
+ 622 compressed objects within 7 object streams
+ 208 named destinations out of 1000 (max. 131072)
  293 words of extra memory for PDF output out of 10000 (max. 100000000)
 
