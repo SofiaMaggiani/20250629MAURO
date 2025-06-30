@@ -1,12 +1,17 @@
+%Tesis de Mauro Dobrusky
+%Editado por Sofia Maggiani
+
+
 %% referencias
 \addbibresource{./files/gbTeXbib-20250629MAURO.bib}
 %
 %% glosarios
 \input{./files/gbTeXglo-20250629MAURO.tex}
-%
+
+
+
 \ifPDF
 %% separata de capítulos solo en pdf de pantalla
-%
 \input{./files/gbTeXseparata-20250629MAURO.tex}
 %% control de inconsistencias de principio y fin de linea
 \usepackage[hyphenation,homeoarchy,homeoarchywordcolor=orange, homeoarchycharcolor=orange,draft]{impnattypo}
@@ -14,27 +19,29 @@
 \usepackage{easyReview}
 \usepackage{hyperxmp}
 \input{./files/gbTeXmeta-20250629MAURO.tex}
-\else
-\ifBNPDF
-\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
-\newcommand*\infofont[1]{\sf{\footnotesize #1 (sofia.maggiani@gmail.com)}}
-\crop[font=infofont]
-\usepackage[hidelinks, unicode]{hyperref}
-\usepackage{hyperxmp}
-\input{./files/gbTeXmeta-20250629MAURO.tex}
-\else
-\ifPNGEPUB
-\usepackage[hidelinks, unicode]{hyperref}
-\else
-\ifHTMLEPUB
-\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
-\fi
-\fi
-\fi
+	\else
+	\ifBNPDF
+	\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
+	\newcommand*\infofont[1]{\sf{\footnotesize #1 (sofia.maggiani@gmail.com)}}
+	\crop[font=infofont]
+	\usepackage[hidelinks, unicode]{hyperref}
+	\usepackage{hyperxmp}
+	\input{./files/gbTeXmeta-20250629MAURO.tex}
+		\else
+		\ifPNGEPUB
+		\usepackage[hidelinks, unicode]{hyperref}
+		\else
+			\ifHTMLEPUB
+			\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
+			\fi
+		\fi
+	\fi
 \fi
 
-% Definir el color de fondo: gris con 20% de magenta
-\definecolor{chaptercircle}{cmyk}{0,0.2,0,0}
+% Definir el color de fondo: gris con 20% de magenta y 30% de cyan
+\definecolor{chaptercircle}{cmyk}{0.3,0.2,0,0}
+
+
 \begin{document}
 \frontmatter
 
@@ -106,7 +113,7 @@ A Esther Jodice, por haberme acompañado en lo mejor de mi vida
 
 Cuando durante 2015 comencé a dar forma al proyecto de tesis, la bibliografía sobre sociología del periodismo argentino era escasa y/o fragmentaria. De hecho, distintos autores que estudiaban el tema lo presentaban como un déficit a subsanar. Por otra parte ese año, y los precedentes, habían dado lugar a una producción desusada de libros sobre la actividad periodística como expresión del conflicto, inicialmente, entre el gobierno y uno de los grandes grupos de medios de Argentina, pero luego el conflicto se extendió, en apariencia, a todo el periodismo argentino. A la luz de ese conflicto, creí observar la estructuración de un discurso, que daba cuenta del hacer y del sentir del conglomerado de periodistas que intervenían en la serie editorial y que, a mi entender, permitiría descubrir, o al menos reconocer, las formas que la acción del campo periodístico adopta, de manera especial, en una situación de conflicto abierto.
 
-%\textcite{@6961-BOURDIEU2008} plantea que en todo campo hay conflicto, pero que el campo lo gestiona de manera tal que no eclosione. El campo periodístico es experto en la gestión del conflicto. Su capacidad de convertir el conflicto entre actores significativos de la sociedad en acontecimientos de actualidad es, justamente, el sentido de su especificidad. Sin embargo, el conflicto al interior de sus entrañas, parece haberlo descentrado poniendo en riesgo el principio de su existencia, la creencia social colectiva en la identidad entre el discurso periodístico y la realidad, en la verosimilitud de los discursos de los periodistas. Cuando se escriben estas líneas (entre marzo y agosto de 2020), el conflicto ha escalado a niveles difíciles de imaginar en 2015, cuestionando en el escenario público, a periodistas de gran prestigio en Argentina.
+\textcite{@6961-BOURDIEU2008} plantea que en todo campo hay conflicto, pero que el campo lo gestiona de manera tal que no eclosione. El campo periodístico es experto en la gestión del conflicto. Su capacidad de convertir el conflicto entre actores significativos de la sociedad en acontecimientos de actualidad es, justamente, el sentido de su especificidad. Sin embargo, el conflicto al interior de sus entrañas, parece haberlo descentrado poniendo en riesgo el principio de su existencia, la creencia social colectiva en la identidad entre el discurso periodístico y la realidad, en la verosimilitud de los discursos de los periodistas. Cuando se escriben estas líneas (entre marzo y agosto de 2020), el conflicto ha escalado a niveles difíciles de imaginar en 2015, cuestionando en el escenario público, a periodistas de gran prestigio en Argentina.
 
 Mientras los medios gráficos poseían la exclusividad como medios de información, estos detentaban una unidad discursiva estructural, es decir los periodistas no eran públicamente reconocidos, ya que escasamente firmaban sus notas, por lo que la responsabilidad del periódico residía en los editores y el director. Sin embargo, el advenimiento de los medios audiovisuales promovió el proceso de identificación y autonomización de un número significativo de periodistas, fortaleciendo, a mi entender, el campo periodístico. Sin embargo, el conflicto del que damos cuenta en la tesis parece haber puesto en crisis esa creencia colectiva, haciendo que la existencia misma del campo se halle en riesgo.
 
@@ -116,14 +123,14 @@ Mientras los medios gráficos poseían la exclusividad como medios de informaci�
 %\chapter*{Periodistas en Debate. Aportes al estudio del campo periodístico.}
 
 
-%\newpage
-%\epigraph {\enquote{--¿Y si se rompe la ilusión? --dije con un hilo de voz.
-%		--Qué se va a romper --me tranquilizó.
-%		--Por si acaso, seré una tumba --le prometí-. Lo juro por mi adhesión personal, por mi lealtad al equipo, por usted, por Limardo, por Renovales.
-%		--Diga lo que se le dé la gana, nadie le va a creer.}
-%
-%	\emph{Esse est percipi} (Ser es ser percibido) \footnote{\fullcite{@6962-BORGESBIOY1967}}
-%
+\newpage
+\epigraph {\enquote{--¿Y si se rompe la ilusión? --dije con un hilo de voz.
+		--Qué se va a romper --me tranquilizó.
+		--Por si acaso, seré una tumba --le prometí-. Lo juro por mi adhesión personal, por mi lealtad al equipo, por usted, por Limardo, por Renovales.
+		--Diga lo que se le dé la gana, nadie le va a creer.}
+
+	\emph{Esse est percipi} (Ser es ser percibido) \footnote{\fullcite{@6962-BORGESBIOY1967}}}
+
 
 
 

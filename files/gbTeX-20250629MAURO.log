@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 15:44
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 16:12
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -2761,26 +2761,26 @@ ux file.>
 )
 \openout1 = pdf-20250629MAURO.aux
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 470.
-LaTeX Font Info:    ... okay on input line 470.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 477.
+LaTeX Font Info:    ... okay on input line 477.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: luatex
@@ -2818,22 +2818,22 @@ LaTeX Font Info:    ... okay on input line 470.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Info: Redefining \. on input line 470.
-LaTeX Info: Redefining \% on input line 470.
-LaTeX Info: Redefining \up on input line 470.
-LaTeX Info: Redefining \microtypecontext on input line 470.
-Package microtype Info: Applying patch `item' on input line 470.
-Package microtype Info: Applying patch `toc' on input line 470.
-Package microtype Info: Applying patch `eqnum' on input line 470.
-Package microtype Info: Applying patch `footnote' on input line 470.
-Package microtype Info: Applying patch `verbatim' on input line 470.
+LaTeX Info: Redefining \. on input line 477.
+LaTeX Info: Redefining \% on input line 477.
+LaTeX Info: Redefining \up on input line 477.
+LaTeX Info: Redefining \microtypecontext on input line 477.
+Package microtype Info: Applying patch `item' on input line 477.
+Package microtype Info: Applying patch `toc' on input line 477.
+Package microtype Info: Applying patch `eqnum' on input line 477.
+Package microtype Info: Applying patch `footnote' on input line 477.
+Package microtype Info: Applying patch `verbatim' on input line 477.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 470.
+LaTeX Info: Redefining \showhyphens on input line 477.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of spacing.
 Package microtype Info: No adjustment of kerning.
@@ -2843,13 +2843,13 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  TU/LibertinusMath(1)/m/n --> TU/LibertinusSerif(0)/m/n 
-on input line 470.
+on input line 477.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> TU/LibertinusSerif(0)/m/it on input li
-ne 470.
+ne 477.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> TU/LibertinusSerif(0)/b/n on input lin
-e 470.
+e 477.
 
 Package pageslts Warning: Package pdfpages detected.
 (pageslts)                Using hyperref with pdfpages can cause problems. See
@@ -2997,8 +2997,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'pdf-20250629MAURO.bbl' found.
 
 (./pdf-20250629MAURO.bbl)
-Package biblatex Info: Reference section=0 on input line 470.
-Package biblatex Info: Reference segment=0 on input line 470.
+Package biblatex Info: Reference section=0 on input line 477.
+Package biblatex Info: Reference segment=0 on input line 477.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-spanish.trsl
@@ -3006,7 +3006,7 @@ File: translations-basic-dictionary-spanish.trsl (spanish translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `spanish'. on input line 470.
+or `spanish'. on input line 477.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-german.trsl
@@ -3014,7 +3014,7 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 470.
+or `german'. on input line 477.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-english.trsl
@@ -3022,11 +3022,11 @@ File: translations-basic-dictionary-english.trsl (english translation file `tra
 nslations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `english'. on input line 470.
+or `english'. on input line 477.
 Package translations Info: no dictionary file `translations-basic-dictionary-it
-alian.trsl' found. on input line 470.
+alian.trsl' found. on input line 477.
 Package translations Info: no dictionary file `translations-basic-dictionary-po
-rtuges.trsl' found. on input line 470.
+rtuges.trsl' found. on input line 477.
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
 nary-french.trsl
@@ -3034,8 +3034,8 @@ File: translations-basic-dictionary-french.trsl (french translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `french'. on input line 470.
-Package hyperref Info: Link coloring ON on input line 470.
+or `french'. on input line 477.
+Package hyperref Info: Link coloring ON on input line 477.
  (./pdf-20250629MAURO.out) (./pdf-20250629MAURO.out)
 \@outlinefile=\write10
 
@@ -3080,15 +3080,15 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 ) [6<./media/desconocido.png>]
-Package biblatex Info: Resetting trackers on input line 476.
+Package biblatex Info: Resetting trackers on input line 483.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 14.12686pt on input line 476.
+(Font)              scaled to size 14.12686pt on input line 483.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `IBMPlexSansCondensed' (encoding: TU).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 16.95224pt on input line 476.
+(Font)              scaled to size 16.95224pt on input line 483.
  (./pdf-20250629MAURO.toc
 LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
@@ -3129,118 +3129,125 @@ as previously calculated.>
 ) [13] [14
 
 ]
-Package biblatex Info: Resetting trackers on input line 499.
+Package biblatex Info: Resetting trackers on input line 506.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 11.79993pt on input line 505.
-LaTeX Info: Redefining \. on input line 508.
-LaTeX Info: Redefining \% on input line 508.
-LaTeX Info: Redefining \. on input line 508.
-LaTeX Info: Redefining \% on input line 508.
+(Font)              scaled to size 11.79993pt on input line 512.
+LaTeX Info: Redefining \. on input line 515.
+LaTeX Info: Redefining \% on input line 515.
+LaTeX Info: Redefining \. on input line 515.
+LaTeX Info: Redefining \% on input line 515.
  [15]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 509.
+(Font)              scaled to size 9.69757pt on input line 516.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 509.
-LaTeX Info: Redefining \. on input line 520.
-LaTeX Info: Redefining \% on input line 520.
-LaTeX Info: Redefining \. on input line 520.
-LaTeX Info: Redefining \% on input line 520.
+(Font)              scaled to size 11.63708pt on input line 516.
+LaTeX Info: Redefining \. on input line 527.
+LaTeX Info: Redefining \% on input line 527.
+LaTeX Info: Redefining \. on input line 527.
+LaTeX Info: Redefining \% on input line 527.
  [16]
-LaTeX Info: Redefining \. on input line 540.
-LaTeX Info: Redefining \% on input line 540.
-LaTeX Info: Redefining \. on input line 540.
-LaTeX Info: Redefining \% on input line 540.
+LaTeX Info: Redefining \. on input line 547.
+LaTeX Info: Redefining \% on input line 547.
+LaTeX Info: Redefining \. on input line 547.
+LaTeX Info: Redefining \% on input line 547.
  [17]
-LaTeX Info: Redefining \. on input line 545.
-LaTeX Info: Redefining \% on input line 545.
-LaTeX Info: Redefining \. on input line 545.
-LaTeX Info: Redefining \% on input line 545.
+LaTeX Info: Redefining \. on input line 552.
+LaTeX Info: Redefining \% on input line 552.
+LaTeX Info: Redefining \. on input line 552.
+LaTeX Info: Redefining \% on input line 552.
  [18]
 \c@pagesLTS.roman.1.local.count=\count611
 \c@pagesLTS.pnc.arabic=\count612
 \c@pagesLTS.double.arabic=\count613
 \c@pagesLTS.current.local.arabic=\count614
-
-Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 562.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 562.
+LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
+(Font)              scaled to size 10.61993pt on input line 565.
+LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
+(Font)              scaled to size 5.89996pt on input line 565.
+LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
+(Font)              scaled to size 10.61993pt on input line 565.
+LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
+(Font)              scaled to size 5.89996pt on input line 565.
+LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
+(Font)              scaled to size 10.61993pt on input line 565.
+LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
+(Font)              scaled to size 5.89996pt on input line 565.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 10.61993pt on input line 565.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.43994pt on input line 566.
+(Font)              scaled to size 7.07996pt on input line 565.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 8.25995pt on input line 566.
+(Font)              scaled to size 8.25995pt on input line 565.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 566.
-LaTeX Info: Redefining \. on input line 573.
-LaTeX Info: Redefining \% on input line 573.
-LaTeX Info: Redefining \. on input line 573.
-LaTeX Info: Redefining \% on input line 573.
-[1
+(Font)              scaled to size 6.86723pt on input line 565.
+LaTeX Info: Redefining \. on input line 569.
+LaTeX Info: Redefining \% on input line 569.
+LaTeX Info: Redefining \. on input line 569.
+LaTeX Info: Redefining \% on input line 569.
+ [1
 
+] [2
 
 ]
-LaTeX Info: Redefining \. on input line 583.
-LaTeX Info: Redefining \% on input line 583.
-LaTeX Info: Redefining \. on input line 583.
-LaTeX Info: Redefining \% on input line 583.
- [2]
-LaTeX Info: Redefining \. on input line 601.
-LaTeX Info: Redefining \% on input line 601.
-LaTeX Info: Redefining \. on input line 601.
-LaTeX Info: Redefining \% on input line 601.
- [3]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.61993pt on input line 608.
-LaTeX Info: Redefining \. on input line 609.
-LaTeX Info: Redefining \% on input line 609.
-LaTeX Info: Redefining \. on input line 609.
-LaTeX Info: Redefining \% on input line 609.
+Capítulo 1.
+Package biblatex Info: Resetting trackers on input line 569.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
+(Font)              scaled to size 16.99188pt on input line 569.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
+(Font)              scaled to size 9.43994pt on input line 573.
+LaTeX Info: Redefining \. on input line 580.
+LaTeX Info: Redefining \% on input line 580.
+LaTeX Info: Redefining \. on input line 580.
+LaTeX Info: Redefining \% on input line 580.
+[3]
+LaTeX Info: Redefining \. on input line 590.
+LaTeX Info: Redefining \% on input line 590.
+LaTeX Info: Redefining \. on input line 590.
+LaTeX Info: Redefining \% on input line 590.
  [4]
-LaTeX Info: Redefining \. on input line 620.
-LaTeX Info: Redefining \% on input line 620.
-LaTeX Info: Redefining \. on input line 620.
-LaTeX Info: Redefining \% on input line 620.
+LaTeX Info: Redefining \. on input line 608.
+LaTeX Info: Redefining \% on input line 608.
+LaTeX Info: Redefining \. on input line 608.
+LaTeX Info: Redefining \% on input line 608.
  [5]
-LaTeX Info: Redefining \. on input line 630.
-LaTeX Info: Redefining \% on input line 630.
-LaTeX Info: Redefining \. on input line 630.
-LaTeX Info: Redefining \% on input line 630.
+LaTeX Info: Redefining \. on input line 616.
+LaTeX Info: Redefining \% on input line 616.
+LaTeX Info: Redefining \. on input line 616.
+LaTeX Info: Redefining \% on input line 616.
  [6]
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 11.7724pt on input line 642.
-LaTeX Info: Redefining \. on input line 645.
-LaTeX Info: Redefining \% on input line 645.
-LaTeX Info: Redefining \. on input line 645.
-LaTeX Info: Redefining \% on input line 645.
+LaTeX Info: Redefining \. on input line 627.
+LaTeX Info: Redefining \% on input line 627.
+LaTeX Info: Redefining \. on input line 627.
+LaTeX Info: Redefining \% on input line 627.
  [7]
-LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 652.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 652.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 652.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 652.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 652.
-LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 652.
-LaTeX Info: Redefining \. on input line 653.
-LaTeX Info: Redefining \% on input line 653.
-LaTeX Info: Redefining \. on input line 653.
-LaTeX Info: Redefining \% on input line 653.
+LaTeX Info: Redefining \. on input line 637.
+LaTeX Info: Redefining \% on input line 637.
+LaTeX Info: Redefining \. on input line 637.
+LaTeX Info: Redefining \% on input line 637.
  [8]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 7.84827pt on input line 657.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 7.75806pt on input line 661.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 680.
-LaTeX Info: Redefining \. on input line 688.
-LaTeX Info: Redefining \% on input line 688.
-LaTeX Info: Redefining \. on input line 688.
-LaTeX Info: Redefining \% on input line 688.
+(Font)              scaled to size 11.7724pt on input line 649.
+LaTeX Info: Redefining \. on input line 652.
+LaTeX Info: Redefining \% on input line 652.
+LaTeX Info: Redefining \. on input line 652.
+LaTeX Info: Redefining \% on input line 652.
  [9]
+LaTeX Info: Redefining \. on input line 660.
+LaTeX Info: Redefining \% on input line 660.
+LaTeX Info: Redefining \. on input line 660.
+LaTeX Info: Redefining \% on input line 660.
+ [10]
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
+(Font)              scaled to size 7.84827pt on input line 664.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 7.75806pt on input line 668.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 10.61993pt on input line 687.
+LaTeX Info: Redefining \. on input line 695.
+LaTeX Info: Redefining \% on input line 695.
+LaTeX Info: Redefining \. on input line 695.
+LaTeX Info: Redefining \% on input line 695.
+ [11]
 
 ! LaTeX Error: Environment tabularx undefined.
 
@@ -3248,7 +3255,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.726 	\begin{tabularx}
+l.733 	\begin{tabularx}
                      {\textwidth}{l | *{10}{>{\centering\arraybackslash}X} |...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3257,7 +3264,7 @@ or  <return>  to continue without it.
 ! Missing number, treated as zero.
 <to be read again> 
 }
-l.726 	\begin{tabularx}{\textwidth}
+l.733 	\begin{tabularx}{\textwidth}
                                  {l | *{10}{>{\centering\arraybackslash}X} |...
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3266,7 +3273,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
 }
-l.726 	\begin{tabularx}{\textwidth}
+l.733 	\begin{tabularx}{\textwidth}
                                  {l | *{10}{>{\centering\arraybackslash}X} |...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3278,13 +3285,13 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Misplaced \noalign.
 \toprule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\abovetopsep \global \@b...
-l.727 		\toprule
+l.734 		\toprule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.728 		\textbf{Diario} &
+l.735 		\textbf{Diario} &
                         \textbf{2010} & \textbf{2011} & \textbf{2012} & \tex...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3294,7 +3301,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 		\textbf{Diario} & \textbf{2010} &
+l.735 		\textbf{Diario} & \textbf{2010} &
                                         \textbf{2011} & \textbf{2012} & \tex...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3304,7 +3311,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...f{Diario} & \textbf{2010} & \textbf{2011} &
+l.735 ...f{Diario} & \textbf{2010} & \textbf{2011} &
                                                    \textbf{2012} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3314,7 +3321,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
+l.735 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
                                                    \textbf{2013} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3324,7 +3331,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
+l.735 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
                                                    \textbf{2014} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3334,7 +3341,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
+l.735 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
                                                    \textbf{2015} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3344,7 +3351,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
+l.735 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
                                                    \textbf{2016} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3354,7 +3361,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
+l.735 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
                                                    \textbf{2017} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3364,7 +3371,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
+l.735 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
                                                    \textbf{2018} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3374,7 +3381,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
+l.735 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
                                                    \textbf{2019} & \textbf{D...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3384,7 +3391,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.728 ...tbf{2017} & \textbf{2018} & \textbf{2019} &
+l.735 ...tbf{2017} & \textbf{2018} & \textbf{2019} &
                                                    \textbf{Dif. 10/19} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3396,13 +3403,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.729 		\midrule
+l.736 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.730 		Clarín &
+l.737 		Clarín &
                 301 & 288 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3412,7 +3419,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 		Clarín & 301 &
+l.737 		Clarín & 301 &
                       288 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3422,7 +3429,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 		Clarín & 301 & 288 &
+l.737 		Clarín & 301 & 288 &
                             271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3432,7 +3439,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 		Clarín & 301 & 288 & 271 &
+l.737 		Clarín & 301 & 288 & 271 &
                                   279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3442,7 +3449,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 		Clarín & 301 & 288 & 271 & 279 &
+l.737 		Clarín & 301 & 288 & 271 & 279 &
                                         239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3452,7 +3459,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 		Clarín & 301 & 288 & 271 & 279 & 239 &
+l.737 		Clarín & 301 & 288 & 271 & 279 & 239 &
                                               238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3462,7 +3469,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 ...arín & 301 & 288 & 271 & 279 & 239 & 238 &
+l.737 ...arín & 301 & 288 & 271 & 279 & 239 & 238 &
                                                    207 & 183 & 206 & 213 & -...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3472,7 +3479,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 ...& 301 & 288 & 271 & 279 & 239 & 238 & 207 &
+l.737 ...& 301 & 288 & 271 & 279 & 239 & 238 & 207 &
                                                    183 & 206 & 213 & -33 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3482,7 +3489,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 ...& 288 & 271 & 279 & 239 & 238 & 207 & 183 &
+l.737 ...& 288 & 271 & 279 & 239 & 238 & 207 & 183 &
                                                    206 & 213 & -33 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3492,7 +3499,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 ...& 271 & 279 & 239 & 238 & 207 & 183 & 206 &
+l.737 ...& 271 & 279 & 239 & 238 & 207 & 183 & 206 &
                                                    213 & -33 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3502,7 +3509,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.730 ...& 279 & 239 & 238 & 207 & 183 & 206 & 213 &
+l.737 ...& 279 & 239 & 238 & 207 & 183 & 206 & 213 &
                                                    -33 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3514,13 +3521,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.731 		\midrule
+l.738 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.732 		La Nación &
+l.739 		La Nación &
                    150 & 160 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3530,7 +3537,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 		La Nación & 150 &
+l.739 		La Nación & 150 &
                          160 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3540,7 +3547,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 		La Nación & 150 & 160 &
+l.739 		La Nación & 150 & 160 &
                                162 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3550,7 +3557,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 		La Nación & 150 & 160 & 162 &
+l.739 		La Nación & 150 & 160 & 162 &
                                      168 & 164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3560,7 +3567,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 		La Nación & 150 & 160 & 162 & 168 &
+l.739 		La Nación & 150 & 160 & 162 & 168 &
                                            164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3570,7 +3577,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 		La Nación & 150 & 160 & 162 & 168 & 164 &
+l.739 		La Nación & 150 & 160 & 162 & 168 & 164 &
                                                  156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3580,7 +3587,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 ...ción & 150 & 160 & 162 & 168 & 164 & 156 &
+l.739 ...ción & 150 & 160 & 162 & 168 & 164 & 156 &
                                                    130 & 122 & 117 & 100 & -...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3590,7 +3597,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 ...& 150 & 160 & 162 & 168 & 164 & 156 & 130 &
+l.739 ...& 150 & 160 & 162 & 168 & 164 & 156 & 130 &
                                                    122 & 117 & 100 & -37 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3600,7 +3607,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 ...& 160 & 162 & 168 & 164 & 156 & 130 & 122 &
+l.739 ...& 160 & 162 & 168 & 164 & 156 & 130 & 122 &
                                                    117 & 100 & -37 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3610,7 +3617,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 ...& 162 & 168 & 164 & 156 & 130 & 122 & 117 &
+l.739 ...& 162 & 168 & 164 & 156 & 130 & 122 & 117 &
                                                    100 & -37 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3620,7 +3627,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.732 ...& 168 & 164 & 156 & 130 & 122 & 117 & 100 &
+l.739 ...& 168 & 164 & 156 & 130 & 122 & 117 & 100 &
                                                    -37 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3632,13 +3639,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.733 		\midrule
+l.740 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.734 		Diario Popular &
+l.741 		Diario Popular &
                        90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3648,7 +3655,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 		Diario Popular & 90 &
+l.741 		Diario Popular & 90 &
                             91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3658,7 +3665,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 		Diario Popular & 90 & 91 &
+l.741 		Diario Popular & 90 & 91 &
                                  89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3668,7 +3675,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 		Diario Popular & 90 & 91 & 89 &
+l.741 		Diario Popular & 90 & 91 & 89 &
                                       88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3678,7 +3685,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 		Diario Popular & 90 & 91 & 89 & 88 &
+l.741 		Diario Popular & 90 & 91 & 89 & 88 &
                                            82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3688,7 +3695,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 		Diario Popular & 90 & 91 & 89 & 88 & 82 &
+l.741 		Diario Popular & 90 & 91 & 89 & 88 & 82 &
                                                 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3698,7 +3705,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 ...rio Popular & 90 & 91 & 89 & 88 & 82 & 84 &
+l.741 ...rio Popular & 90 & 91 & 89 & 88 & 82 & 84 &
                                                    78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3708,7 +3715,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 ...opular & 90 & 91 & 89 & 88 & 82 & 84 & 78 &
+l.741 ...opular & 90 & 91 & 89 & 88 & 82 & 84 & 78 &
                                                    69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3718,7 +3725,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 ...r & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 &
+l.741 ...r & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 &
                                                    62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3728,7 +3735,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 ...0 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 &
+l.741 ...0 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 &
                                                    51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3738,7 +3745,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.734 ...1 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 &
+l.741 ...1 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 &
                                                    -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3750,26 +3757,24 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \bottomrule ->\noalign 
                        {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global...
-l.735 		\bottomrule
+l.742 		\bottomrule
                  
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-! LaTeX Error: \begin{table} on input line 722 ended by \end{tabularx}.
+! LaTeX Error: \begin{table} on input line 729 ended by \end{tabularx}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.736 	\end{tabularx}
+l.743 	\end{tabularx}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 7.07996pt on input line 737.
 
 ! LaTeX Error: Environment tabularx undefined.
 
@@ -3777,7 +3782,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.745 	\begin{tabularx}
+l.752 	\begin{tabularx}
                      {\textwidth}{
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3786,7 +3791,7 @@ or  <return>  to continue without it.
 ! Missing number, treated as zero.
 <to be read again> 
 }
-l.745 	\begin{tabularx}{\textwidth}
+l.752 	\begin{tabularx}{\textwidth}
                                  {
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3795,7 +3800,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
 }
-l.745 	\begin{tabularx}{\textwidth}
+l.752 	\begin{tabularx}{\textwidth}
                                  {
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3807,13 +3812,13 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Misplaced \noalign.
 \toprule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\abovetopsep \global \@b...
-l.749 		\toprule
+l.756 		\toprule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.750 		\textbf{Diario} &
+l.757 		\textbf{Diario} &
                         \textbf{Localidad} & \textbf{2010} & \textbf{2011} &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3823,7 +3828,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 		\textbf{Diario} & \textbf{Localidad} &
+l.757 		\textbf{Diario} & \textbf{Localidad} &
                                              \textbf{2010} & \textbf{2011} &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3833,7 +3838,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...rio} & \textbf{Localidad} & \textbf{2010} &
+l.757 ...rio} & \textbf{Localidad} & \textbf{2010} &
                                                    \textbf{2011} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3843,7 +3848,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...ocalidad} & \textbf{2010} & \textbf{2011} &
+l.757 ...ocalidad} & \textbf{2010} & \textbf{2011} &
                                                    \textbf{2012} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3853,7 +3858,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
+l.757 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
                                                    \textbf{2013} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3863,7 +3868,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
+l.757 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
                                                    \textbf{2014} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3873,7 +3878,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
+l.757 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
                                                    \textbf{2015} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3883,7 +3888,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
+l.757 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
                                                    \textbf{2016} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3893,7 +3898,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
+l.757 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
                                                    \textbf{2017} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3903,7 +3908,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
+l.757 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
                                                    \textbf{2018} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3913,7 +3918,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.750 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
+l.757 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
                                                    \textbf{2019} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3925,13 +3930,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.751 		\midrule
+l.758 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.752 		Clarín &
+l.759 		Clarín &
                 AMBA & 664 & 591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3941,7 +3946,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 		Clarín & AMBA &
+l.759 		Clarín & AMBA &
                        664 & 591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3951,7 +3956,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 		Clarín & AMBA & 664 &
+l.759 		Clarín & AMBA & 664 &
                              591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3961,7 +3966,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 		Clarín & AMBA & 664 & 591 &
+l.759 		Clarín & AMBA & 664 & 591 &
                                    599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3971,7 +3976,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 		Clarín & AMBA & 664 & 591 & 599 &
+l.759 		Clarín & AMBA & 664 & 591 & 599 &
                                          570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3981,7 +3986,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 		Clarín & AMBA & 664 & 591 & 599 & 570 &
+l.759 		Clarín & AMBA & 664 & 591 & 599 & 570 &
                                                513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3991,7 +3996,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 ...rín & AMBA & 664 & 591 & 599 & 570 & 513 &
+l.759 ...rín & AMBA & 664 & 591 & 599 & 570 & 513 &
                                                    508 & 487 & 446 & 388 & 3...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4001,7 +4006,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 ... AMBA & 664 & 591 & 599 & 570 & 513 & 508 &
+l.759 ... AMBA & 664 & 591 & 599 & 570 & 513 & 508 &
                                                    487 & 446 & 388 & 396 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4011,7 +4016,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 ...& 664 & 591 & 599 & 570 & 513 & 508 & 487 &
+l.759 ...& 664 & 591 & 599 & 570 & 513 & 508 & 487 &
                                                    446 & 388 & 396 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4021,7 +4026,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 ...& 591 & 599 & 570 & 513 & 508 & 487 & 446 &
+l.759 ...& 591 & 599 & 570 & 513 & 508 & 487 & 446 &
                                                    388 & 396 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4031,7 +4036,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.752 ...& 599 & 570 & 513 & 508 & 487 & 446 & 388 &
+l.759 ...& 599 & 570 & 513 & 508 & 487 & 446 & 388 &
                                                    396 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4043,13 +4048,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.753 		\midrule
+l.760 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.754 		La Nación &
+l.761 		La Nación &
                    AMBA & 280 & 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4059,7 +4064,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 		La Nación & AMBA &
+l.761 		La Nación & AMBA &
                           280 & 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4069,7 +4074,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 		La Nación & AMBA & 280 &
+l.761 		La Nación & AMBA & 280 &
                                 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4079,7 +4084,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 		La Nación & AMBA & 280 & 332 &
+l.761 		La Nación & AMBA & 280 & 332 &
                                       360 & 331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4089,7 +4094,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 		La Nación & AMBA & 280 & 332 & 360 &
+l.761 		La Nación & AMBA & 280 & 332 & 360 &
                                             331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4099,7 +4104,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 		La Nación & AMBA & 280 & 332 & 360 & 331 &
+l.761 		La Nación & AMBA & 280 & 332 & 360 & 331 &
                                                   323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4109,7 +4114,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 ...ión & AMBA & 280 & 332 & 360 & 331 & 323 &
+l.761 ...ión & AMBA & 280 & 332 & 360 & 331 & 323 &
                                                    320 & 302 & 288 & 209 & 2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4119,7 +4124,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 ... AMBA & 280 & 332 & 360 & 331 & 323 & 320 &
+l.761 ... AMBA & 280 & 332 & 360 & 331 & 323 & 320 &
                                                    302 & 288 & 209 & 201 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4129,7 +4134,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 ...& 280 & 332 & 360 & 331 & 323 & 320 & 302 &
+l.761 ...& 280 & 332 & 360 & 331 & 323 & 320 & 302 &
                                                    288 & 209 & 201 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4139,7 +4144,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 ...& 332 & 360 & 331 & 323 & 320 & 302 & 288 &
+l.761 ...& 332 & 360 & 331 & 323 & 320 & 302 & 288 &
                                                    209 & 201 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4149,7 +4154,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.754 ...& 360 & 331 & 323 & 320 & 302 & 288 & 209 &
+l.761 ...& 360 & 331 & 323 & 320 & 302 & 288 & 209 &
                                                    201 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4161,13 +4166,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.755 		\midrule
+l.762 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.756 		Diario Popular &
+l.763 		Diario Popular &
                        AMBA & 147 & 131 & 135 & 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4177,7 +4182,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 		Diario Popular & AMBA &
+l.763 		Diario Popular & AMBA &
                               147 & 131 & 135 & 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4187,7 +4192,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 		Diario Popular & AMBA & 147 &
+l.763 		Diario Popular & AMBA & 147 &
                                     131 & 135 & 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4197,7 +4202,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 		Diario Popular & AMBA & 147 & 131 &
+l.763 		Diario Popular & AMBA & 147 & 131 &
                                           135 & 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4207,7 +4212,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 		Diario Popular & AMBA & 147 & 131 & 135 &
+l.763 		Diario Popular & AMBA & 147 & 131 & 135 &
                                                 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4217,7 +4222,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 ...io Popular & AMBA & 147 & 131 & 135 & 131 &
+l.763 ...io Popular & AMBA & 147 & 131 & 135 & 131 &
                                                    120 & 118 & 106 & 95 & 85...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4227,7 +4232,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 ...ular & AMBA & 147 & 131 & 135 & 131 & 120 &
+l.763 ...ular & AMBA & 147 & 131 & 135 & 131 & 120 &
                                                    118 & 106 & 95 & 85 & 73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4237,7 +4242,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 ... AMBA & 147 & 131 & 135 & 131 & 120 & 118 &
+l.763 ... AMBA & 147 & 131 & 135 & 131 & 120 & 118 &
                                                    106 & 95 & 85 & 73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4247,7 +4252,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 ...& 147 & 131 & 135 & 131 & 120 & 118 & 106 &
+l.763 ...& 147 & 131 & 135 & 131 & 120 & 118 & 106 &
                                                    95 & 85 & 73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4257,7 +4262,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 ... & 131 & 135 & 131 & 120 & 118 & 106 & 95 &
+l.763 ... & 131 & 135 & 131 & 120 & 118 & 106 & 95 &
                                                    85 & 73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4267,7 +4272,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.756 ...1 & 135 & 131 & 120 & 118 & 106 & 95 & 85 &
+l.763 ...1 & 135 & 131 & 120 & 118 & 106 & 95 & 85 &
                                                    73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4279,13 +4284,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.757 		\midrule
+l.764 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.758 		La Voz del Int. &
+l.765 		La Voz del Int. &
                         Córdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4295,7 +4300,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 		La Voz del Int. & Córdoba &
+l.765 		La Voz del Int. & Córdoba &
                                    99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4305,7 +4310,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 		La Voz del Int. & Córdoba & 99 &
+l.765 		La Voz del Int. & Córdoba & 99 &
                                         90 & 90 & 90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4315,7 +4320,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 		La Voz del Int. & Córdoba & 99 & 90 &
+l.765 		La Voz del Int. & Córdoba & 99 & 90 &
                                              90 & 90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4325,7 +4330,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 		La Voz del Int. & Córdoba & 99 & 90 & 90 &
+l.765 		La Voz del Int. & Córdoba & 99 & 90 & 90 &
                                                   90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4335,7 +4340,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 ...z del Int. & Córdoba & 99 & 90 & 90 & 90 &
+l.765 ...z del Int. & Córdoba & 99 & 90 & 90 & 90 &
                                                    84 & 81 & 73 & 66 & 59 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4345,7 +4350,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 ... Int. & Córdoba & 99 & 90 & 90 & 90 & 84 &
+l.765 ... Int. & Córdoba & 99 & 90 & 90 & 90 & 84 &
                                                    81 & 73 & 66 & 59 & 53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4355,7 +4360,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 ... & Córdoba & 99 & 90 & 90 & 90 & 84 & 81 &
+l.765 ... & Córdoba & 99 & 90 & 90 & 90 & 84 & 81 &
                                                    73 & 66 & 59 & 53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4365,7 +4370,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 ...rdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 &
+l.765 ...rdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 &
                                                    66 & 59 & 53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4375,7 +4380,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 ...a & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 &
+l.765 ...a & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 &
                                                    59 & 53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4385,7 +4390,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.758 ...9 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 &
+l.765 ...9 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 &
                                                    53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4397,13 +4402,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.759 		\midrule
+l.766 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.760 		Los Andes &
+l.767 		Los Andes &
                   Mendoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4413,7 +4418,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 		Los Andes & Mendoza &
+l.767 		Los Andes & Mendoza &
                             83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4423,7 +4428,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 		Los Andes & Mendoza & 83 &
+l.767 		Los Andes & Mendoza & 83 &
                                  78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4433,7 +4438,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 		Los Andes & Mendoza & 83 & 78 &
+l.767 		Los Andes & Mendoza & 83 & 78 &
                                       77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4443,7 +4448,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 		Los Andes & Mendoza & 83 & 78 & 77 &
+l.767 		Los Andes & Mendoza & 83 & 78 & 77 &
                                            73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4453,7 +4458,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 		Los Andes & Mendoza & 83 & 78 & 77 & 73 &
+l.767 		Los Andes & Mendoza & 83 & 78 & 77 & 73 &
                                                 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4463,7 +4468,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 ... Andes & Mendoza & 83 & 78 & 77 & 73 & 68 &
+l.767 ... Andes & Mendoza & 83 & 78 & 77 & 73 & 68 &
                                                    65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4473,7 +4478,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 ...s & Mendoza & 83 & 78 & 77 & 73 & 68 & 65 &
+l.767 ...s & Mendoza & 83 & 78 & 77 & 73 & 68 & 65 &
                                                    57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4483,7 +4488,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 ...endoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 &
+l.767 ...endoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 &
                                                    52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4493,7 +4498,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 ...a & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 &
+l.767 ...a & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 &
                                                    49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4503,7 +4508,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.760 ...3 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 &
+l.767 ...3 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 &
                                                    43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4515,13 +4520,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.761 		\midrule
+l.768 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.762 		La Capital &
+l.769 		La Capital &
                    Rosario & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4531,7 +4536,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 		La Capital & Rosario &
+l.769 		La Capital & Rosario &
                              82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4541,7 +4546,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 		La Capital & Rosario & 82 &
+l.769 		La Capital & Rosario & 82 &
                                   80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4551,7 +4556,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 		La Capital & Rosario & 82 & 80 &
+l.769 		La Capital & Rosario & 82 & 80 &
                                        76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4561,7 +4566,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 		La Capital & Rosario & 82 & 80 & 76 &
+l.769 		La Capital & Rosario & 82 & 80 & 76 &
                                             67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4571,7 +4576,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 		La Capital & Rosario & 82 & 80 & 76 & 67 &
+l.769 		La Capital & Rosario & 82 & 80 & 76 & 67 &
                                                  62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4581,7 +4586,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 ...apital & Rosario & 82 & 80 & 76 & 67 & 62 &
+l.769 ...apital & Rosario & 82 & 80 & 76 & 67 & 62 &
                                                    56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4591,7 +4596,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 ...l & Rosario & 82 & 80 & 76 & 67 & 62 & 56 &
+l.769 ...l & Rosario & 82 & 80 & 76 & 67 & 62 & 56 &
                                                    47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4601,7 +4606,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 ...osario & 82 & 80 & 76 & 67 & 62 & 56 & 47 &
+l.769 ...osario & 82 & 80 & 76 & 67 & 62 & 56 & 47 &
                                                    41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4611,7 +4616,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 ...o & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 &
+l.769 ...o & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 &
                                                    36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4621,7 +4626,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.762 ...2 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 &
+l.769 ...2 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 &
                                                    30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4633,13 +4638,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.763 		\midrule
+l.770 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.764 		La Gaceta &
+l.771 		La Gaceta &
                   Tucumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4649,7 +4654,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 		La Gaceta & Tucumán &
+l.771 		La Gaceta & Tucumán &
                              61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4659,7 +4664,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 		La Gaceta & Tucumán & 61 &
+l.771 		La Gaceta & Tucumán & 61 &
                                   62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4669,7 +4674,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 		La Gaceta & Tucumán & 61 & 62 &
+l.771 		La Gaceta & Tucumán & 61 & 62 &
                                        60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4679,7 +4684,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 		La Gaceta & Tucumán & 61 & 62 & 60 &
+l.771 		La Gaceta & Tucumán & 61 & 62 & 60 &
                                             56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4689,7 +4694,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 		La Gaceta & Tucumán & 61 & 62 & 60 & 56 &
+l.771 		La Gaceta & Tucumán & 61 & 62 & 60 & 56 &
                                                  56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4699,7 +4704,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 ...aceta & Tucumán & 61 & 62 & 60 & 56 & 56 &
+l.771 ...aceta & Tucumán & 61 & 62 & 60 & 56 & 56 &
                                                    55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4709,7 +4714,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 ... & Tucumán & 61 & 62 & 60 & 56 & 56 & 55 &
+l.771 ... & Tucumán & 61 & 62 & 60 & 56 & 56 & 55 &
                                                    49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4719,7 +4724,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 ...cumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 &
+l.771 ...cumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 &
                                                    45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4729,7 +4734,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 ...n & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 &
+l.771 ...n & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 &
                                                    40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4739,7 +4744,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.764 ...1 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 &
+l.771 ...1 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 &
                                                    34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4751,13 +4756,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.765 		\midrule
+l.772 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.766 		Río Negro &
+l.773 		Río Negro &
                    Gral. Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4767,7 +4772,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 		Río Negro & Gral. Roca &
+l.773 		Río Negro & Gral. Roca &
                                 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4777,7 +4782,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 		Río Negro & Gral. Roca & 45 &
+l.773 		Río Negro & Gral. Roca & 45 &
                                      44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4787,7 +4792,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 		Río Negro & Gral. Roca & 45 & 44 &
+l.773 		Río Negro & Gral. Roca & 45 & 44 &
                                           42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4797,7 +4802,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 		Río Negro & Gral. Roca & 45 & 44 & 42 &
+l.773 		Río Negro & Gral. Roca & 45 & 44 & 42 &
                                                36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4807,7 +4812,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 ...o Negro & Gral. Roca & 45 & 44 & 42 & 36 &
+l.773 ...o Negro & Gral. Roca & 45 & 44 & 42 & 36 &
                                                    35 & 35 & 32 & 28 & 26 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4817,7 +4822,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 ...gro & Gral. Roca & 45 & 44 & 42 & 36 & 35 &
+l.773 ...gro & Gral. Roca & 45 & 44 & 42 & 36 & 35 &
                                                    35 & 32 & 28 & 26 & 21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4827,7 +4832,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 ... Gral. Roca & 45 & 44 & 42 & 36 & 35 & 35 &
+l.773 ... Gral. Roca & 45 & 44 & 42 & 36 & 35 & 35 &
                                                    32 & 28 & 26 & 21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4837,7 +4842,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 .... Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 &
+l.773 .... Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 &
                                                    28 & 26 & 21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4847,7 +4852,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 ...a & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 &
+l.773 ...a & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 &
                                                    26 & 21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4857,7 +4862,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.766 ...5 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &
+l.773 ...5 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &
                                                    21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4869,13 +4874,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.767 		\midrule
+l.774 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.768 		El Día &
+l.775 		El Día &
                 La Plata & 40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4885,7 +4890,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 		El Día & La Plata &
+l.775 		El Día & La Plata &
                            40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4895,7 +4900,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 		El Día & La Plata & 40 &
+l.775 		El Día & La Plata & 40 &
                                 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4905,7 +4910,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 		El Día & La Plata & 40 & 41 &
+l.775 		El Día & La Plata & 40 & 41 &
                                      39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4915,7 +4920,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 		El Día & La Plata & 40 & 41 & 39 &
+l.775 		El Día & La Plata & 40 & 41 & 39 &
                                           35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4925,7 +4930,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 		El Día & La Plata & 40 & 41 & 39 & 35 &
+l.775 		El Día & La Plata & 40 & 41 & 39 & 35 &
                                                35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4935,7 +4940,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 ... Día & La Plata & 40 & 41 & 39 & 35 & 35 &
+l.775 ... Día & La Plata & 40 & 41 & 39 & 35 & 35 &
                                                    33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4945,7 +4950,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 ... & La Plata & 40 & 41 & 39 & 35 & 35 & 33 &
+l.775 ... & La Plata & 40 & 41 & 39 & 35 & 35 & 33 &
                                                    31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4955,7 +4960,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 ... Plata & 40 & 41 & 39 & 35 & 35 & 33 & 31 &
+l.775 ... Plata & 40 & 41 & 39 & 35 & 35 & 33 & 31 &
                                                    26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4965,7 +4970,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 ...a & 40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 &
+l.775 ...a & 40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 &
                                                    23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4975,7 +4980,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.768 ...0 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 &
+l.775 ...0 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 &
                                                    19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4987,13 +4992,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.769 		\midrule
+l.776 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.770 		Diario Uno &
+l.777 		Diario Uno &
                    Entre Ríos & 36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5003,7 +5008,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 		Diario Uno & Entre Ríos &
+l.777 		Diario Uno & Entre Ríos &
                                  36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5013,7 +5018,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 		Diario Uno & Entre Ríos & 36 &
+l.777 		Diario Uno & Entre Ríos & 36 &
                                       38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5023,7 +5028,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 		Diario Uno & Entre Ríos & 36 & 38 &
+l.777 		Diario Uno & Entre Ríos & 36 & 38 &
                                            22 & 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5033,7 +5038,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 		Diario Uno & Entre Ríos & 36 & 38 & 22 &
+l.777 		Diario Uno & Entre Ríos & 36 & 38 & 22 &
                                                 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5043,7 +5048,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 ...rio Uno & Entre Ríos & 36 & 38 & 22 & 34 &
+l.777 ...rio Uno & Entre Ríos & 36 & 38 & 22 & 34 &
                                                    30 & 28 & 26 & 26 & 25 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5053,7 +5058,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 ...no & Entre Ríos & 36 & 38 & 22 & 34 & 30 &
+l.777 ...no & Entre Ríos & 36 & 38 & 22 & 34 & 30 &
                                                    28 & 26 & 26 & 25 & 11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5063,7 +5068,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 ...Entre Ríos & 36 & 38 & 22 & 34 & 30 & 28 &
+l.777 ...Entre Ríos & 36 & 38 & 22 & 34 & 30 & 28 &
                                                    26 & 26 & 25 & 11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5073,7 +5078,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 ... Ríos & 36 & 38 & 22 & 34 & 30 & 28 & 26 &
+l.777 ... Ríos & 36 & 38 & 22 & 34 & 30 & 28 & 26 &
                                                    26 & 25 & 11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5083,7 +5088,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 ...s & 36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 &
+l.777 ...s & 36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 &
                                                    25 & 11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5093,7 +5098,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.770 ...6 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 &
+l.777 ...6 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 &
                                                    11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5105,263 +5110,263 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \bottomrule ->\noalign 
                        {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global...
-l.771 		\bottomrule
+l.778 		\bottomrule
                  
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-! LaTeX Error: \begin{table} on input line 741 ended by \end{tabularx}.
+! LaTeX Error: \begin{table} on input line 748 ended by \end{tabularx}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.772 	\end{tabularx}
+l.779 	\end{tabularx}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Info: Redefining \. on input line 817.
-LaTeX Info: Redefining \% on input line 817.
-LaTeX Info: Redefining \. on input line 817.
-LaTeX Info: Redefining \% on input line 817.
-[10]
+LaTeX Info: Redefining \. on input line 824.
+LaTeX Info: Redefining \% on input line 824.
+LaTeX Info: Redefining \. on input line 824.
+LaTeX Info: Redefining \% on input line 824.
+[12]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 9.81033pt on input line 821.
-LaTeX Info: Redefining \. on input line 832.
-LaTeX Info: Redefining \% on input line 832.
-LaTeX Info: Redefining \. on input line 832.
-LaTeX Info: Redefining \% on input line 832.
- [11]
-LaTeX Info: Redefining \. on input line 844.
-LaTeX Info: Redefining \% on input line 844.
-LaTeX Info: Redefining \. on input line 844.
-LaTeX Info: Redefining \% on input line 844.
- [12]
-LaTeX Info: Redefining \. on input line 858.
-LaTeX Info: Redefining \% on input line 858.
-LaTeX Info: Redefining \. on input line 858.
-LaTeX Info: Redefining \% on input line 858.
+(Font)              scaled to size 9.81033pt on input line 828.
+LaTeX Info: Redefining \. on input line 839.
+LaTeX Info: Redefining \% on input line 839.
+LaTeX Info: Redefining \. on input line 839.
+LaTeX Info: Redefining \% on input line 839.
  [13]
-LaTeX Info: Redefining \. on input line 867.
-LaTeX Info: Redefining \% on input line 867.
-LaTeX Info: Redefining \. on input line 867.
-LaTeX Info: Redefining \% on input line 867.
+LaTeX Info: Redefining \. on input line 851.
+LaTeX Info: Redefining \% on input line 851.
+LaTeX Info: Redefining \. on input line 851.
+LaTeX Info: Redefining \% on input line 851.
  [14]
-LaTeX Info: Redefining \. on input line 878.
-LaTeX Info: Redefining \% on input line 878.
-LaTeX Info: Redefining \. on input line 878.
-LaTeX Info: Redefining \% on input line 878.
+LaTeX Info: Redefining \. on input line 865.
+LaTeX Info: Redefining \% on input line 865.
+LaTeX Info: Redefining \. on input line 865.
+LaTeX Info: Redefining \% on input line 865.
  [15]
-LaTeX Info: Redefining \. on input line 900.
-LaTeX Info: Redefining \% on input line 900.
-LaTeX Info: Redefining \. on input line 900.
-LaTeX Info: Redefining \% on input line 900.
+LaTeX Info: Redefining \. on input line 874.
+LaTeX Info: Redefining \% on input line 874.
+LaTeX Info: Redefining \. on input line 874.
+LaTeX Info: Redefining \% on input line 874.
  [16]
-LaTeX Info: Redefining \. on input line 912.
-LaTeX Info: Redefining \% on input line 912.
-LaTeX Info: Redefining \. on input line 912.
-LaTeX Info: Redefining \% on input line 912.
+LaTeX Info: Redefining \. on input line 885.
+LaTeX Info: Redefining \% on input line 885.
+LaTeX Info: Redefining \. on input line 885.
+LaTeX Info: Redefining \% on input line 885.
  [17]
-LaTeX Info: Redefining \. on input line 924.
-LaTeX Info: Redefining \% on input line 924.
-LaTeX Info: Redefining \. on input line 924.
-LaTeX Info: Redefining \% on input line 924.
+LaTeX Info: Redefining \. on input line 907.
+LaTeX Info: Redefining \% on input line 907.
+LaTeX Info: Redefining \. on input line 907.
+LaTeX Info: Redefining \% on input line 907.
  [18]
+LaTeX Info: Redefining \. on input line 919.
+LaTeX Info: Redefining \% on input line 919.
+LaTeX Info: Redefining \. on input line 919.
+LaTeX Info: Redefining \% on input line 919.
+ [19]
+LaTeX Info: Redefining \. on input line 931.
+LaTeX Info: Redefining \% on input line 931.
+LaTeX Info: Redefining \. on input line 931.
+LaTeX Info: Redefining \% on input line 931.
+ [20]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 924.
-LaTeX Info: Redefining \. on input line 935.
-LaTeX Info: Redefining \% on input line 935.
-LaTeX Info: Redefining \. on input line 935.
-LaTeX Info: Redefining \% on input line 935.
-[19
+Package biblatex Info: Resetting trackers on input line 931.
+LaTeX Info: Redefining \. on input line 942.
+LaTeX Info: Redefining \% on input line 942.
+LaTeX Info: Redefining \. on input line 942.
+LaTeX Info: Redefining \% on input line 942.
+[21
 
 ]
-LaTeX Info: Redefining \. on input line 943.
-LaTeX Info: Redefining \% on input line 943.
-LaTeX Info: Redefining \. on input line 943.
-LaTeX Info: Redefining \% on input line 943.
- [20]
+LaTeX Info: Redefining \. on input line 950.
+LaTeX Info: Redefining \% on input line 950.
+LaTeX Info: Redefining \. on input line 950.
+LaTeX Info: Redefining \% on input line 950.
+ [22]
 Overfull \vbox (0.96939pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 951.
-LaTeX Info: Redefining \% on input line 951.
-LaTeX Info: Redefining \. on input line 951.
-LaTeX Info: Redefining \% on input line 951.
+LaTeX Info: Redefining \. on input line 958.
+LaTeX Info: Redefining \% on input line 958.
+LaTeX Info: Redefining \. on input line 958.
+LaTeX Info: Redefining \% on input line 958.
 
-[21]
-LaTeX Info: Redefining \. on input line 963.
-LaTeX Info: Redefining \% on input line 963.
-LaTeX Info: Redefining \. on input line 963.
-LaTeX Info: Redefining \% on input line 963.
- [22]
-LaTeX Info: Redefining \. on input line 972.
-LaTeX Info: Redefining \% on input line 972.
-LaTeX Info: Redefining \. on input line 972.
-LaTeX Info: Redefining \% on input line 972.
- [23]
-LaTeX Info: Redefining \. on input line 987.
-LaTeX Info: Redefining \% on input line 987.
-LaTeX Info: Redefining \. on input line 987.
-LaTeX Info: Redefining \% on input line 987.
+[23]
+LaTeX Info: Redefining \. on input line 970.
+LaTeX Info: Redefining \% on input line 970.
+LaTeX Info: Redefining \. on input line 970.
+LaTeX Info: Redefining \% on input line 970.
  [24]
-LaTeX Info: Redefining \. on input line 994.
-LaTeX Info: Redefining \% on input line 994.
-LaTeX Info: Redefining \. on input line 994.
-LaTeX Info: Redefining \% on input line 994.
+LaTeX Info: Redefining \. on input line 979.
+LaTeX Info: Redefining \% on input line 979.
+LaTeX Info: Redefining \. on input line 979.
+LaTeX Info: Redefining \% on input line 979.
  [25]
-LaTeX Info: Redefining \. on input line 1021.
-LaTeX Info: Redefining \% on input line 1021.
-LaTeX Info: Redefining \. on input line 1021.
-LaTeX Info: Redefining \% on input line 1021.
+LaTeX Info: Redefining \. on input line 994.
+LaTeX Info: Redefining \% on input line 994.
+LaTeX Info: Redefining \. on input line 994.
+LaTeX Info: Redefining \% on input line 994.
  [26]
-LaTeX Info: Redefining \. on input line 1038.
-LaTeX Info: Redefining \% on input line 1038.
-LaTeX Info: Redefining \. on input line 1038.
-LaTeX Info: Redefining \% on input line 1038.
+LaTeX Info: Redefining \. on input line 1001.
+LaTeX Info: Redefining \% on input line 1001.
+LaTeX Info: Redefining \. on input line 1001.
+LaTeX Info: Redefining \% on input line 1001.
  [27]
-LaTeX Info: Redefining \. on input line 1046.
-LaTeX Info: Redefining \% on input line 1046.
-LaTeX Info: Redefining \. on input line 1046.
-LaTeX Info: Redefining \% on input line 1046.
+LaTeX Info: Redefining \. on input line 1028.
+LaTeX Info: Redefining \% on input line 1028.
+LaTeX Info: Redefining \. on input line 1028.
+LaTeX Info: Redefining \% on input line 1028.
  [28]
-LaTeX Info: Redefining \. on input line 1069.
-LaTeX Info: Redefining \% on input line 1069.
-LaTeX Info: Redefining \. on input line 1069.
-LaTeX Info: Redefining \% on input line 1069.
+LaTeX Info: Redefining \. on input line 1045.
+LaTeX Info: Redefining \% on input line 1045.
+LaTeX Info: Redefining \. on input line 1045.
+LaTeX Info: Redefining \% on input line 1045.
  [29]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
-(Font)              scaled to size 11.79993pt on input line 1075.
-LaTeX Info: Redefining \. on input line 1089.
-LaTeX Info: Redefining \% on input line 1089.
-LaTeX Info: Redefining \. on input line 1089.
-LaTeX Info: Redefining \% on input line 1089.
+LaTeX Info: Redefining \. on input line 1053.
+LaTeX Info: Redefining \% on input line 1053.
+LaTeX Info: Redefining \. on input line 1053.
+LaTeX Info: Redefining \% on input line 1053.
  [30]
-LaTeX Info: Redefining \. on input line 1106.
-LaTeX Info: Redefining \% on input line 1106.
-LaTeX Info: Redefining \. on input line 1106.
-LaTeX Info: Redefining \% on input line 1106.
+LaTeX Info: Redefining \. on input line 1076.
+LaTeX Info: Redefining \% on input line 1076.
+LaTeX Info: Redefining \. on input line 1076.
+LaTeX Info: Redefining \% on input line 1076.
  [31]
-LaTeX Info: Redefining \. on input line 1119.
-LaTeX Info: Redefining \% on input line 1119.
-LaTeX Info: Redefining \. on input line 1119.
-LaTeX Info: Redefining \% on input line 1119.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
+(Font)              scaled to size 11.79993pt on input line 1082.
+LaTeX Info: Redefining \. on input line 1096.
+LaTeX Info: Redefining \% on input line 1096.
+LaTeX Info: Redefining \. on input line 1096.
+LaTeX Info: Redefining \% on input line 1096.
  [32]
-LaTeX Info: Redefining \. on input line 1143.
-LaTeX Info: Redefining \% on input line 1143.
-LaTeX Info: Redefining \. on input line 1143.
-LaTeX Info: Redefining \% on input line 1143.
+LaTeX Info: Redefining \. on input line 1113.
+LaTeX Info: Redefining \% on input line 1113.
+LaTeX Info: Redefining \. on input line 1113.
+LaTeX Info: Redefining \% on input line 1113.
  [33]
-LaTeX Info: Redefining \. on input line 1150.
-LaTeX Info: Redefining \% on input line 1150.
-LaTeX Info: Redefining \. on input line 1150.
-LaTeX Info: Redefining \% on input line 1150.
+LaTeX Info: Redefining \. on input line 1126.
+LaTeX Info: Redefining \% on input line 1126.
+LaTeX Info: Redefining \. on input line 1126.
+LaTeX Info: Redefining \% on input line 1126.
  [34]
-LaTeX Info: Redefining \. on input line 1175.
-LaTeX Info: Redefining \% on input line 1175.
-LaTeX Info: Redefining \. on input line 1175.
-LaTeX Info: Redefining \% on input line 1175.
+LaTeX Info: Redefining \. on input line 1150.
+LaTeX Info: Redefining \% on input line 1150.
+LaTeX Info: Redefining \. on input line 1150.
+LaTeX Info: Redefining \% on input line 1150.
  [35]
-LaTeX Info: Redefining \. on input line 1184.
-LaTeX Info: Redefining \% on input line 1184.
-LaTeX Info: Redefining \. on input line 1184.
-LaTeX Info: Redefining \% on input line 1184.
-
-[36]
-LaTeX Info: Redefining \. on input line 1192.
-LaTeX Info: Redefining \% on input line 1192.
-LaTeX Info: Redefining \. on input line 1192.
-LaTeX Info: Redefining \% on input line 1192.
+LaTeX Info: Redefining \. on input line 1157.
+LaTeX Info: Redefining \% on input line 1157.
+LaTeX Info: Redefining \. on input line 1157.
+LaTeX Info: Redefining \% on input line 1157.
+ [36]
+LaTeX Info: Redefining \. on input line 1182.
+LaTeX Info: Redefining \% on input line 1182.
+LaTeX Info: Redefining \. on input line 1182.
+LaTeX Info: Redefining \% on input line 1182.
  [37]
-LaTeX Info: Redefining \. on input line 1207.
-LaTeX Info: Redefining \% on input line 1207.
-LaTeX Info: Redefining \. on input line 1207.
-LaTeX Info: Redefining \% on input line 1207.
- [38]
-LaTeX Info: Redefining \. on input line 1210.
-LaTeX Info: Redefining \% on input line 1210.
-LaTeX Info: Redefining \. on input line 1210.
-LaTeX Info: Redefining \% on input line 1210.
+LaTeX Info: Redefining \. on input line 1191.
+LaTeX Info: Redefining \% on input line 1191.
+LaTeX Info: Redefining \. on input line 1191.
+LaTeX Info: Redefining \% on input line 1191.
+
+[38]
+LaTeX Info: Redefining \. on input line 1199.
+LaTeX Info: Redefining \% on input line 1199.
+LaTeX Info: Redefining \. on input line 1199.
+LaTeX Info: Redefining \% on input line 1199.
  [39]
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 1226.
-LaTeX Info: Redefining \. on input line 1240.
-LaTeX Info: Redefining \% on input line 1240.
-LaTeX Info: Redefining \. on input line 1240.
-LaTeX Info: Redefining \% on input line 1240.
+LaTeX Info: Redefining \. on input line 1214.
+LaTeX Info: Redefining \% on input line 1214.
+LaTeX Info: Redefining \. on input line 1214.
+LaTeX Info: Redefining \% on input line 1214.
  [40]
-LaTeX Info: Redefining \. on input line 1252.
-LaTeX Info: Redefining \% on input line 1252.
-LaTeX Info: Redefining \. on input line 1252.
-LaTeX Info: Redefining \% on input line 1252.
+LaTeX Info: Redefining \. on input line 1217.
+LaTeX Info: Redefining \% on input line 1217.
+LaTeX Info: Redefining \. on input line 1217.
+LaTeX Info: Redefining \% on input line 1217.
  [41]
-LaTeX Info: Redefining \. on input line 1253.
-LaTeX Info: Redefining \% on input line 1253.
-LaTeX Info: Redefining \. on input line 1253.
-LaTeX Info: Redefining \% on input line 1253.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
+(Font)              scaled to size 11.79993pt on input line 1233.
+LaTeX Info: Redefining \. on input line 1247.
+LaTeX Info: Redefining \% on input line 1247.
+LaTeX Info: Redefining \. on input line 1247.
+LaTeX Info: Redefining \% on input line 1247.
  [42]
+LaTeX Info: Redefining \. on input line 1259.
+LaTeX Info: Redefining \% on input line 1259.
+LaTeX Info: Redefining \. on input line 1259.
+LaTeX Info: Redefining \% on input line 1259.
+ [43]
+LaTeX Info: Redefining \. on input line 1260.
+LaTeX Info: Redefining \% on input line 1260.
+LaTeX Info: Redefining \. on input line 1260.
+LaTeX Info: Redefining \% on input line 1260.
+ [44]
 Capítulo 3.
-Package biblatex Info: Resetting trackers on input line 1253.
-LaTeX Info: Redefining \. on input line 1264.
-LaTeX Info: Redefining \% on input line 1264.
-LaTeX Info: Redefining \. on input line 1264.
-LaTeX Info: Redefining \% on input line 1264.
-[43
+Package biblatex Info: Resetting trackers on input line 1260.
+LaTeX Info: Redefining \. on input line 1271.
+LaTeX Info: Redefining \% on input line 1271.
+LaTeX Info: Redefining \. on input line 1271.
+LaTeX Info: Redefining \% on input line 1271.
+[45
 
 ]
-LaTeX Info: Redefining \. on input line 1274.
-LaTeX Info: Redefining \% on input line 1274.
-LaTeX Info: Redefining \. on input line 1274.
-LaTeX Info: Redefining \% on input line 1274.
- [44]
-LaTeX Info: Redefining \. on input line 1287.
-LaTeX Info: Redefining \% on input line 1287.
-LaTeX Info: Redefining \. on input line 1287.
-LaTeX Info: Redefining \% on input line 1287.
- [45]
-LaTeX Info: Redefining \. on input line 1308.
-LaTeX Info: Redefining \% on input line 1308.
-LaTeX Info: Redefining \. on input line 1308.
-LaTeX Info: Redefining \% on input line 1308.
+LaTeX Info: Redefining \. on input line 1281.
+LaTeX Info: Redefining \% on input line 1281.
+LaTeX Info: Redefining \. on input line 1281.
+LaTeX Info: Redefining \% on input line 1281.
  [46]
-LaTeX Info: Redefining \. on input line 1321.
-LaTeX Info: Redefining \% on input line 1321.
-LaTeX Info: Redefining \. on input line 1321.
-LaTeX Info: Redefining \% on input line 1321.
+LaTeX Info: Redefining \. on input line 1294.
+LaTeX Info: Redefining \% on input line 1294.
+LaTeX Info: Redefining \. on input line 1294.
+LaTeX Info: Redefining \% on input line 1294.
  [47]
-LaTeX Info: Redefining \. on input line 1330.
-LaTeX Info: Redefining \% on input line 1330.
-LaTeX Info: Redefining \. on input line 1330.
-LaTeX Info: Redefining \% on input line 1330.
+LaTeX Info: Redefining \. on input line 1315.
+LaTeX Info: Redefining \% on input line 1315.
+LaTeX Info: Redefining \. on input line 1315.
+LaTeX Info: Redefining \% on input line 1315.
  [48]
-LaTeX Info: Redefining \. on input line 1337.
-LaTeX Info: Redefining \% on input line 1337.
-LaTeX Info: Redefining \. on input line 1337.
-LaTeX Info: Redefining \% on input line 1337.
+LaTeX Info: Redefining \. on input line 1328.
+LaTeX Info: Redefining \% on input line 1328.
+LaTeX Info: Redefining \. on input line 1328.
+LaTeX Info: Redefining \% on input line 1328.
  [49]
-LaTeX Info: Redefining \. on input line 1416.
-LaTeX Info: Redefining \% on input line 1416.
-LaTeX Info: Redefining \. on input line 1416.
-LaTeX Info: Redefining \% on input line 1416.
+LaTeX Info: Redefining \. on input line 1337.
+LaTeX Info: Redefining \% on input line 1337.
+LaTeX Info: Redefining \. on input line 1337.
+LaTeX Info: Redefining \% on input line 1337.
  [50]
-LaTeX Info: Redefining \. on input line 1444.
-LaTeX Info: Redefining \% on input line 1444.
-LaTeX Info: Redefining \. on input line 1444.
-LaTeX Info: Redefining \% on input line 1444.
- [51] 
+LaTeX Info: Redefining \. on input line 1344.
+LaTeX Info: Redefining \% on input line 1344.
+LaTeX Info: Redefining \. on input line 1344.
+LaTeX Info: Redefining \% on input line 1344.
+ [51]
+LaTeX Info: Redefining \. on input line 1423.
+LaTeX Info: Redefining \% on input line 1423.
+LaTeX Info: Redefining \. on input line 1423.
+LaTeX Info: Redefining \% on input line 1423.
+ [52]
+LaTeX Info: Redefining \. on input line 1451.
+LaTeX Info: Redefining \% on input line 1451.
+LaTeX Info: Redefining \. on input line 1451.
+LaTeX Info: Redefining \% on input line 1451.
+ [53] 
 AED: pageslts setting LastPage 
-LaTeX Info: Redefining \. on input line 2903.
-LaTeX Info: Redefining \% on input line 2903.
-LaTeX Info: Redefining \. on input line 2903.
-LaTeX Info: Redefining \% on input line 2903.
+LaTeX Info: Redefining \. on input line 2910.
+LaTeX Info: Redefining \% on input line 2910.
+LaTeX Info: Redefining \. on input line 2910.
+LaTeX Info: Redefining \% on input line 2910.
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [52]
+) [54]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -5397,18 +5402,18 @@ Package logreq Info: Writing requests to 'pdf-20250629MAURO.run.xml'.
 )
 
 Here is how much of LuaTeX's memory you used:
- 67064 strings out of 476553
- 2276559,2848258 words of node,token memory allocated
- 2146131 words of node memory still in use:
-   13581 hlist, 390 vlist, 7950 rule, 46 ins, 2 adjust, 25474 disc, 1668 local_p
-ar, 201 math, 39556 glue, 16337 kern, 3627 penalty, 428 margin_kern, 161600 glyp
-h, 57906 attribute, 2812 glue_spec, 8284 attribute_list, 206 write, 26 pdf_liter
-al, 177 pdf_start_link, 180 pdf_end_link, 86 pdf_dest, 132 pdf_action, 897 pdf_c
+ 67075 strings out of 476553
+ 2276554,2848258 words of node,token memory allocated
+ 2168879 words of node memory still in use:
+   13657 hlist, 393 vlist, 7976 rule, 49 ins, 3 adjust, 25734 disc, 1690 local_p
+ar, 207 math, 39948 glue, 16480 kern, 3678 penalty, 431 margin_kern, 163529 glyp
+h, 58473 attribute, 2840 glue_spec, 8365 attribute_list, 220 write, 26 pdf_liter
+al, 181 pdf_start_link, 184 pdf_end_link, 91 pdf_dest, 135 pdf_action, 905 pdf_c
 olorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
-   avail lists: 1:8,2:324,3:277,4:56,5:395,6:99,7:4362,8:88,9:835,10:28,11:583
- 87150 multiletter control sequences out of 65536+600000
- 102 fonts using 28191311 bytes
- 117i,11n,123p,5827b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
+   avail lists: 1:7,2:324,3:277,4:56,5:395,6:99,7:4362,8:88,9:835,10:28,11:583
+ 87157 multiletter control sequences out of 65536+600000
+ 102 fonts using 28191379 bytes
+ 117i,15n,123p,5827b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'cite.0@@6998-SIRVEN2
 011'
@@ -5491,9 +5496,9 @@ U1997'
 warning  (pdf backend): unreferenced destination with name 'cite.0@@6960-WINAZKI
 2000'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.9'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.10'
 
-warning  (pdf backend): unreferenced destination with name 'Hfootnote.8'
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.9'
 
 warning  (pdf backend): unreferenced destination with name 'cite.0@@6970-MOYANO2
 013'
@@ -5518,6 +5523,11 @@ EIN2016'
 
 warning  (pdf backend): unreferenced destination with name 'cite.0@@6971-DEDIEGO
 2012'
+
+warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
+
+warning  (pdf backend): unreferenced destination with name 'cite.0@@6961-BOURDIE
+U2008'
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
 Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
 lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public
@@ -5527,10 +5537,10 @@ st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250629MAURO.pdf (70 pages, 337140 bytes).
+Output written on pdf-20250629MAURO.pdf (72 pages, 339682 bytes).
 
-PDF statistics: 717 PDF objects out of 1000 (max. 8388607)
- 490 compressed objects within 5 object streams
- 197 named destinations out of 1000 (max. 131072)
+PDF statistics: 734 PDF objects out of 1000 (max. 8388607)
+ 501 compressed objects within 6 object streams
+ 201 named destinations out of 1000 (max. 131072)
  293 words of extra memory for PDF output out of 10000 (max. 100000000)
 
