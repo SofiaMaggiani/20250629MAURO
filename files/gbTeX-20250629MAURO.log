@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 16:24
+This is LuaHBTeX, Version 1.17.0 (TeX Live 2023/Debian)  (format=lualatex 2025.6.23)  30 JUN 2025 17:34
  restricted system commands enabled.
 **pdf-20250629MAURO.tex
 (./pdf-20250629MAURO.tex
@@ -2996,7 +2996,176 @@ Package biblatex Info: Data encoding 'utf8' specified.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'pdf-20250629MAURO.bbl' found.
 
-(./pdf-20250629MAURO.bbl)
+(./pdf-20250629MAURO.bbl
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @6971-A2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @6972-ORLANDO2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @6977-BLAUSTEIN2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @6978-BLAUSTEIN2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @6984-BOURDIEU1997
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @6988-CAPASSO2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @6990-CECCHINI2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @6996-DIAZ2009
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7015-JORNET2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7016-LEVINAS2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7017-LEVINAS2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7022-MARQUEZ2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7024-MASTRINI2017
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7026-MENESESFERNANDEZ2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7029-MOCHKOFSKY2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7031-MORALES2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7036-MUCHNIK2012
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7037-NOVARO2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7040-OLIVAN2010
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7041-PICCONE2015
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7052-SIRVEN2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7053-SIRVEN2013
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7067-ZUNINO2011
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+
+Package biblatex Warning: The following entry could not be found
+(biblatex)                in the database:
+(biblatex)                @7068-ZUNINO2014
+(biblatex)                Please verify the spelling and rerun
+(biblatex)                LaTeX afterwards.
+
+)
 Package biblatex Info: Reference section=0 on input line 477.
 Package biblatex Info: Reference segment=0 on input line 477.
 
@@ -3057,13 +3226,13 @@ LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
 (Font)              scaled to size 14.15991pt on input line 23.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
 (Font)              scaled to size 16.99188pt on input line 31.
-<./media/logo-imago-ByW.png, id=69, 85.2786pt x 42.1575pt>
+<./media/logo-imago-ByW.png, id=77, 85.2786pt x 42.1575pt>
 File: ./media/logo-imago-ByW.png Graphic file (type png)
 <use ./media/logo-imago-ByW.png>
 Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 38.
 (luatex.def)             Requested size: 56.9055pt x 28.1315pt.
  [3<./media/logo-imago-ByW.png>]
-<./media/desconocido.png, id=76, 85.2786pt x 98.0463pt>
+<./media/desconocido.png, id=84, 85.2786pt x 98.0463pt>
 File: ./media/desconocido.png Graphic file (type png)
 <use ./media/desconocido.png>
 Package luatex.def Info: ./media/desconocido.png  used on input line 47.
@@ -3094,159 +3263,140 @@ LaTeX Info: Redefining \sptext on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 9.81033pt on input line 2.
+(Font)              scaled to size 9.81033pt on input line 8.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 2.
+(Font)              scaled to size 10.61993pt on input line 8.
+LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
+(Font)              scaled to size 11.79993pt on input line 30.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
+(Font)              scaled to size 9.81033pt on input line 30.
 )
 \tf@toc=\write11
 
 \openout11 = pdf-20250629MAURO.toc
-
-(./artcap/inicio-frontmatter.tex
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
-LaTeX Info: Redefining \. on input line 4.
-LaTeX Info: Redefining \% on input line 4.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 9.69757pt on input line 507.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
+(Font)              scaled to size 11.63708pt on input line 507.
+LaTeX Info: Redefining \. on input line 514.
+LaTeX Info: Redefining \% on input line 514.
+LaTeX Info: Redefining \. on input line 514.
+LaTeX Info: Redefining \% on input line 514.
  [5
 
-] [6] [7]
-File: ./media/logo-imago-ByW.png Graphic file (type png)
-<use ./media/logo-imago-ByW.png>
-Package luatex.def Info: ./media/logo-imago-ByW.png  used on input line 38.
-(luatex.def)             Requested size: 56.9055pt x 28.1315pt.
+]
+LaTeX Info: Redefining \. on input line 526.
+LaTeX Info: Redefining \% on input line 526.
+LaTeX Info: Redefining \. on input line 526.
+LaTeX Info: Redefining \% on input line 526.
+ [6]
+LaTeX Info: Redefining \. on input line 548.
+LaTeX Info: Redefining \% on input line 548.
+LaTeX Info: Redefining \. on input line 548.
+LaTeX Info: Redefining \% on input line 548.
+ [7]
+LaTeX Info: Redefining \. on input line 553.
+LaTeX Info: Redefining \% on input line 553.
+LaTeX Info: Redefining \. on input line 553.
+LaTeX Info: Redefining \% on input line 553.
  [8]
-File: ./media/desconocido.png Graphic file (type png)
-<use ./media/desconocido.png>
-Package luatex.def Info: ./media/desconocido.png  used on input line 47.
-(luatex.def)             Requested size: 56.9055pt x 65.42586pt.
+LaTeX Info: Redefining \. on input line 553.
+LaTeX Info: Redefining \% on input line 553.
+LaTeX Info: Redefining \. on input line 553.
+LaTeX Info: Redefining \% on input line 553.
 
-
-
-<QR code requested for "https://www.edicionesimagomundi.com/" in version 0-M.>
-
-<Copying the QR code for "https://www.edicionesimagomundi.com/" in version 3-M 
-as previously calculated.>
-) [9] [10
+[9] [10
 
 ]
-Package biblatex Info: Resetting trackers on input line 506.
-LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 11.79993pt on input line 512.
-LaTeX Info: Redefining \. on input line 515.
-LaTeX Info: Redefining \% on input line 515.
-LaTeX Info: Redefining \. on input line 515.
-LaTeX Info: Redefining \% on input line 515.
- [11]
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 9.69757pt on input line 516.
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 11.63708pt on input line 516.
-LaTeX Info: Redefining \. on input line 527.
-LaTeX Info: Redefining \% on input line 527.
-LaTeX Info: Redefining \. on input line 527.
-LaTeX Info: Redefining \% on input line 527.
- [12]
-LaTeX Info: Redefining \. on input line 547.
-LaTeX Info: Redefining \% on input line 547.
-LaTeX Info: Redefining \. on input line 547.
-LaTeX Info: Redefining \% on input line 547.
- [13]
-LaTeX Info: Redefining \. on input line 552.
-LaTeX Info: Redefining \% on input line 552.
-LaTeX Info: Redefining \. on input line 552.
-LaTeX Info: Redefining \% on input line 552.
- [14]
 \c@pagesLTS.roman.1.local.count=\count611
 \c@pagesLTS.pnc.arabic=\count612
 \c@pagesLTS.double.arabic=\count613
 \c@pagesLTS.current.local.arabic=\count614
 LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 565.
+(Font)              scaled to size 10.61993pt on input line 566.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(1)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 565.
+(Font)              scaled to size 5.89996pt on input line 566.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 565.
+(Font)              scaled to size 10.61993pt on input line 566.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(2)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 565.
+(Font)              scaled to size 5.89996pt on input line 566.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
-(Font)              scaled to size 10.61993pt on input line 565.
+(Font)              scaled to size 10.61993pt on input line 566.
 LaTeX Font Info:    Font shape `TU/LibertinusMath(3)/m/n' will be
-(Font)              scaled to size 5.89996pt on input line 565.
+(Font)              scaled to size 5.89996pt on input line 566.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/it' will be
-(Font)              scaled to size 10.61993pt on input line 565.
+(Font)              scaled to size 10.61993pt on input line 566.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 7.07996pt on input line 565.
+(Font)              scaled to size 7.07996pt on input line 566.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 8.25995pt on input line 565.
+(Font)              scaled to size 8.25995pt on input line 566.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 6.86723pt on input line 565.
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
-LaTeX Info: Redefining \. on input line 569.
-LaTeX Info: Redefining \% on input line 569.
- [1
-
-] [2
+(Font)              scaled to size 6.86723pt on input line 566.
+LaTeX Info: Redefining \. on input line 570.
+LaTeX Info: Redefining \% on input line 570.
+LaTeX Info: Redefining \. on input line 570.
+LaTeX Info: Redefining \% on input line 570.
+ [1] [2
 
 ]
 Capítulo 1.
-Package biblatex Info: Resetting trackers on input line 569.
+Package biblatex Info: Resetting trackers on input line 570.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 16.99188pt on input line 569.
+(Font)              scaled to size 16.99188pt on input line 570.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/n' will be
-(Font)              scaled to size 9.43994pt on input line 573.
-LaTeX Info: Redefining \. on input line 580.
-LaTeX Info: Redefining \% on input line 580.
-LaTeX Info: Redefining \. on input line 580.
-LaTeX Info: Redefining \% on input line 580.
+(Font)              scaled to size 9.43994pt on input line 574.
+LaTeX Info: Redefining \. on input line 581.
+LaTeX Info: Redefining \% on input line 581.
+LaTeX Info: Redefining \. on input line 581.
+LaTeX Info: Redefining \% on input line 581.
 [3]
-LaTeX Info: Redefining \. on input line 590.
-LaTeX Info: Redefining \% on input line 590.
-LaTeX Info: Redefining \. on input line 590.
-LaTeX Info: Redefining \% on input line 590.
+LaTeX Info: Redefining \. on input line 591.
+LaTeX Info: Redefining \% on input line 591.
+LaTeX Info: Redefining \. on input line 591.
+LaTeX Info: Redefining \% on input line 591.
  [4]
-LaTeX Info: Redefining \. on input line 608.
-LaTeX Info: Redefining \% on input line 608.
-LaTeX Info: Redefining \. on input line 608.
-LaTeX Info: Redefining \% on input line 608.
+LaTeX Info: Redefining \. on input line 609.
+LaTeX Info: Redefining \% on input line 609.
+LaTeX Info: Redefining \. on input line 609.
+LaTeX Info: Redefining \% on input line 609.
  [5]
-LaTeX Info: Redefining \. on input line 616.
-LaTeX Info: Redefining \% on input line 616.
-LaTeX Info: Redefining \. on input line 616.
-LaTeX Info: Redefining \% on input line 616.
+LaTeX Info: Redefining \. on input line 617.
+LaTeX Info: Redefining \% on input line 617.
+LaTeX Info: Redefining \. on input line 617.
+LaTeX Info: Redefining \% on input line 617.
  [6]
-LaTeX Info: Redefining \. on input line 627.
-LaTeX Info: Redefining \% on input line 627.
-LaTeX Info: Redefining \. on input line 627.
-LaTeX Info: Redefining \% on input line 627.
+LaTeX Info: Redefining \. on input line 628.
+LaTeX Info: Redefining \% on input line 628.
+LaTeX Info: Redefining \. on input line 628.
+LaTeX Info: Redefining \% on input line 628.
  [7]
-LaTeX Info: Redefining \. on input line 637.
-LaTeX Info: Redefining \% on input line 637.
-LaTeX Info: Redefining \. on input line 637.
-LaTeX Info: Redefining \% on input line 637.
+LaTeX Info: Redefining \. on input line 638.
+LaTeX Info: Redefining \% on input line 638.
+LaTeX Info: Redefining \. on input line 638.
+LaTeX Info: Redefining \% on input line 638.
  [8]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 11.7724pt on input line 649.
-LaTeX Info: Redefining \. on input line 652.
-LaTeX Info: Redefining \% on input line 652.
-LaTeX Info: Redefining \. on input line 652.
-LaTeX Info: Redefining \% on input line 652.
+(Font)              scaled to size 11.7724pt on input line 650.
+LaTeX Info: Redefining \. on input line 653.
+LaTeX Info: Redefining \% on input line 653.
+LaTeX Info: Redefining \. on input line 653.
+LaTeX Info: Redefining \% on input line 653.
  [9]
-LaTeX Info: Redefining \. on input line 660.
-LaTeX Info: Redefining \% on input line 660.
-LaTeX Info: Redefining \. on input line 660.
-LaTeX Info: Redefining \% on input line 660.
+LaTeX Info: Redefining \. on input line 661.
+LaTeX Info: Redefining \% on input line 661.
+LaTeX Info: Redefining \. on input line 661.
+LaTeX Info: Redefining \% on input line 661.
  [10]
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/n' will be
-(Font)              scaled to size 7.84827pt on input line 664.
+(Font)              scaled to size 7.84827pt on input line 665.
 LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/b/n' will be
-(Font)              scaled to size 7.75806pt on input line 668.
+(Font)              scaled to size 7.75806pt on input line 669.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 10.61993pt on input line 687.
-LaTeX Info: Redefining \. on input line 695.
-LaTeX Info: Redefining \% on input line 695.
-LaTeX Info: Redefining \. on input line 695.
-LaTeX Info: Redefining \% on input line 695.
+(Font)              scaled to size 10.61993pt on input line 688.
+LaTeX Info: Redefining \. on input line 696.
+LaTeX Info: Redefining \% on input line 696.
+LaTeX Info: Redefining \. on input line 696.
+LaTeX Info: Redefining \% on input line 696.
  [11]
 
 ! LaTeX Error: Environment tabularx undefined.
@@ -3255,7 +3405,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.733 	\begin{tabularx}
+l.734 	\begin{tabularx}
                      {\textwidth}{l | *{10}{>{\centering\arraybackslash}X} |...
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3264,7 +3414,7 @@ or  <return>  to continue without it.
 ! Missing number, treated as zero.
 <to be read again> 
 }
-l.733 	\begin{tabularx}{\textwidth}
+l.734 	\begin{tabularx}{\textwidth}
                                  {l | *{10}{>{\centering\arraybackslash}X} |...
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3273,7 +3423,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
 }
-l.733 	\begin{tabularx}{\textwidth}
+l.734 	\begin{tabularx}{\textwidth}
                                  {l | *{10}{>{\centering\arraybackslash}X} |...
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3285,13 +3435,13 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Misplaced \noalign.
 \toprule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\abovetopsep \global \@b...
-l.734 		\toprule
+l.735 		\toprule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.735 		\textbf{Diario} &
+l.736 		\textbf{Diario} &
                         \textbf{2010} & \textbf{2011} & \textbf{2012} & \tex...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3301,7 +3451,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 		\textbf{Diario} & \textbf{2010} &
+l.736 		\textbf{Diario} & \textbf{2010} &
                                         \textbf{2011} & \textbf{2012} & \tex...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3311,7 +3461,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...f{Diario} & \textbf{2010} & \textbf{2011} &
+l.736 ...f{Diario} & \textbf{2010} & \textbf{2011} &
                                                    \textbf{2012} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3321,7 +3471,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
+l.736 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
                                                    \textbf{2013} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3331,7 +3481,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
+l.736 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
                                                    \textbf{2014} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3341,7 +3491,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
+l.736 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
                                                    \textbf{2015} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3351,7 +3501,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
+l.736 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
                                                    \textbf{2016} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3361,7 +3511,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
+l.736 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
                                                    \textbf{2017} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3371,7 +3521,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
+l.736 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
                                                    \textbf{2018} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3381,7 +3531,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
+l.736 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
                                                    \textbf{2019} & \textbf{D...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3391,7 +3541,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.735 ...tbf{2017} & \textbf{2018} & \textbf{2019} &
+l.736 ...tbf{2017} & \textbf{2018} & \textbf{2019} &
                                                    \textbf{Dif. 10/19} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3403,13 +3553,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.736 		\midrule
+l.737 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.737 		Clarín &
+l.738 		Clarín &
                 301 & 288 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3419,7 +3569,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 		Clarín & 301 &
+l.738 		Clarín & 301 &
                       288 & 271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3429,7 +3579,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 		Clarín & 301 & 288 &
+l.738 		Clarín & 301 & 288 &
                             271 & 279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3439,7 +3589,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 		Clarín & 301 & 288 & 271 &
+l.738 		Clarín & 301 & 288 & 271 &
                                   279 & 239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3449,7 +3599,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 		Clarín & 301 & 288 & 271 & 279 &
+l.738 		Clarín & 301 & 288 & 271 & 279 &
                                         239 & 238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3459,7 +3609,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 		Clarín & 301 & 288 & 271 & 279 & 239 &
+l.738 		Clarín & 301 & 288 & 271 & 279 & 239 &
                                               238 & 207 & 183 & 206 & 213 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3469,7 +3619,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 ...arín & 301 & 288 & 271 & 279 & 239 & 238 &
+l.738 ...arín & 301 & 288 & 271 & 279 & 239 & 238 &
                                                    207 & 183 & 206 & 213 & -...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3479,7 +3629,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 ...& 301 & 288 & 271 & 279 & 239 & 238 & 207 &
+l.738 ...& 301 & 288 & 271 & 279 & 239 & 238 & 207 &
                                                    183 & 206 & 213 & -33 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3489,7 +3639,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 ...& 288 & 271 & 279 & 239 & 238 & 207 & 183 &
+l.738 ...& 288 & 271 & 279 & 239 & 238 & 207 & 183 &
                                                    206 & 213 & -33 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3499,7 +3649,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 ...& 271 & 279 & 239 & 238 & 207 & 183 & 206 &
+l.738 ...& 271 & 279 & 239 & 238 & 207 & 183 & 206 &
                                                    213 & -33 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3509,7 +3659,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.737 ...& 279 & 239 & 238 & 207 & 183 & 206 & 213 &
+l.738 ...& 279 & 239 & 238 & 207 & 183 & 206 & 213 &
                                                    -33 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3521,13 +3671,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.738 		\midrule
+l.739 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.739 		La Nación &
+l.740 		La Nación &
                    150 & 160 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3537,7 +3687,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 		La Nación & 150 &
+l.740 		La Nación & 150 &
                          160 & 162 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3547,7 +3697,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 		La Nación & 150 & 160 &
+l.740 		La Nación & 150 & 160 &
                                162 & 168 & 164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3557,7 +3707,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 		La Nación & 150 & 160 & 162 &
+l.740 		La Nación & 150 & 160 & 162 &
                                      168 & 164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3567,7 +3717,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 		La Nación & 150 & 160 & 162 & 168 &
+l.740 		La Nación & 150 & 160 & 162 & 168 &
                                            164 & 156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3577,7 +3727,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 		La Nación & 150 & 160 & 162 & 168 & 164 &
+l.740 		La Nación & 150 & 160 & 162 & 168 & 164 &
                                                  156 & 130 & 122 & 117 & 100...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3587,7 +3737,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 ...ción & 150 & 160 & 162 & 168 & 164 & 156 &
+l.740 ...ción & 150 & 160 & 162 & 168 & 164 & 156 &
                                                    130 & 122 & 117 & 100 & -...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3597,7 +3747,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 ...& 150 & 160 & 162 & 168 & 164 & 156 & 130 &
+l.740 ...& 150 & 160 & 162 & 168 & 164 & 156 & 130 &
                                                    122 & 117 & 100 & -37 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3607,7 +3757,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 ...& 160 & 162 & 168 & 164 & 156 & 130 & 122 &
+l.740 ...& 160 & 162 & 168 & 164 & 156 & 130 & 122 &
                                                    117 & 100 & -37 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3617,7 +3767,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 ...& 162 & 168 & 164 & 156 & 130 & 122 & 117 &
+l.740 ...& 162 & 168 & 164 & 156 & 130 & 122 & 117 &
                                                    100 & -37 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3627,7 +3777,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.739 ...& 168 & 164 & 156 & 130 & 122 & 117 & 100 &
+l.740 ...& 168 & 164 & 156 & 130 & 122 & 117 & 100 &
                                                    -37 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3639,13 +3789,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.740 		\midrule
+l.741 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.741 		Diario Popular &
+l.742 		Diario Popular &
                        90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3655,7 +3805,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 		Diario Popular & 90 &
+l.742 		Diario Popular & 90 &
                             91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3665,7 +3815,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 		Diario Popular & 90 & 91 &
+l.742 		Diario Popular & 90 & 91 &
                                  89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3675,7 +3825,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 		Diario Popular & 90 & 91 & 89 &
+l.742 		Diario Popular & 90 & 91 & 89 &
                                       88 & 82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3685,7 +3835,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 		Diario Popular & 90 & 91 & 89 & 88 &
+l.742 		Diario Popular & 90 & 91 & 89 & 88 &
                                            82 & 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3695,7 +3845,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 		Diario Popular & 90 & 91 & 89 & 88 & 82 &
+l.742 		Diario Popular & 90 & 91 & 89 & 88 & 82 &
                                                 84 & 78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3705,7 +3855,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 ...rio Popular & 90 & 91 & 89 & 88 & 82 & 84 &
+l.742 ...rio Popular & 90 & 91 & 89 & 88 & 82 & 84 &
                                                    78 & 69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3715,7 +3865,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 ...opular & 90 & 91 & 89 & 88 & 82 & 84 & 78 &
+l.742 ...opular & 90 & 91 & 89 & 88 & 82 & 84 & 78 &
                                                    69 & 62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3725,7 +3875,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 ...r & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 &
+l.742 ...r & 90 & 91 & 89 & 88 & 82 & 84 & 78 & 69 &
                                                    62 & 51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3735,7 +3885,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 ...0 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 &
+l.742 ...0 & 91 & 89 & 88 & 82 & 84 & 78 & 69 & 62 &
                                                    51 & -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3745,7 +3895,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.741 ...1 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 &
+l.742 ...1 & 89 & 88 & 82 & 84 & 78 & 69 & 62 & 51 &
                                                    -48 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3757,19 +3907,19 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \bottomrule ->\noalign 
                        {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global...
-l.742 		\bottomrule
+l.743 		\bottomrule
                  
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-! LaTeX Error: \begin{table} on input line 729 ended by \end{tabularx}.
+! LaTeX Error: \begin{table} on input line 730 ended by \end{tabularx}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.743 	\end{tabularx}
+l.744 	\end{tabularx}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3782,7 +3932,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.752 	\begin{tabularx}
+l.753 	\begin{tabularx}
                      {\textwidth}{
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -3791,7 +3941,7 @@ or  <return>  to continue without it.
 ! Missing number, treated as zero.
 <to be read again> 
 }
-l.752 	\begin{tabularx}{\textwidth}
+l.753 	\begin{tabularx}{\textwidth}
                                  {
 A number should have been here; I inserted `0'.
 (If you can't figure out why I needed to see a number,
@@ -3800,7 +3950,7 @@ look up `weird error' in the index to The TeXbook.)
 ! Illegal unit of measure (pt inserted).
 <to be read again> 
 }
-l.752 	\begin{tabularx}{\textwidth}
+l.753 	\begin{tabularx}{\textwidth}
                                  {
 Dimensions can be in units of em, ex, in, pt, pc,
 cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
@@ -3812,13 +3962,13 @@ two letters. (See Chapter 27 of The TeXbook.)
 ! Misplaced \noalign.
 \toprule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\abovetopsep \global \@b...
-l.756 		\toprule
+l.757 		\toprule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.757 		\textbf{Diario} &
+l.758 		\textbf{Diario} &
                         \textbf{Localidad} & \textbf{2010} & \textbf{2011} &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3828,7 +3978,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 		\textbf{Diario} & \textbf{Localidad} &
+l.758 		\textbf{Diario} & \textbf{Localidad} &
                                              \textbf{2010} & \textbf{2011} &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3838,7 +3988,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...rio} & \textbf{Localidad} & \textbf{2010} &
+l.758 ...rio} & \textbf{Localidad} & \textbf{2010} &
                                                    \textbf{2011} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3848,7 +3998,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...ocalidad} & \textbf{2010} & \textbf{2011} &
+l.758 ...ocalidad} & \textbf{2010} & \textbf{2011} &
                                                    \textbf{2012} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3858,7 +4008,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
+l.758 ...tbf{2010} & \textbf{2011} & \textbf{2012} &
                                                    \textbf{2013} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3868,7 +4018,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
+l.758 ...tbf{2011} & \textbf{2012} & \textbf{2013} &
                                                    \textbf{2014} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3878,7 +4028,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
+l.758 ...tbf{2012} & \textbf{2013} & \textbf{2014} &
                                                    \textbf{2015} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3888,7 +4038,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
+l.758 ...tbf{2013} & \textbf{2014} & \textbf{2015} &
                                                    \textbf{2016} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3898,7 +4048,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
+l.758 ...tbf{2014} & \textbf{2015} & \textbf{2016} &
                                                    \textbf{2017} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3908,7 +4058,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
+l.758 ...tbf{2015} & \textbf{2016} & \textbf{2017} &
                                                    \textbf{2018} & \textbf{2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3918,7 +4068,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.757 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
+l.758 ...tbf{2016} & \textbf{2017} & \textbf{2018} &
                                                    \textbf{2019} \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3930,13 +4080,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.758 		\midrule
+l.759 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.759 		Clarín &
+l.760 		Clarín &
                 AMBA & 664 & 591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3946,7 +4096,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 		Clarín & AMBA &
+l.760 		Clarín & AMBA &
                        664 & 591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3956,7 +4106,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 		Clarín & AMBA & 664 &
+l.760 		Clarín & AMBA & 664 &
                              591 & 599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3966,7 +4116,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 		Clarín & AMBA & 664 & 591 &
+l.760 		Clarín & AMBA & 664 & 591 &
                                    599 & 570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3976,7 +4126,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 		Clarín & AMBA & 664 & 591 & 599 &
+l.760 		Clarín & AMBA & 664 & 591 & 599 &
                                          570 & 513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3986,7 +4136,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 		Clarín & AMBA & 664 & 591 & 599 & 570 &
+l.760 		Clarín & AMBA & 664 & 591 & 599 & 570 &
                                                513 & 508 & 487 & 446 & 388 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3996,7 +4146,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 ...rín & AMBA & 664 & 591 & 599 & 570 & 513 &
+l.760 ...rín & AMBA & 664 & 591 & 599 & 570 & 513 &
                                                    508 & 487 & 446 & 388 & 3...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4006,7 +4156,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 ... AMBA & 664 & 591 & 599 & 570 & 513 & 508 &
+l.760 ... AMBA & 664 & 591 & 599 & 570 & 513 & 508 &
                                                    487 & 446 & 388 & 396 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4016,7 +4166,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 ...& 664 & 591 & 599 & 570 & 513 & 508 & 487 &
+l.760 ...& 664 & 591 & 599 & 570 & 513 & 508 & 487 &
                                                    446 & 388 & 396 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4026,7 +4176,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 ...& 591 & 599 & 570 & 513 & 508 & 487 & 446 &
+l.760 ...& 591 & 599 & 570 & 513 & 508 & 487 & 446 &
                                                    388 & 396 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4036,7 +4186,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.759 ...& 599 & 570 & 513 & 508 & 487 & 446 & 388 &
+l.760 ...& 599 & 570 & 513 & 508 & 487 & 446 & 388 &
                                                    396 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4048,13 +4198,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.760 		\midrule
+l.761 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.761 		La Nación &
+l.762 		La Nación &
                    AMBA & 280 & 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4064,7 +4214,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 		La Nación & AMBA &
+l.762 		La Nación & AMBA &
                           280 & 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4074,7 +4224,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 		La Nación & AMBA & 280 &
+l.762 		La Nación & AMBA & 280 &
                                 332 & 360 & 331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4084,7 +4234,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 		La Nación & AMBA & 280 & 332 &
+l.762 		La Nación & AMBA & 280 & 332 &
                                       360 & 331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4094,7 +4244,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 		La Nación & AMBA & 280 & 332 & 360 &
+l.762 		La Nación & AMBA & 280 & 332 & 360 &
                                             331 & 323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4104,7 +4254,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 		La Nación & AMBA & 280 & 332 & 360 & 331 &
+l.762 		La Nación & AMBA & 280 & 332 & 360 & 331 &
                                                   323 & 320 & 302 & 288 & 20...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4114,7 +4264,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 ...ión & AMBA & 280 & 332 & 360 & 331 & 323 &
+l.762 ...ión & AMBA & 280 & 332 & 360 & 331 & 323 &
                                                    320 & 302 & 288 & 209 & 2...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4124,7 +4274,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 ... AMBA & 280 & 332 & 360 & 331 & 323 & 320 &
+l.762 ... AMBA & 280 & 332 & 360 & 331 & 323 & 320 &
                                                    302 & 288 & 209 & 201 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4134,7 +4284,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 ...& 280 & 332 & 360 & 331 & 323 & 320 & 302 &
+l.762 ...& 280 & 332 & 360 & 331 & 323 & 320 & 302 &
                                                    288 & 209 & 201 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4144,7 +4294,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 ...& 332 & 360 & 331 & 323 & 320 & 302 & 288 &
+l.762 ...& 332 & 360 & 331 & 323 & 320 & 302 & 288 &
                                                    209 & 201 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4154,7 +4304,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.761 ...& 360 & 331 & 323 & 320 & 302 & 288 & 209 &
+l.762 ...& 360 & 331 & 323 & 320 & 302 & 288 & 209 &
                                                    201 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4166,13 +4316,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.762 		\midrule
+l.763 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.763 		Diario Popular &
+l.764 		Diario Popular &
                        AMBA & 147 & 131 & 135 & 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4182,7 +4332,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 		Diario Popular & AMBA &
+l.764 		Diario Popular & AMBA &
                               147 & 131 & 135 & 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4192,7 +4342,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 		Diario Popular & AMBA & 147 &
+l.764 		Diario Popular & AMBA & 147 &
                                     131 & 135 & 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4202,7 +4352,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 		Diario Popular & AMBA & 147 & 131 &
+l.764 		Diario Popular & AMBA & 147 & 131 &
                                           135 & 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4212,7 +4362,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 		Diario Popular & AMBA & 147 & 131 & 135 &
+l.764 		Diario Popular & AMBA & 147 & 131 & 135 &
                                                 131 & 120 & 118 & 106 & 95 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4222,7 +4372,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 ...io Popular & AMBA & 147 & 131 & 135 & 131 &
+l.764 ...io Popular & AMBA & 147 & 131 & 135 & 131 &
                                                    120 & 118 & 106 & 95 & 85...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4232,7 +4382,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 ...ular & AMBA & 147 & 131 & 135 & 131 & 120 &
+l.764 ...ular & AMBA & 147 & 131 & 135 & 131 & 120 &
                                                    118 & 106 & 95 & 85 & 73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4242,7 +4392,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 ... AMBA & 147 & 131 & 135 & 131 & 120 & 118 &
+l.764 ... AMBA & 147 & 131 & 135 & 131 & 120 & 118 &
                                                    106 & 95 & 85 & 73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4252,7 +4402,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 ...& 147 & 131 & 135 & 131 & 120 & 118 & 106 &
+l.764 ...& 147 & 131 & 135 & 131 & 120 & 118 & 106 &
                                                    95 & 85 & 73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4262,7 +4412,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 ... & 131 & 135 & 131 & 120 & 118 & 106 & 95 &
+l.764 ... & 131 & 135 & 131 & 120 & 118 & 106 & 95 &
                                                    85 & 73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4272,7 +4422,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.763 ...1 & 135 & 131 & 120 & 118 & 106 & 95 & 85 &
+l.764 ...1 & 135 & 131 & 120 & 118 & 106 & 95 & 85 &
                                                    73 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4284,13 +4434,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.764 		\midrule
+l.765 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.765 		La Voz del Int. &
+l.766 		La Voz del Int. &
                         Córdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4300,7 +4450,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 		La Voz del Int. & Córdoba &
+l.766 		La Voz del Int. & Córdoba &
                                    99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4310,7 +4460,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 		La Voz del Int. & Córdoba & 99 &
+l.766 		La Voz del Int. & Córdoba & 99 &
                                         90 & 90 & 90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4320,7 +4470,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 		La Voz del Int. & Córdoba & 99 & 90 &
+l.766 		La Voz del Int. & Córdoba & 99 & 90 &
                                              90 & 90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4330,7 +4480,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 		La Voz del Int. & Córdoba & 99 & 90 & 90 &
+l.766 		La Voz del Int. & Córdoba & 99 & 90 & 90 &
                                                   90 & 84 & 81 & 73 & 66 & 5...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4340,7 +4490,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 ...z del Int. & Córdoba & 99 & 90 & 90 & 90 &
+l.766 ...z del Int. & Córdoba & 99 & 90 & 90 & 90 &
                                                    84 & 81 & 73 & 66 & 59 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4350,7 +4500,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 ... Int. & Córdoba & 99 & 90 & 90 & 90 & 84 &
+l.766 ... Int. & Córdoba & 99 & 90 & 90 & 90 & 84 &
                                                    81 & 73 & 66 & 59 & 53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4360,7 +4510,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 ... & Córdoba & 99 & 90 & 90 & 90 & 84 & 81 &
+l.766 ... & Córdoba & 99 & 90 & 90 & 90 & 84 & 81 &
                                                    73 & 66 & 59 & 53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4370,7 +4520,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 ...rdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 &
+l.766 ...rdoba & 99 & 90 & 90 & 90 & 84 & 81 & 73 &
                                                    66 & 59 & 53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4380,7 +4530,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 ...a & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 &
+l.766 ...a & 99 & 90 & 90 & 90 & 84 & 81 & 73 & 66 &
                                                    59 & 53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4390,7 +4540,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.765 ...9 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 &
+l.766 ...9 & 90 & 90 & 90 & 84 & 81 & 73 & 66 & 59 &
                                                    53 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4402,13 +4552,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.766 		\midrule
+l.767 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.767 		Los Andes &
+l.768 		Los Andes &
                   Mendoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4418,7 +4568,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 		Los Andes & Mendoza &
+l.768 		Los Andes & Mendoza &
                             83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4428,7 +4578,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 		Los Andes & Mendoza & 83 &
+l.768 		Los Andes & Mendoza & 83 &
                                  78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4438,7 +4588,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 		Los Andes & Mendoza & 83 & 78 &
+l.768 		Los Andes & Mendoza & 83 & 78 &
                                       77 & 73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4448,7 +4598,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 		Los Andes & Mendoza & 83 & 78 & 77 &
+l.768 		Los Andes & Mendoza & 83 & 78 & 77 &
                                            73 & 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4458,7 +4608,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 		Los Andes & Mendoza & 83 & 78 & 77 & 73 &
+l.768 		Los Andes & Mendoza & 83 & 78 & 77 & 73 &
                                                 68 & 65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4468,7 +4618,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 ... Andes & Mendoza & 83 & 78 & 77 & 73 & 68 &
+l.768 ... Andes & Mendoza & 83 & 78 & 77 & 73 & 68 &
                                                    65 & 57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4478,7 +4628,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 ...s & Mendoza & 83 & 78 & 77 & 73 & 68 & 65 &
+l.768 ...s & Mendoza & 83 & 78 & 77 & 73 & 68 & 65 &
                                                    57 & 52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4488,7 +4638,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 ...endoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 &
+l.768 ...endoza & 83 & 78 & 77 & 73 & 68 & 65 & 57 &
                                                    52 & 49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4498,7 +4648,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 ...a & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 &
+l.768 ...a & 83 & 78 & 77 & 73 & 68 & 65 & 57 & 52 &
                                                    49 & 43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4508,7 +4658,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.767 ...3 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 &
+l.768 ...3 & 78 & 77 & 73 & 68 & 65 & 57 & 52 & 49 &
                                                    43 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4520,13 +4670,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.768 		\midrule
+l.769 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.769 		La Capital &
+l.770 		La Capital &
                    Rosario & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4536,7 +4686,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 		La Capital & Rosario &
+l.770 		La Capital & Rosario &
                              82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4546,7 +4696,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 		La Capital & Rosario & 82 &
+l.770 		La Capital & Rosario & 82 &
                                   80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4556,7 +4706,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 		La Capital & Rosario & 82 & 80 &
+l.770 		La Capital & Rosario & 82 & 80 &
                                        76 & 67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4566,7 +4716,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 		La Capital & Rosario & 82 & 80 & 76 &
+l.770 		La Capital & Rosario & 82 & 80 & 76 &
                                             67 & 62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4576,7 +4726,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 		La Capital & Rosario & 82 & 80 & 76 & 67 &
+l.770 		La Capital & Rosario & 82 & 80 & 76 & 67 &
                                                  62 & 56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4586,7 +4736,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 ...apital & Rosario & 82 & 80 & 76 & 67 & 62 &
+l.770 ...apital & Rosario & 82 & 80 & 76 & 67 & 62 &
                                                    56 & 47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4596,7 +4746,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 ...l & Rosario & 82 & 80 & 76 & 67 & 62 & 56 &
+l.770 ...l & Rosario & 82 & 80 & 76 & 67 & 62 & 56 &
                                                    47 & 41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4606,7 +4756,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 ...osario & 82 & 80 & 76 & 67 & 62 & 56 & 47 &
+l.770 ...osario & 82 & 80 & 76 & 67 & 62 & 56 & 47 &
                                                    41 & 36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4616,7 +4766,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 ...o & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 &
+l.770 ...o & 82 & 80 & 76 & 67 & 62 & 56 & 47 & 41 &
                                                    36 & 30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4626,7 +4776,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.769 ...2 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 &
+l.770 ...2 & 80 & 76 & 67 & 62 & 56 & 47 & 41 & 36 &
                                                    30 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4638,13 +4788,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.770 		\midrule
+l.771 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.771 		La Gaceta &
+l.772 		La Gaceta &
                   Tucumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4654,7 +4804,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 		La Gaceta & Tucumán &
+l.772 		La Gaceta & Tucumán &
                              61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4664,7 +4814,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 		La Gaceta & Tucumán & 61 &
+l.772 		La Gaceta & Tucumán & 61 &
                                   62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4674,7 +4824,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 		La Gaceta & Tucumán & 61 & 62 &
+l.772 		La Gaceta & Tucumán & 61 & 62 &
                                        60 & 56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4684,7 +4834,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 		La Gaceta & Tucumán & 61 & 62 & 60 &
+l.772 		La Gaceta & Tucumán & 61 & 62 & 60 &
                                             56 & 56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4694,7 +4844,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 		La Gaceta & Tucumán & 61 & 62 & 60 & 56 &
+l.772 		La Gaceta & Tucumán & 61 & 62 & 60 & 56 &
                                                  56 & 55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4704,7 +4854,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 ...aceta & Tucumán & 61 & 62 & 60 & 56 & 56 &
+l.772 ...aceta & Tucumán & 61 & 62 & 60 & 56 & 56 &
                                                    55 & 49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4714,7 +4864,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 ... & Tucumán & 61 & 62 & 60 & 56 & 56 & 55 &
+l.772 ... & Tucumán & 61 & 62 & 60 & 56 & 56 & 55 &
                                                    49 & 45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4724,7 +4874,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 ...cumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 &
+l.772 ...cumán & 61 & 62 & 60 & 56 & 56 & 55 & 49 &
                                                    45 & 40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4734,7 +4884,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 ...n & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 &
+l.772 ...n & 61 & 62 & 60 & 56 & 56 & 55 & 49 & 45 &
                                                    40 & 34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4744,7 +4894,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.771 ...1 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 &
+l.772 ...1 & 62 & 60 & 56 & 56 & 55 & 49 & 45 & 40 &
                                                    34 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4756,13 +4906,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.772 		\midrule
+l.773 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.773 		Río Negro &
+l.774 		Río Negro &
                    Gral. Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4772,7 +4922,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 		Río Negro & Gral. Roca &
+l.774 		Río Negro & Gral. Roca &
                                 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4782,7 +4932,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 		Río Negro & Gral. Roca & 45 &
+l.774 		Río Negro & Gral. Roca & 45 &
                                      44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4792,7 +4942,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 		Río Negro & Gral. Roca & 45 & 44 &
+l.774 		Río Negro & Gral. Roca & 45 & 44 &
                                           42 & 36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4802,7 +4952,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 		Río Negro & Gral. Roca & 45 & 44 & 42 &
+l.774 		Río Negro & Gral. Roca & 45 & 44 & 42 &
                                                36 & 35 & 35 & 32 & 28 & 26 &...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4812,7 +4962,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 ...o Negro & Gral. Roca & 45 & 44 & 42 & 36 &
+l.774 ...o Negro & Gral. Roca & 45 & 44 & 42 & 36 &
                                                    35 & 35 & 32 & 28 & 26 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4822,7 +4972,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 ...gro & Gral. Roca & 45 & 44 & 42 & 36 & 35 &
+l.774 ...gro & Gral. Roca & 45 & 44 & 42 & 36 & 35 &
                                                    35 & 32 & 28 & 26 & 21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4832,7 +4982,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 ... Gral. Roca & 45 & 44 & 42 & 36 & 35 & 35 &
+l.774 ... Gral. Roca & 45 & 44 & 42 & 36 & 35 & 35 &
                                                    32 & 28 & 26 & 21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4842,7 +4992,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 .... Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 &
+l.774 .... Roca & 45 & 44 & 42 & 36 & 35 & 35 & 32 &
                                                    28 & 26 & 21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4852,7 +5002,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 ...a & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 &
+l.774 ...a & 45 & 44 & 42 & 36 & 35 & 35 & 32 & 28 &
                                                    26 & 21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4862,7 +5012,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.773 ...5 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &
+l.774 ...5 & 44 & 42 & 36 & 35 & 35 & 32 & 28 & 26 &
                                                    21 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4874,13 +5024,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.774 		\midrule
+l.775 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.775 		El Día &
+l.776 		El Día &
                 La Plata & 40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4890,7 +5040,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 		El Día & La Plata &
+l.776 		El Día & La Plata &
                            40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4900,7 +5050,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 		El Día & La Plata & 40 &
+l.776 		El Día & La Plata & 40 &
                                 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4910,7 +5060,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 		El Día & La Plata & 40 & 41 &
+l.776 		El Día & La Plata & 40 & 41 &
                                      39 & 35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4920,7 +5070,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 		El Día & La Plata & 40 & 41 & 39 &
+l.776 		El Día & La Plata & 40 & 41 & 39 &
                                           35 & 35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4930,7 +5080,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 		El Día & La Plata & 40 & 41 & 39 & 35 &
+l.776 		El Día & La Plata & 40 & 41 & 39 & 35 &
                                                35 & 33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4940,7 +5090,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 ... Día & La Plata & 40 & 41 & 39 & 35 & 35 &
+l.776 ... Día & La Plata & 40 & 41 & 39 & 35 & 35 &
                                                    33 & 31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4950,7 +5100,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 ... & La Plata & 40 & 41 & 39 & 35 & 35 & 33 &
+l.776 ... & La Plata & 40 & 41 & 39 & 35 & 35 & 33 &
                                                    31 & 26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4960,7 +5110,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 ... Plata & 40 & 41 & 39 & 35 & 35 & 33 & 31 &
+l.776 ... Plata & 40 & 41 & 39 & 35 & 35 & 33 & 31 &
                                                    26 & 23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4970,7 +5120,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 ...a & 40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 &
+l.776 ...a & 40 & 41 & 39 & 35 & 35 & 33 & 31 & 26 &
                                                    23 & 19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4980,7 +5130,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.775 ...0 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 &
+l.776 ...0 & 41 & 39 & 35 & 35 & 33 & 31 & 26 & 23 &
                                                    19 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -4992,13 +5142,13 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \midrule ->\noalign 
                     {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global \@...
-l.776 		\midrule
+l.777 		\midrule
               
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 ! Misplaced alignment tab character &.
-l.777 		Diario Uno &
+l.778 		Diario Uno &
                    Entre Ríos & 36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5008,7 +5158,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 		Diario Uno & Entre Ríos &
+l.778 		Diario Uno & Entre Ríos &
                                  36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5018,7 +5168,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 		Diario Uno & Entre Ríos & 36 &
+l.778 		Diario Uno & Entre Ríos & 36 &
                                       38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5028,7 +5178,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 		Diario Uno & Entre Ríos & 36 & 38 &
+l.778 		Diario Uno & Entre Ríos & 36 & 38 &
                                            22 & 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5038,7 +5188,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 		Diario Uno & Entre Ríos & 36 & 38 & 22 &
+l.778 		Diario Uno & Entre Ríos & 36 & 38 & 22 &
                                                 34 & 30 & 28 & 26 & 26 & 25 ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5048,7 +5198,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 ...rio Uno & Entre Ríos & 36 & 38 & 22 & 34 &
+l.778 ...rio Uno & Entre Ríos & 36 & 38 & 22 & 34 &
                                                    30 & 28 & 26 & 26 & 25 & ...
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5058,7 +5208,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 ...no & Entre Ríos & 36 & 38 & 22 & 34 & 30 &
+l.778 ...no & Entre Ríos & 36 & 38 & 22 & 34 & 30 &
                                                    28 & 26 & 26 & 25 & 11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5068,7 +5218,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 ...Entre Ríos & 36 & 38 & 22 & 34 & 30 & 28 &
+l.778 ...Entre Ríos & 36 & 38 & 22 & 34 & 30 & 28 &
                                                    26 & 26 & 25 & 11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5078,7 +5228,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 ... Ríos & 36 & 38 & 22 & 34 & 30 & 28 & 26 &
+l.778 ... Ríos & 36 & 38 & 22 & 34 & 30 & 28 & 26 &
                                                    26 & 25 & 11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5088,7 +5238,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 ...s & 36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 &
+l.778 ...s & 36 & 38 & 22 & 34 & 30 & 28 & 26 & 26 &
                                                    25 & 11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5098,7 +5248,7 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 ! Misplaced alignment tab character &.
-l.777 ...6 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 &
+l.778 ...6 & 38 & 22 & 34 & 30 & 28 & 26 & 26 & 25 &
                                                    11 \\
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -5110,304 +5260,1431 @@ might try typing `S' now just to see what is salvageable.
 ! Misplaced \noalign.
 \bottomrule ->\noalign 
                        {\ifnum 0=`}\fi \@aboverulesep =\aboverulesep \global...
-l.778 		\bottomrule
+l.779 		\bottomrule
                  
 I expect to see \noalign only after the \cr of
 an alignment. Proceed, and I'll ignore this case.
 
 
-! LaTeX Error: \begin{table} on input line 748 ended by \end{tabularx}.
+! LaTeX Error: \begin{table} on input line 749 ended by \end{tabularx}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.779 	\end{tabularx}
+l.780 	\end{tabularx}
                    
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-LaTeX Info: Redefining \. on input line 824.
-LaTeX Info: Redefining \% on input line 824.
-LaTeX Info: Redefining \. on input line 824.
-LaTeX Info: Redefining \% on input line 824.
+LaTeX Info: Redefining \. on input line 825.
+LaTeX Info: Redefining \% on input line 825.
+LaTeX Info: Redefining \. on input line 825.
+LaTeX Info: Redefining \% on input line 825.
 [12]
-LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
-(Font)              scaled to size 9.81033pt on input line 828.
-LaTeX Info: Redefining \. on input line 839.
-LaTeX Info: Redefining \% on input line 839.
-LaTeX Info: Redefining \. on input line 839.
-LaTeX Info: Redefining \% on input line 839.
+LaTeX Info: Redefining \. on input line 840.
+LaTeX Info: Redefining \% on input line 840.
+LaTeX Info: Redefining \. on input line 840.
+LaTeX Info: Redefining \% on input line 840.
  [13]
-LaTeX Info: Redefining \. on input line 851.
-LaTeX Info: Redefining \% on input line 851.
-LaTeX Info: Redefining \. on input line 851.
-LaTeX Info: Redefining \% on input line 851.
+LaTeX Info: Redefining \. on input line 852.
+LaTeX Info: Redefining \% on input line 852.
+LaTeX Info: Redefining \. on input line 852.
+LaTeX Info: Redefining \% on input line 852.
  [14]
-LaTeX Info: Redefining \. on input line 865.
-LaTeX Info: Redefining \% on input line 865.
-LaTeX Info: Redefining \. on input line 865.
-LaTeX Info: Redefining \% on input line 865.
+LaTeX Info: Redefining \. on input line 866.
+LaTeX Info: Redefining \% on input line 866.
+LaTeX Info: Redefining \. on input line 866.
+LaTeX Info: Redefining \% on input line 866.
  [15]
-LaTeX Info: Redefining \. on input line 874.
-LaTeX Info: Redefining \% on input line 874.
-LaTeX Info: Redefining \. on input line 874.
-LaTeX Info: Redefining \% on input line 874.
+LaTeX Info: Redefining \. on input line 875.
+LaTeX Info: Redefining \% on input line 875.
+LaTeX Info: Redefining \. on input line 875.
+LaTeX Info: Redefining \% on input line 875.
  [16]
-LaTeX Info: Redefining \. on input line 885.
-LaTeX Info: Redefining \% on input line 885.
-LaTeX Info: Redefining \. on input line 885.
-LaTeX Info: Redefining \% on input line 885.
+LaTeX Info: Redefining \. on input line 886.
+LaTeX Info: Redefining \% on input line 886.
+LaTeX Info: Redefining \. on input line 886.
+LaTeX Info: Redefining \% on input line 886.
  [17]
-LaTeX Info: Redefining \. on input line 907.
-LaTeX Info: Redefining \% on input line 907.
-LaTeX Info: Redefining \. on input line 907.
-LaTeX Info: Redefining \% on input line 907.
+LaTeX Info: Redefining \. on input line 908.
+LaTeX Info: Redefining \% on input line 908.
+LaTeX Info: Redefining \. on input line 908.
+LaTeX Info: Redefining \% on input line 908.
  [18]
-LaTeX Info: Redefining \. on input line 919.
-LaTeX Info: Redefining \% on input line 919.
-LaTeX Info: Redefining \. on input line 919.
-LaTeX Info: Redefining \% on input line 919.
+LaTeX Info: Redefining \. on input line 920.
+LaTeX Info: Redefining \% on input line 920.
+LaTeX Info: Redefining \. on input line 920.
+LaTeX Info: Redefining \% on input line 920.
  [19]
-LaTeX Info: Redefining \. on input line 930.
-LaTeX Info: Redefining \% on input line 930.
-LaTeX Info: Redefining \. on input line 930.
-LaTeX Info: Redefining \% on input line 930.
+LaTeX Info: Redefining \. on input line 931.
+LaTeX Info: Redefining \% on input line 931.
+LaTeX Info: Redefining \. on input line 931.
+LaTeX Info: Redefining \% on input line 931.
  [20]
 Capítulo 2.
-Package biblatex Info: Resetting trackers on input line 930.
-LaTeX Info: Redefining \. on input line 941.
-LaTeX Info: Redefining \% on input line 941.
-LaTeX Info: Redefining \. on input line 941.
-LaTeX Info: Redefining \% on input line 941.
+Package biblatex Info: Resetting trackers on input line 931.
+LaTeX Info: Redefining \. on input line 942.
+LaTeX Info: Redefining \% on input line 942.
+LaTeX Info: Redefining \. on input line 942.
+LaTeX Info: Redefining \% on input line 942.
 [21
 
 ]
-LaTeX Info: Redefining \. on input line 949.
-LaTeX Info: Redefining \% on input line 949.
-LaTeX Info: Redefining \. on input line 949.
-LaTeX Info: Redefining \% on input line 949.
+LaTeX Info: Redefining \. on input line 950.
+LaTeX Info: Redefining \% on input line 950.
+LaTeX Info: Redefining \. on input line 950.
+LaTeX Info: Redefining \% on input line 950.
  [22]
 Overfull \vbox (0.96939pt too high) has occurred while \output is active []
 
-LaTeX Info: Redefining \. on input line 957.
-LaTeX Info: Redefining \% on input line 957.
-LaTeX Info: Redefining \. on input line 957.
-LaTeX Info: Redefining \% on input line 957.
+LaTeX Info: Redefining \. on input line 958.
+LaTeX Info: Redefining \% on input line 958.
+LaTeX Info: Redefining \. on input line 958.
+LaTeX Info: Redefining \% on input line 958.
 
 [23]
-LaTeX Info: Redefining \. on input line 969.
-LaTeX Info: Redefining \% on input line 969.
-LaTeX Info: Redefining \. on input line 969.
-LaTeX Info: Redefining \% on input line 969.
+LaTeX Info: Redefining \. on input line 970.
+LaTeX Info: Redefining \% on input line 970.
+LaTeX Info: Redefining \. on input line 970.
+LaTeX Info: Redefining \% on input line 970.
  [24]
-LaTeX Info: Redefining \. on input line 978.
-LaTeX Info: Redefining \% on input line 978.
-LaTeX Info: Redefining \. on input line 978.
-LaTeX Info: Redefining \% on input line 978.
+LaTeX Info: Redefining \. on input line 979.
+LaTeX Info: Redefining \% on input line 979.
+LaTeX Info: Redefining \. on input line 979.
+LaTeX Info: Redefining \% on input line 979.
  [25]
-LaTeX Info: Redefining \. on input line 993.
-LaTeX Info: Redefining \% on input line 993.
-LaTeX Info: Redefining \. on input line 993.
-LaTeX Info: Redefining \% on input line 993.
+LaTeX Info: Redefining \. on input line 994.
+LaTeX Info: Redefining \% on input line 994.
+LaTeX Info: Redefining \. on input line 994.
+LaTeX Info: Redefining \% on input line 994.
  [26]
-LaTeX Info: Redefining \. on input line 1000.
-LaTeX Info: Redefining \% on input line 1000.
-LaTeX Info: Redefining \. on input line 1000.
-LaTeX Info: Redefining \% on input line 1000.
+LaTeX Info: Redefining \. on input line 1001.
+LaTeX Info: Redefining \% on input line 1001.
+LaTeX Info: Redefining \. on input line 1001.
+LaTeX Info: Redefining \% on input line 1001.
  [27]
-LaTeX Info: Redefining \. on input line 1027.
-LaTeX Info: Redefining \% on input line 1027.
-LaTeX Info: Redefining \. on input line 1027.
-LaTeX Info: Redefining \% on input line 1027.
+LaTeX Info: Redefining \. on input line 1028.
+LaTeX Info: Redefining \% on input line 1028.
+LaTeX Info: Redefining \. on input line 1028.
+LaTeX Info: Redefining \% on input line 1028.
  [28]
-LaTeX Info: Redefining \. on input line 1044.
-LaTeX Info: Redefining \% on input line 1044.
-LaTeX Info: Redefining \. on input line 1044.
-LaTeX Info: Redefining \% on input line 1044.
+LaTeX Info: Redefining \. on input line 1045.
+LaTeX Info: Redefining \% on input line 1045.
+LaTeX Info: Redefining \. on input line 1045.
+LaTeX Info: Redefining \% on input line 1045.
  [29]
-LaTeX Info: Redefining \. on input line 1052.
-LaTeX Info: Redefining \% on input line 1052.
-LaTeX Info: Redefining \. on input line 1052.
-LaTeX Info: Redefining \% on input line 1052.
+LaTeX Info: Redefining \. on input line 1053.
+LaTeX Info: Redefining \% on input line 1053.
+LaTeX Info: Redefining \. on input line 1053.
+LaTeX Info: Redefining \% on input line 1053.
  [30]
-LaTeX Info: Redefining \. on input line 1075.
-LaTeX Info: Redefining \% on input line 1075.
-LaTeX Info: Redefining \. on input line 1075.
-LaTeX Info: Redefining \% on input line 1075.
+LaTeX Info: Redefining \. on input line 1076.
+LaTeX Info: Redefining \% on input line 1076.
+LaTeX Info: Redefining \. on input line 1076.
+LaTeX Info: Redefining \% on input line 1076.
  [31]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/it' will be
-(Font)              scaled to size 11.79993pt on input line 1081.
-LaTeX Info: Redefining \. on input line 1095.
-LaTeX Info: Redefining \% on input line 1095.
-LaTeX Info: Redefining \. on input line 1095.
-LaTeX Info: Redefining \% on input line 1095.
+(Font)              scaled to size 11.79993pt on input line 1082.
+LaTeX Info: Redefining \. on input line 1096.
+LaTeX Info: Redefining \% on input line 1096.
+LaTeX Info: Redefining \. on input line 1096.
+LaTeX Info: Redefining \% on input line 1096.
  [32]
-LaTeX Info: Redefining \. on input line 1112.
-LaTeX Info: Redefining \% on input line 1112.
-LaTeX Info: Redefining \. on input line 1112.
-LaTeX Info: Redefining \% on input line 1112.
+LaTeX Info: Redefining \. on input line 1113.
+LaTeX Info: Redefining \% on input line 1113.
+LaTeX Info: Redefining \. on input line 1113.
+LaTeX Info: Redefining \% on input line 1113.
  [33]
-LaTeX Info: Redefining \. on input line 1125.
-LaTeX Info: Redefining \% on input line 1125.
-LaTeX Info: Redefining \. on input line 1125.
-LaTeX Info: Redefining \% on input line 1125.
+LaTeX Info: Redefining \. on input line 1126.
+LaTeX Info: Redefining \% on input line 1126.
+LaTeX Info: Redefining \. on input line 1126.
+LaTeX Info: Redefining \% on input line 1126.
  [34]
-LaTeX Info: Redefining \. on input line 1149.
-LaTeX Info: Redefining \% on input line 1149.
-LaTeX Info: Redefining \. on input line 1149.
-LaTeX Info: Redefining \% on input line 1149.
+LaTeX Info: Redefining \. on input line 1150.
+LaTeX Info: Redefining \% on input line 1150.
+LaTeX Info: Redefining \. on input line 1150.
+LaTeX Info: Redefining \% on input line 1150.
  [35]
-LaTeX Info: Redefining \. on input line 1156.
-LaTeX Info: Redefining \% on input line 1156.
-LaTeX Info: Redefining \. on input line 1156.
-LaTeX Info: Redefining \% on input line 1156.
+LaTeX Info: Redefining \. on input line 1157.
+LaTeX Info: Redefining \% on input line 1157.
+LaTeX Info: Redefining \. on input line 1157.
+LaTeX Info: Redefining \% on input line 1157.
  [36]
-LaTeX Info: Redefining \. on input line 1178.
-LaTeX Info: Redefining \% on input line 1178.
-LaTeX Info: Redefining \. on input line 1178.
-LaTeX Info: Redefining \% on input line 1178.
+LaTeX Info: Redefining \. on input line 1179.
+LaTeX Info: Redefining \% on input line 1179.
+LaTeX Info: Redefining \. on input line 1179.
+LaTeX Info: Redefining \% on input line 1179.
  [37]
-LaTeX Info: Redefining \. on input line 1186.
-LaTeX Info: Redefining \% on input line 1186.
-LaTeX Info: Redefining \. on input line 1186.
-LaTeX Info: Redefining \% on input line 1186.
+LaTeX Info: Redefining \. on input line 1187.
+LaTeX Info: Redefining \% on input line 1187.
+LaTeX Info: Redefining \. on input line 1187.
+LaTeX Info: Redefining \% on input line 1187.
 
 [38]
-LaTeX Info: Redefining \. on input line 1197.
-LaTeX Info: Redefining \% on input line 1197.
-LaTeX Info: Redefining \. on input line 1197.
-LaTeX Info: Redefining \% on input line 1197.
+LaTeX Info: Redefining \. on input line 1198.
+LaTeX Info: Redefining \% on input line 1198.
+LaTeX Info: Redefining \. on input line 1198.
+LaTeX Info: Redefining \% on input line 1198.
  [39]
-LaTeX Info: Redefining \. on input line 1212.
-LaTeX Info: Redefining \% on input line 1212.
-LaTeX Info: Redefining \. on input line 1212.
-LaTeX Info: Redefining \% on input line 1212.
+LaTeX Info: Redefining \. on input line 1213.
+LaTeX Info: Redefining \% on input line 1213.
+LaTeX Info: Redefining \. on input line 1213.
+LaTeX Info: Redefining \% on input line 1213.
  [40]
-LaTeX Info: Redefining \. on input line 1216.
-LaTeX Info: Redefining \% on input line 1216.
-LaTeX Info: Redefining \. on input line 1216.
-LaTeX Info: Redefining \% on input line 1216.
+LaTeX Info: Redefining \. on input line 1217.
+LaTeX Info: Redefining \% on input line 1217.
+LaTeX Info: Redefining \. on input line 1217.
+LaTeX Info: Redefining \% on input line 1217.
  [41]
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/b/n' will be
-(Font)              scaled to size 11.79993pt on input line 1232.
-LaTeX Info: Redefining \. on input line 1244.
-LaTeX Info: Redefining \% on input line 1244.
-LaTeX Info: Redefining \. on input line 1244.
-LaTeX Info: Redefining \% on input line 1244.
+(Font)              scaled to size 11.79993pt on input line 1233.
+LaTeX Info: Redefining \. on input line 1245.
+LaTeX Info: Redefining \% on input line 1245.
+LaTeX Info: Redefining \. on input line 1245.
+LaTeX Info: Redefining \% on input line 1245.
  [42]
-LaTeX Info: Redefining \. on input line 1255.
-LaTeX Info: Redefining \% on input line 1255.
-LaTeX Info: Redefining \. on input line 1255.
-LaTeX Info: Redefining \% on input line 1255.
+LaTeX Info: Redefining \. on input line 1256.
+LaTeX Info: Redefining \% on input line 1256.
+LaTeX Info: Redefining \. on input line 1256.
+LaTeX Info: Redefining \% on input line 1256.
  [43]
-LaTeX Info: Redefining \. on input line 1259.
-LaTeX Info: Redefining \% on input line 1259.
-LaTeX Info: Redefining \. on input line 1259.
-LaTeX Info: Redefining \% on input line 1259.
+LaTeX Info: Redefining \. on input line 1260.
+LaTeX Info: Redefining \% on input line 1260.
+LaTeX Info: Redefining \. on input line 1260.
+LaTeX Info: Redefining \% on input line 1260.
  [44]
 Capítulo 3.
-Package biblatex Info: Resetting trackers on input line 1259.
-LaTeX Info: Redefining \. on input line 1270.
-LaTeX Info: Redefining \% on input line 1270.
-LaTeX Info: Redefining \. on input line 1270.
-LaTeX Info: Redefining \% on input line 1270.
+Package biblatex Info: Resetting trackers on input line 1260.
+LaTeX Info: Redefining \. on input line 1271.
+LaTeX Info: Redefining \% on input line 1271.
+LaTeX Info: Redefining \. on input line 1271.
+LaTeX Info: Redefining \% on input line 1271.
 [45
 
 ]
-LaTeX Info: Redefining \. on input line 1280.
-LaTeX Info: Redefining \% on input line 1280.
-LaTeX Info: Redefining \. on input line 1280.
-LaTeX Info: Redefining \% on input line 1280.
+LaTeX Info: Redefining \. on input line 1281.
+LaTeX Info: Redefining \% on input line 1281.
+LaTeX Info: Redefining \. on input line 1281.
+LaTeX Info: Redefining \% on input line 1281.
  [46]
-LaTeX Info: Redefining \. on input line 1293.
-LaTeX Info: Redefining \% on input line 1293.
-LaTeX Info: Redefining \. on input line 1293.
-LaTeX Info: Redefining \% on input line 1293.
+LaTeX Info: Redefining \. on input line 1294.
+LaTeX Info: Redefining \% on input line 1294.
+LaTeX Info: Redefining \. on input line 1294.
+LaTeX Info: Redefining \% on input line 1294.
  [47]
-LaTeX Info: Redefining \. on input line 1314.
-LaTeX Info: Redefining \% on input line 1314.
-LaTeX Info: Redefining \. on input line 1314.
-LaTeX Info: Redefining \% on input line 1314.
+LaTeX Info: Redefining \. on input line 1315.
+LaTeX Info: Redefining \% on input line 1315.
+LaTeX Info: Redefining \. on input line 1315.
+LaTeX Info: Redefining \% on input line 1315.
  [48]
-LaTeX Info: Redefining \. on input line 1327.
-LaTeX Info: Redefining \% on input line 1327.
-LaTeX Info: Redefining \. on input line 1327.
-LaTeX Info: Redefining \% on input line 1327.
+LaTeX Info: Redefining \. on input line 1328.
+LaTeX Info: Redefining \% on input line 1328.
+LaTeX Info: Redefining \. on input line 1328.
+LaTeX Info: Redefining \% on input line 1328.
  [49]
-LaTeX Info: Redefining \. on input line 1336.
-LaTeX Info: Redefining \% on input line 1336.
-LaTeX Info: Redefining \. on input line 1336.
-LaTeX Info: Redefining \% on input line 1336.
+LaTeX Info: Redefining \. on input line 1337.
+LaTeX Info: Redefining \% on input line 1337.
+LaTeX Info: Redefining \. on input line 1337.
+LaTeX Info: Redefining \% on input line 1337.
  [50]
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
-LaTeX Info: Redefining \. on input line 1343.
-LaTeX Info: Redefining \% on input line 1343.
+LaTeX Info: Redefining \. on input line 1344.
+LaTeX Info: Redefining \% on input line 1344.
+LaTeX Info: Redefining \. on input line 1344.
+LaTeX Info: Redefining \% on input line 1344.
  [51]
-LaTeX Info: Redefining \. on input line 1422.
-LaTeX Info: Redefining \% on input line 1422.
-LaTeX Info: Redefining \. on input line 1422.
-LaTeX Info: Redefining \% on input line 1422.
+LaTeX Info: Redefining \. on input line 1423.
+LaTeX Info: Redefining \% on input line 1423.
+LaTeX Info: Redefining \. on input line 1423.
+LaTeX Info: Redefining \% on input line 1423.
  [52]
-LaTeX Info: Redefining \. on input line 1450.
-LaTeX Info: Redefining \% on input line 1450.
-LaTeX Info: Redefining \. on input line 1450.
-LaTeX Info: Redefining \% on input line 1450.
+LaTeX Info: Redefining \. on input line 1451.
+LaTeX Info: Redefining \% on input line 1451.
+LaTeX Info: Redefining \. on input line 1451.
+LaTeX Info: Redefining \% on input line 1451.
  [53]
-LaTeX Info: Redefining \. on input line 1464.
-LaTeX Info: Redefining \% on input line 1464.
-LaTeX Info: Redefining \. on input line 1464.
-LaTeX Info: Redefining \% on input line 1464.
+LaTeX Info: Redefining \. on input line 1465.
+LaTeX Info: Redefining \% on input line 1465.
+LaTeX Info: Redefining \. on input line 1465.
+LaTeX Info: Redefining \% on input line 1465.
  [54]
-LaTeX Info: Redefining \. on input line 2894.
-LaTeX Info: Redefining \% on input line 2894.
-LaTeX Info: Redefining \. on input line 2894.
-LaTeX Info: Redefining \% on input line 2894.
- [55] [56
+LaTeX Info: Redefining \. on input line 1485.
+LaTeX Info: Redefining \% on input line 1485.
+LaTeX Info: Redefining \. on input line 1485.
+LaTeX Info: Redefining \% on input line 1485.
+ [55]
+LaTeX Info: Redefining \. on input line 1499.
+LaTeX Info: Redefining \% on input line 1499.
+LaTeX Info: Redefining \. on input line 1499.
+LaTeX Info: Redefining \% on input line 1499.
+ [56]
+LaTeX Info: Redefining \. on input line 1500.
+LaTeX Info: Redefining \% on input line 1500.
+LaTeX Info: Redefining \. on input line 1500.
+LaTeX Info: Redefining \% on input line 1500.
+ [57] [58
 
 ]
-Package biblatex Info: Resetting trackers on input line 2894.
+Capítulo 4.
+Package biblatex Info: Resetting trackers on input line 1500.
+LaTeX Font Info:    Font shape `TU/IBMPlexSansCondensed(0)/m/it' will be
+(Font)              scaled to size 16.95224pt on input line 1500.
+
+LaTeX Warning: Float too large for page by 50.49704pt on input line 1586.
+
+LaTeX Info: Redefining \. on input line 1599.
+LaTeX Info: Redefining \% on input line 1599.
+LaTeX Info: Redefining \. on input line 1599.
+LaTeX Info: Redefining \% on input line 1599.
+[59]
+
+LaTeX Warning: Citation '@6996-DIAZ2009' on page 60 undefined on input line 160
+3.
+
+
+LaTeX Warning: Citation '@6996-DIAZ2009' on page 60 undefined on input line 160
+6.
+
+
+LaTeX Warning: Citation '@6996-DIAZ2009' on page 60 undefined on input line 161
+2.
+
+LaTeX Info: Redefining \. on input line 1613.
+LaTeX Info: Redefining \% on input line 1613.
+LaTeX Info: Redefining \. on input line 1613.
+LaTeX Info: Redefining \% on input line 1613.
+[60]
+
+LaTeX Warning: Citation '@7040-OLIVAN2010' on page 61 undefined on input line 1
+624.
+
+LaTeX Info: Redefining \. on input line 1628.
+LaTeX Info: Redefining \% on input line 1628.
+LaTeX Info: Redefining \. on input line 1628.
+LaTeX Info: Redefining \% on input line 1628.
+[61]
+
+LaTeX Warning: Citation '@7040-OLIVAN2010' on page 62 undefined on input line 1
+630.
+
+LaTeX Info: Redefining \. on input line 1634.
+LaTeX Info: Redefining \% on input line 1634.
+LaTeX Info: Redefining \. on input line 1634.
+LaTeX Info: Redefining \% on input line 1634.
+[62]
+LaTeX Info: Redefining \. on input line 1649.
+LaTeX Info: Redefining \% on input line 1649.
+LaTeX Info: Redefining \. on input line 1649.
+LaTeX Info: Redefining \% on input line 1649.
+ [63]
+
+LaTeX Warning: Citation '@6990-CECCHINI2010' on page 64 undefined on input line
+ 1668.
+
+LaTeX Info: Redefining \. on input line 1669.
+LaTeX Info: Redefining \% on input line 1669.
+LaTeX Info: Redefining \. on input line 1669.
+LaTeX Info: Redefining \% on input line 1669.
+[64]
+
+LaTeX Warning: Citation '@6990-CECCHINI2010' on page 65 undefined on input line
+ 1674.
+
+
+LaTeX Warning: Citation '@6990-CECCHINI2010' on page 65 undefined on input line
+ 1680.
+
+LaTeX Info: Redefining \. on input line 1681.
+LaTeX Info: Redefining \% on input line 1681.
+LaTeX Info: Redefining \. on input line 1681.
+LaTeX Info: Redefining \% on input line 1681.
+[65]
+
+LaTeX Warning: Citation '@7029-MOCHKOFSKY2011' on page 66 undefined on input li
+ne 1685.
+
+
+LaTeX Warning: Citation '@7029-MOCHKOFSKY2011' on page 66 undefined on input li
+ne 1694.
+
+LaTeX Info: Redefining \. on input line 1695.
+LaTeX Info: Redefining \% on input line 1695.
+LaTeX Info: Redefining \. on input line 1695.
+LaTeX Info: Redefining \% on input line 1695.
+[66]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 67 undefined on input line 1
+704.
+
+LaTeX Info: Redefining \. on input line 1705.
+LaTeX Info: Redefining \% on input line 1705.
+LaTeX Info: Redefining \. on input line 1705.
+LaTeX Info: Redefining \% on input line 1705.
+[67]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
+707.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
+716.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 68 undefined on input line 1
+722.
+
+LaTeX Info: Redefining \. on input line 1723.
+LaTeX Info: Redefining \% on input line 1723.
+LaTeX Info: Redefining \. on input line 1723.
+LaTeX Info: Redefining \% on input line 1723.
+[68]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 69 undefined on input line 1
+733.
+
+LaTeX Info: Redefining \. on input line 1735.
+LaTeX Info: Redefining \% on input line 1735.
+LaTeX Info: Redefining \. on input line 1735.
+LaTeX Info: Redefining \% on input line 1735.
+[69]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+736.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+744.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 70 undefined on input line 1
+750.
+
+LaTeX Info: Redefining \. on input line 1751.
+LaTeX Info: Redefining \% on input line 1751.
+LaTeX Info: Redefining \. on input line 1751.
+LaTeX Info: Redefining \% on input line 1751.
+[70]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 71 undefined on input line 1
+760.
+
+LaTeX Info: Redefining \. on input line 1766.
+LaTeX Info: Redefining \% on input line 1766.
+LaTeX Info: Redefining \. on input line 1766.
+LaTeX Info: Redefining \% on input line 1766.
+[71]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 72 undefined on input line 1
+772.
+
+LaTeX Info: Redefining \. on input line 1776.
+LaTeX Info: Redefining \% on input line 1776.
+LaTeX Info: Redefining \. on input line 1776.
+LaTeX Info: Redefining \% on input line 1776.
+[72]
+LaTeX Info: Redefining \. on input line 1793.
+LaTeX Info: Redefining \% on input line 1793.
+LaTeX Info: Redefining \. on input line 1793.
+LaTeX Info: Redefining \% on input line 1793.
+ [73]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 74 undefined on input line 1
+804.
+
+LaTeX Info: Redefining \. on input line 1805.
+LaTeX Info: Redefining \% on input line 1805.
+LaTeX Info: Redefining \. on input line 1805.
+LaTeX Info: Redefining \% on input line 1805.
+[74]
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+811.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+813.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+818.
+
+
+LaTeX Warning: Citation '@7067-ZUNINO2011' on page 75 undefined on input line 1
+824.
+
+LaTeX Info: Redefining \. on input line 1825.
+LaTeX Info: Redefining \% on input line 1825.
+LaTeX Info: Redefining \. on input line 1825.
+LaTeX Info: Redefining \% on input line 1825.
+[75]
+LaTeX Info: Redefining \. on input line 1834.
+LaTeX Info: Redefining \% on input line 1834.
+LaTeX Info: Redefining \. on input line 1834.
+LaTeX Info: Redefining \% on input line 1834.
+ [76]
+
+LaTeX Warning: Citation '@7052-SIRVEN2011' on page 77 undefined on input line 1
+835.
+
+LaTeX Info: Redefining \. on input line 1848.
+LaTeX Info: Redefining \% on input line 1848.
+LaTeX Info: Redefining \. on input line 1848.
+LaTeX Info: Redefining \% on input line 1848.
+[77]
+
+LaTeX Warning: Citation '@7052-SIRVEN2011' on page 78 undefined on input line 1
+849.
+
+
+LaTeX Warning: Citation '@7052-SIRVEN2011' on page 78 undefined on input line 1
+854.
+
+
+LaTeX Warning: Citation '@7052-SIRVEN2011' on page 78 undefined on input line 1
+860.
+
+LaTeX Info: Redefining \. on input line 1864.
+LaTeX Info: Redefining \% on input line 1864.
+LaTeX Info: Redefining \. on input line 1864.
+LaTeX Info: Redefining \% on input line 1864.
+[78]
+
+LaTeX Warning: Citation '@6972-ORLANDO2011' on page 79 undefined on input line 
+1870.
+
+LaTeX Info: Redefining \. on input line 1871.
+LaTeX Info: Redefining \% on input line 1871.
+LaTeX Info: Redefining \. on input line 1871.
+LaTeX Info: Redefining \% on input line 1871.
+[79]
+
+LaTeX Warning: Citation '@6972-ORLANDO2011' on page 80 undefined on input line 
+1873.
+
+LaTeX Info: Redefining \. on input line 1882.
+LaTeX Info: Redefining \% on input line 1882.
+LaTeX Info: Redefining \. on input line 1882.
+LaTeX Info: Redefining \% on input line 1882.
+[80]
+
+LaTeX Warning: Citation '@7022-MARQUEZ2010' on page 81 undefined on input line 
+1883.
+
+
+LaTeX Warning: Citation '@7022-MARQUEZ2010' on page 81 undefined on input line 
+1886.
+
+LaTeX Info: Redefining \. on input line 1894.
+LaTeX Info: Redefining \% on input line 1894.
+LaTeX Info: Redefining \. on input line 1894.
+LaTeX Info: Redefining \% on input line 1894.
+[81]
+LaTeX Info: Redefining \. on input line 1901.
+LaTeX Info: Redefining \% on input line 1901.
+LaTeX Info: Redefining \. on input line 1901.
+LaTeX Info: Redefining \% on input line 1901.
+ [82]
+Overfull \vbox (2.20837pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 1910.
+LaTeX Info: Redefining \% on input line 1910.
+LaTeX Info: Redefining \. on input line 1910.
+LaTeX Info: Redefining \% on input line 1910.
+
+[83]
+LaTeX Info: Redefining \. on input line 1926.
+LaTeX Info: Redefining \% on input line 1926.
+LaTeX Info: Redefining \. on input line 1926.
+LaTeX Info: Redefining \% on input line 1926.
+ [84]
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 85 undefined on input line 1
+930.
+
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 85 undefined on input line 1
+933.
+
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 85 undefined on input line 1
+939.
+
+LaTeX Info: Redefining \. on input line 1943.
+LaTeX Info: Redefining \% on input line 1943.
+LaTeX Info: Redefining \. on input line 1943.
+LaTeX Info: Redefining \% on input line 1943.
+[85]
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
+948.
+
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
+951.
+
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 86 undefined on input line 1
+957.
+
+LaTeX Info: Redefining \. on input line 1959.
+LaTeX Info: Redefining \% on input line 1959.
+LaTeX Info: Redefining \. on input line 1959.
+LaTeX Info: Redefining \% on input line 1959.
+[86]
+LaTeX Info: Redefining \. on input line 1965.
+LaTeX Info: Redefining \% on input line 1965.
+LaTeX Info: Redefining \. on input line 1965.
+LaTeX Info: Redefining \% on input line 1965.
+ [87]
+
+LaTeX Warning: Citation '@7053-SIRVEN2013' on page 88 undefined on input line 1
+966.
+
+LaTeX Info: Redefining \. on input line 1973.
+LaTeX Info: Redefining \% on input line 1973.
+LaTeX Info: Redefining \. on input line 1973.
+LaTeX Info: Redefining \% on input line 1973.
+[88]
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 89 undefined on input line 
+1981.
+
+LaTeX Info: Redefining \. on input line 1983.
+LaTeX Info: Redefining \% on input line 1983.
+LaTeX Info: Redefining \. on input line 1983.
+LaTeX Info: Redefining \% on input line 1983.
+[89]
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 90 undefined on input line 
+1984.
+
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 90 undefined on input line 
+1990.
+
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 90 undefined on input line 
+1996.
+
+LaTeX Info: Redefining \. on input line 1997.
+LaTeX Info: Redefining \% on input line 1997.
+LaTeX Info: Redefining \. on input line 1997.
+LaTeX Info: Redefining \% on input line 1997.
+[90]
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
+2008.
+
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
+2014.
+
+
+LaTeX Warning: Citation '@7016-LEVINAS2013' on page 91 undefined on input line 
+2017.
+
+LaTeX Info: Redefining \. on input line 2024.
+LaTeX Info: Redefining \% on input line 2024.
+LaTeX Info: Redefining \. on input line 2024.
+LaTeX Info: Redefining \% on input line 2024.
+[91]
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 92 undefined on input line 
+2028.
+
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 92 undefined on input line 
+2034.
+
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 92 undefined on input line 
+2040.
+
+LaTeX Info: Redefining \. on input line 2041.
+LaTeX Info: Redefining \% on input line 2041.
+LaTeX Info: Redefining \. on input line 2041.
+LaTeX Info: Redefining \% on input line 2041.
+[92]
+LaTeX Info: Redefining \. on input line 2044.
+LaTeX Info: Redefining \% on input line 2044.
+LaTeX Info: Redefining \. on input line 2044.
+LaTeX Info: Redefining \% on input line 2044.
+ [93]
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 94 undefined on input line 
+2048.
+
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 94 undefined on input line 
+2054.
+
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 94 undefined on input line 
+2060.
+
+LaTeX Info: Redefining \. on input line 2061.
+LaTeX Info: Redefining \% on input line 2061.
+LaTeX Info: Redefining \. on input line 2061.
+LaTeX Info: Redefining \% on input line 2061.
+[94]
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 95 undefined on input line 
+2066.
+
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 95 undefined on input line 
+2072.
+
+LaTeX Info: Redefining \. on input line 2077.
+LaTeX Info: Redefining \% on input line 2077.
+LaTeX Info: Redefining \. on input line 2077.
+LaTeX Info: Redefining \% on input line 2077.
+[95]
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 96 undefined on input line 
+2080.
+
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 96 undefined on input line 
+2086.
+
+
+LaTeX Warning: Citation '@7036-MUCHNIK2012' on page 96 undefined on input line 
+2092.
+
+
+Overfull \vbox (0.20837pt too high) has occurred while \output is active []
+
+LaTeX Info: Redefining \. on input line 2093.
+LaTeX Info: Redefining \% on input line 2093.
+LaTeX Info: Redefining \. on input line 2093.
+LaTeX Info: Redefining \% on input line 2093.
+
+[96]
+LaTeX Info: Redefining \. on input line 2105.
+LaTeX Info: Redefining \% on input line 2105.
+LaTeX Info: Redefining \. on input line 2105.
+LaTeX Info: Redefining \% on input line 2105.
+ [97]
+
+LaTeX Warning: Citation '@6988-CAPASSO2013' on page 98 undefined on input line 
+2110.
+
+
+LaTeX Warning: Citation '@6988-CAPASSO2013' on page 98 undefined on input line 
+2116.
+
+LaTeX Info: Redefining \. on input line 2117.
+LaTeX Info: Redefining \% on input line 2117.
+LaTeX Info: Redefining \. on input line 2117.
+LaTeX Info: Redefining \% on input line 2117.
+[98]
+
+LaTeX Warning: Citation '@6988-CAPASSO2013' on page 99 undefined on input line 
+2122.
+
+LaTeX Info: Redefining \. on input line 2123.
+LaTeX Info: Redefining \% on input line 2123.
+LaTeX Info: Redefining \. on input line 2123.
+LaTeX Info: Redefining \% on input line 2123.
+[99]
+
+LaTeX Warning: Citation '@6988-CAPASSO2013' on page 100 undefined on input line
+ 2130.
+
+LaTeX Info: Redefining \. on input line 2135.
+LaTeX Info: Redefining \% on input line 2135.
+LaTeX Info: Redefining \. on input line 2135.
+LaTeX Info: Redefining \% on input line 2135.
+[100]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 101 undefined on input li
+ne 2140.
+
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 101 undefined on input li
+ne 2146.
+
+LaTeX Info: Redefining \. on input line 2147.
+LaTeX Info: Redefining \% on input line 2147.
+LaTeX Info: Redefining \. on input line 2147.
+LaTeX Info: Redefining \% on input line 2147.
+[101]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 102 undefined on input li
+ne 2154.
+
+LaTeX Info: Redefining \. on input line 2158.
+LaTeX Info: Redefining \% on input line 2158.
+LaTeX Info: Redefining \. on input line 2158.
+LaTeX Info: Redefining \% on input line 2158.
+[102]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 103 undefined on input li
+ne 2162.
+
+LaTeX Info: Redefining \. on input line 2167.
+LaTeX Info: Redefining \% on input line 2167.
+LaTeX Info: Redefining \. on input line 2167.
+LaTeX Info: Redefining \% on input line 2167.
+[103]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 104 undefined on input li
+ne 2167.
+
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 104 undefined on input li
+ne 2176.
+
+LaTeX Info: Redefining \. on input line 2177.
+LaTeX Info: Redefining \% on input line 2177.
+LaTeX Info: Redefining \. on input line 2177.
+LaTeX Info: Redefining \% on input line 2177.
+[104]
+LaTeX Info: Redefining \. on input line 2177.
+LaTeX Info: Redefining \% on input line 2177.
+LaTeX Info: Redefining \. on input line 2177.
+LaTeX Info: Redefining \% on input line 2177.
+ [105]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 106 undefined on input li
+ne 2182.
+
+LaTeX Info: Redefining \. on input line 2188.
+LaTeX Info: Redefining \% on input line 2188.
+LaTeX Info: Redefining \. on input line 2188.
+LaTeX Info: Redefining \% on input line 2188.
+[106]
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 107 undefined on input li
+ne 2190.
+
+
+LaTeX Warning: Citation '@6978-BLAUSTEIN2013' on page 107 undefined on input li
+ne 2196.
+
+LaTeX Info: Redefining \. on input line 2203.
+LaTeX Info: Redefining \% on input line 2203.
+LaTeX Info: Redefining \. on input line 2203.
+LaTeX Info: Redefining \% on input line 2203.
+[107]
+
+LaTeX Warning: Citation '@7068-ZUNINO2014' on page 108 undefined on input line 
+2205.
+
+LaTeX Info: Redefining \. on input line 2211.
+LaTeX Info: Redefining \% on input line 2211.
+LaTeX Info: Redefining \. on input line 2211.
+LaTeX Info: Redefining \% on input line 2211.
+[108]
+
+LaTeX Warning: Citation '@7068-ZUNINO2014' on page 109 undefined on input line 
+2213.
+
+
+LaTeX Warning: Citation '@7068-ZUNINO2014' on page 109 undefined on input line 
+2222.
+
+LaTeX Info: Redefining \. on input line 2223.
+LaTeX Info: Redefining \% on input line 2223.
+LaTeX Info: Redefining \. on input line 2223.
+LaTeX Info: Redefining \% on input line 2223.
+[109]
+
+LaTeX Warning: Citation '@7068-ZUNINO2014' on page 110 undefined on input line 
+2225.
+
+
+LaTeX Warning: Citation '@7068-ZUNINO2014' on page 110 undefined on input line 
+2234.
+
+
+LaTeX Warning: Citation '@7068-ZUNINO2014' on page 110 undefined on input line 
+2240.
+
+LaTeX Info: Redefining \. on input line 2245.
+LaTeX Info: Redefining \% on input line 2245.
+LaTeX Info: Redefining \. on input line 2245.
+LaTeX Info: Redefining \% on input line 2245.
+[110]
+
+LaTeX Warning: Citation '@7068-ZUNINO2014' on page 111 undefined on input line 
+2246.
+
+LaTeX Info: Redefining \. on input line 2259.
+LaTeX Info: Redefining \% on input line 2259.
+LaTeX Info: Redefining \. on input line 2259.
+LaTeX Info: Redefining \% on input line 2259.
+[111]
+LaTeX Info: Redefining \. on input line 2273.
+LaTeX Info: Redefining \% on input line 2273.
+LaTeX Info: Redefining \. on input line 2273.
+LaTeX Info: Redefining \% on input line 2273.
+ [112]
+LaTeX Info: Redefining \. on input line 2279.
+LaTeX Info: Redefining \% on input line 2279.
+LaTeX Info: Redefining \. on input line 2279.
+LaTeX Info: Redefining \% on input line 2279.
+ [113]
+LaTeX Info: Redefining \. on input line 2301.
+LaTeX Info: Redefining \% on input line 2301.
+LaTeX Info: Redefining \. on input line 2301.
+LaTeX Info: Redefining \% on input line 2301.
+ [114]
+LaTeX Info: Redefining \. on input line 2315.
+LaTeX Info: Redefining \% on input line 2315.
+LaTeX Info: Redefining \. on input line 2315.
+LaTeX Info: Redefining \% on input line 2315.
+ [115]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 116 undefined on input li
+ne 2323.
+
+LaTeX Info: Redefining \. on input line 2325.
+LaTeX Info: Redefining \% on input line 2325.
+LaTeX Info: Redefining \. on input line 2325.
+LaTeX Info: Redefining \% on input line 2325.
+[116]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
+ne 2332.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
+ne 2338.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 117 undefined on input li
+ne 2346.
+
+LaTeX Info: Redefining \. on input line 2347.
+LaTeX Info: Redefining \% on input line 2347.
+LaTeX Info: Redefining \. on input line 2347.
+LaTeX Info: Redefining \% on input line 2347.
+[117]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 118 undefined on input li
+ne 2352.
+
+LaTeX Info: Redefining \. on input line 2363.
+LaTeX Info: Redefining \% on input line 2363.
+LaTeX Info: Redefining \. on input line 2363.
+LaTeX Info: Redefining \% on input line 2363.
+[118]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 119 undefined on input li
+ne 2368.
+
+LaTeX Info: Redefining \. on input line 2372.
+LaTeX Info: Redefining \% on input line 2372.
+LaTeX Info: Redefining \. on input line 2372.
+LaTeX Info: Redefining \% on input line 2372.
+[119]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 120 undefined on input li
+ne 2376.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 120 undefined on input li
+ne 2382.
+
+LaTeX Info: Redefining \. on input line 2386.
+LaTeX Info: Redefining \% on input line 2386.
+LaTeX Info: Redefining \. on input line 2386.
+LaTeX Info: Redefining \% on input line 2386.
+[120]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 121 undefined on input li
+ne 2387.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 121 undefined on input li
+ne 2398.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 121 undefined on input li
+ne 2404.
+
+LaTeX Info: Redefining \. on input line 2405.
+LaTeX Info: Redefining \% on input line 2405.
+LaTeX Info: Redefining \. on input line 2405.
+LaTeX Info: Redefining \% on input line 2405.
+[121]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 122 undefined on input li
+ne 2412.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 122 undefined on input li
+ne 2418.
+
+LaTeX Info: Redefining \. on input line 2422.
+LaTeX Info: Redefining \% on input line 2422.
+LaTeX Info: Redefining \. on input line 2422.
+LaTeX Info: Redefining \% on input line 2422.
+[122]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 123 undefined on input li
+ne 2428.
+
+LaTeX Info: Redefining \. on input line 2429.
+LaTeX Info: Redefining \% on input line 2429.
+LaTeX Info: Redefining \. on input line 2429.
+LaTeX Info: Redefining \% on input line 2429.
+[123]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 124 undefined on input li
+ne 2434.
+
+LaTeX Info: Redefining \. on input line 2435.
+LaTeX Info: Redefining \% on input line 2435.
+LaTeX Info: Redefining \. on input line 2435.
+LaTeX Info: Redefining \% on input line 2435.
+[124]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 125 undefined on input li
+ne 2440.
+
+LaTeX Info: Redefining \. on input line 2448.
+LaTeX Info: Redefining \% on input line 2448.
+LaTeX Info: Redefining \. on input line 2448.
+LaTeX Info: Redefining \% on input line 2448.
+[125]
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 126 undefined on input li
+ne 2452.
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 126 undefined on input li
+ne 2459.
+
+LaTeX Info: Redefining \. on input line 2463.
+LaTeX Info: Redefining \% on input line 2463.
+LaTeX Info: Redefining \. on input line 2463.
+LaTeX Info: Redefining \% on input line 2463.
+[126]
+
+LaTeX Warning: Citation '@6971-A2014' on page 127 undefined on input line 2468.
+
+
+
+LaTeX Warning: Citation '@6977-BLAUSTEIN2014' on page 127 undefined on input li
+ne 2474.
+
+
+LaTeX Warning: Citation '@6971-A2014' on page 127 undefined on input line 2480.
+
+
+LaTeX Info: Redefining \. on input line 2481.
+LaTeX Info: Redefining \% on input line 2481.
+LaTeX Info: Redefining \. on input line 2481.
+LaTeX Info: Redefining \% on input line 2481.
+[127]
+
+LaTeX Warning: Citation '@6971-A2014' on page 128 undefined on input line 2486.
+
+
+
+LaTeX Warning: Citation '@6971-A2014' on page 128 undefined on input line 2492.
+
+
+LaTeX Info: Redefining \. on input line 2493.
+LaTeX Info: Redefining \% on input line 2493.
+LaTeX Info: Redefining \. on input line 2493.
+LaTeX Info: Redefining \% on input line 2493.
+[128]
+
+LaTeX Warning: Citation '@6971-A2014' on page 129 undefined on input line 2498.
+
+
+LaTeX Info: Redefining \. on input line 2499.
+LaTeX Info: Redefining \% on input line 2499.
+LaTeX Info: Redefining \. on input line 2499.
+LaTeX Info: Redefining \% on input line 2499.
+[129]
+LaTeX Info: Redefining \. on input line 2506.
+LaTeX Info: Redefining \% on input line 2506.
+LaTeX Info: Redefining \. on input line 2506.
+LaTeX Info: Redefining \% on input line 2506.
+ [130]
+
+LaTeX Warning: Citation '@7015-JORNET2014' on page 131 undefined on input line 
+2516.
+
+
+LaTeX Warning: Citation '@7015-JORNET2014' on page 131 undefined on input line 
+2522.
+
+LaTeX Info: Redefining \. on input line 2523.
+LaTeX Info: Redefining \% on input line 2523.
+LaTeX Info: Redefining \. on input line 2523.
+LaTeX Info: Redefining \% on input line 2523.
+[131]
+LaTeX Info: Redefining \. on input line 2540.
+LaTeX Info: Redefining \% on input line 2540.
+LaTeX Info: Redefining \. on input line 2540.
+LaTeX Info: Redefining \% on input line 2540.
+ [132]
+LaTeX Info: Redefining \. on input line 2545.
+LaTeX Info: Redefining \% on input line 2545.
+LaTeX Info: Redefining \. on input line 2545.
+LaTeX Info: Redefining \% on input line 2545.
+ [133]
+LaTeX Info: Redefining \. on input line 2569.
+LaTeX Info: Redefining \% on input line 2569.
+LaTeX Info: Redefining \. on input line 2569.
+LaTeX Info: Redefining \% on input line 2569.
+ [134]
+LaTeX Info: Redefining \. on input line 2589.
+LaTeX Info: Redefining \% on input line 2589.
+LaTeX Info: Redefining \. on input line 2589.
+LaTeX Info: Redefining \% on input line 2589.
+ [135]
+LaTeX Info: Redefining \. on input line 2597.
+LaTeX Info: Redefining \% on input line 2597.
+LaTeX Info: Redefining \. on input line 2597.
+LaTeX Info: Redefining \% on input line 2597.
+ [136]
+LaTeX Info: Redefining \. on input line 2615.
+LaTeX Info: Redefining \% on input line 2615.
+LaTeX Info: Redefining \. on input line 2615.
+LaTeX Info: Redefining \% on input line 2615.
+ [137]
+LaTeX Info: Redefining \. on input line 2627.
+LaTeX Info: Redefining \% on input line 2627.
+LaTeX Info: Redefining \. on input line 2627.
+LaTeX Info: Redefining \% on input line 2627.
+ [138]
+LaTeX Info: Redefining \. on input line 2639.
+LaTeX Info: Redefining \% on input line 2639.
+LaTeX Info: Redefining \. on input line 2639.
+LaTeX Info: Redefining \% on input line 2639.
+ [139]
+LaTeX Info: Redefining \. on input line 2647.
+LaTeX Info: Redefining \% on input line 2647.
+LaTeX Info: Redefining \. on input line 2647.
+LaTeX Info: Redefining \% on input line 2647.
+ [140]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 141 undefined on input line
+ 2651.
+
+LaTeX Info: Redefining \. on input line 2652.
+LaTeX Info: Redefining \% on input line 2652.
+LaTeX Info: Redefining \. on input line 2652.
+LaTeX Info: Redefining \% on input line 2652.
+[141]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 142 undefined on input line
+ 2654.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 142 undefined on input line
+ 2662.
+
+LaTeX Info: Redefining \. on input line 2663.
+LaTeX Info: Redefining \% on input line 2663.
+LaTeX Info: Redefining \. on input line 2663.
+LaTeX Info: Redefining \% on input line 2663.
+[142]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 143 undefined on input line
+ 2668.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 143 undefined on input line
+ 2674.
+
+LaTeX Info: Redefining \. on input line 2675.
+LaTeX Info: Redefining \% on input line 2675.
+LaTeX Info: Redefining \. on input line 2675.
+LaTeX Info: Redefining \% on input line 2675.
+[143]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 144 undefined on input line
+ 2680.
+
+LaTeX Info: Redefining \. on input line 2681.
+LaTeX Info: Redefining \% on input line 2681.
+LaTeX Info: Redefining \. on input line 2681.
+LaTeX Info: Redefining \% on input line 2681.
+[144]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 145 undefined on input line
+ 2686.
+
+LaTeX Info: Redefining \. on input line 2690.
+LaTeX Info: Redefining \% on input line 2690.
+LaTeX Info: Redefining \. on input line 2690.
+LaTeX Info: Redefining \% on input line 2690.
+[145]
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
+ 2692.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
+ 2698.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
+ 2700.
+
+
+LaTeX Warning: Citation '@7017-LEVINAS2015' on page 146 undefined on input line
+ 2702.
+
+LaTeX Info: Redefining \. on input line 2706.
+LaTeX Info: Redefining \% on input line 2706.
+LaTeX Info: Redefining \. on input line 2706.
+LaTeX Info: Redefining \% on input line 2706.
+[146]
+LaTeX Info: Redefining \. on input line 2713.
+LaTeX Info: Redefining \% on input line 2713.
+LaTeX Info: Redefining \. on input line 2713.
+LaTeX Info: Redefining \% on input line 2713.
+ [147]
+LaTeX Info: Redefining \. on input line 2725.
+LaTeX Info: Redefining \% on input line 2725.
+LaTeX Info: Redefining \. on input line 2725.
+LaTeX Info: Redefining \% on input line 2725.
+ [148]
+
+LaTeX Warning: Citation '@7031-MORALES2015' on page 149 undefined on input line
+ 2730.
+
+
+LaTeX Warning: Citation '@7031-MORALES2015' on page 149 undefined on input line
+ 2736.
+
+LaTeX Info: Redefining \. on input line 2737.
+LaTeX Info: Redefining \% on input line 2737.
+LaTeX Info: Redefining \. on input line 2737.
+LaTeX Info: Redefining \% on input line 2737.
+[149]
+
+LaTeX Warning: Citation '@7031-MORALES2015' on page 150 undefined on input line
+ 2742.
+
+
+LaTeX Warning: Citation '@7031-MORALES2015' on page 150 undefined on input line
+ 2748.
+
+LaTeX Info: Redefining \. on input line 2749.
+LaTeX Info: Redefining \% on input line 2749.
+LaTeX Info: Redefining \. on input line 2749.
+LaTeX Info: Redefining \% on input line 2749.
+[150]
+LaTeX Info: Redefining \. on input line 2749.
+LaTeX Info: Redefining \% on input line 2749.
+LaTeX Info: Redefining \. on input line 2749.
+LaTeX Info: Redefining \% on input line 2749.
+ [151]
+
+LaTeX Warning: Citation '@7031-MORALES2015' on page 152 undefined on input line
+ 2754.
+
+
+LaTeX Warning: Citation '@7041-PICCONE2015' on page 152 undefined on input line
+ 2761.
+
+LaTeX Info: Redefining \. on input line 2763.
+LaTeX Info: Redefining \% on input line 2763.
+LaTeX Info: Redefining \. on input line 2763.
+LaTeX Info: Redefining \% on input line 2763.
+[152]
+
+LaTeX Warning: Citation '@7041-PICCONE2015' on page 153 undefined on input line
+ 2764.
+
+
+LaTeX Warning: Citation '@7041-PICCONE2015' on page 153 undefined on input line
+ 2770.
+
+
+LaTeX Warning: Citation '@7041-PICCONE2015' on page 153 undefined on input line
+ 2776.
+
+LaTeX Info: Redefining \. on input line 2777.
+LaTeX Info: Redefining \% on input line 2777.
+LaTeX Info: Redefining \. on input line 2777.
+LaTeX Info: Redefining \% on input line 2777.
+[153]
+
+LaTeX Warning: Citation '@7037-NOVARO2015' on page 154 undefined on input line 
+2783.
+
+
+LaTeX Warning: Citation '@6984-BOURDIEU1997' on page 154 undefined on input lin
+e 2783.
+
+LaTeX Info: Redefining \. on input line 2787.
+LaTeX Info: Redefining \% on input line 2787.
+LaTeX Info: Redefining \. on input line 2787.
+LaTeX Info: Redefining \% on input line 2787.
+[154]
+
+LaTeX Warning: Citation '@6984-BOURDIEU1997' on page 155 undefined on input lin
+e 2789.
+
+LaTeX Info: Redefining \. on input line 2799.
+LaTeX Info: Redefining \% on input line 2799.
+LaTeX Info: Redefining \. on input line 2799.
+LaTeX Info: Redefining \% on input line 2799.
+[155]
+
+LaTeX Warning: Citation '@7037-NOVARO2015' on page 156 undefined on input line 
+2806.
+
+LaTeX Info: Redefining \. on input line 2807.
+LaTeX Info: Redefining \% on input line 2807.
+LaTeX Info: Redefining \. on input line 2807.
+LaTeX Info: Redefining \% on input line 2807.
+[156]
+
+LaTeX Warning: Citation '@7037-NOVARO2015' on page 157 undefined on input line 
+2812.
+
+LaTeX Info: Redefining \. on input line 2823.
+LaTeX Info: Redefining \% on input line 2823.
+LaTeX Info: Redefining \. on input line 2823.
+LaTeX Info: Redefining \% on input line 2823.
+[157]
+LaTeX Info: Redefining \. on input line 2829.
+LaTeX Info: Redefining \% on input line 2829.
+LaTeX Info: Redefining \. on input line 2829.
+LaTeX Info: Redefining \% on input line 2829.
+ [158]
+LaTeX Info: Redefining \. on input line 2829.
+LaTeX Info: Redefining \% on input line 2829.
+LaTeX Info: Redefining \. on input line 2829.
+LaTeX Info: Redefining \% on input line 2829.
+ [159] [160
+
+]
+Capítulo 5.
+Package biblatex Info: Resetting trackers on input line 2829.
+
+LaTeX Warning: Citation '@7026-MENESESFERNANDEZ2010' on page 161 undefined on i
+nput line 2835.
+
+
+LaTeX Warning: Citation '@7024-MASTRINI2017' on page 161 undefined on input lin
+e 2837.
+
+LaTeX Info: Redefining \. on input line 2839.
+LaTeX Info: Redefining \% on input line 2839.
+LaTeX Info: Redefining \. on input line 2839.
+LaTeX Info: Redefining \% on input line 2839.
+[161]
+LaTeX Info: Redefining \. on input line 2848.
+LaTeX Info: Redefining \% on input line 2848.
+LaTeX Info: Redefining \. on input line 2848.
+LaTeX Info: Redefining \% on input line 2848.
+ [162]
+LaTeX Info: Redefining \. on input line 2861.
+LaTeX Info: Redefining \% on input line 2861.
+LaTeX Info: Redefining \. on input line 2861.
+LaTeX Info: Redefining \% on input line 2861.
+ [163]
+LaTeX Info: Redefining \. on input line 2872.
+LaTeX Info: Redefining \% on input line 2872.
+LaTeX Info: Redefining \. on input line 2872.
+LaTeX Info: Redefining \% on input line 2872.
+ [164]
+LaTeX Info: Redefining \. on input line 2877.
+LaTeX Info: Redefining \% on input line 2877.
+LaTeX Info: Redefining \. on input line 2877.
+LaTeX Info: Redefining \% on input line 2877.
+ [165]
+LaTeX Info: Redefining \. on input line 2884.
+LaTeX Info: Redefining \% on input line 2884.
+LaTeX Info: Redefining \. on input line 2884.
+LaTeX Info: Redefining \% on input line 2884.
+ [166]
+LaTeX Info: Redefining \. on input line 2897.
+LaTeX Info: Redefining \% on input line 2897.
+LaTeX Info: Redefining \. on input line 2897.
+LaTeX Info: Redefining \% on input line 2897.
+ [167]
+LaTeX Info: Redefining \. on input line 2916.
+LaTeX Info: Redefining \% on input line 2916.
+LaTeX Info: Redefining \. on input line 2916.
+LaTeX Info: Redefining \% on input line 2916.
+ [168]
+LaTeX Info: Redefining \. on input line 2928.
+LaTeX Info: Redefining \% on input line 2928.
+LaTeX Info: Redefining \. on input line 2928.
+LaTeX Info: Redefining \% on input line 2928.
+ [169]
+LaTeX Info: Redefining \. on input line 2938.
+LaTeX Info: Redefining \% on input line 2938.
+LaTeX Info: Redefining \. on input line 2938.
+LaTeX Info: Redefining \% on input line 2938.
+ [170]
+LaTeX Info: Redefining \. on input line 2953.
+LaTeX Info: Redefining \% on input line 2953.
+LaTeX Info: Redefining \. on input line 2953.
+LaTeX Info: Redefining \% on input line 2953.
+ [171]
+LaTeX Info: Redefining \. on input line 2964.
+LaTeX Info: Redefining \% on input line 2964.
+LaTeX Info: Redefining \. on input line 2964.
+LaTeX Info: Redefining \% on input line 2964.
+ [172]
+Package biblatex Info: Resetting trackers on input line 2965.
+LaTeX Info: Redefining \. on input line 2979.
+LaTeX Info: Redefining \% on input line 2979.
+LaTeX Info: Redefining \. on input line 2979.
+LaTeX Info: Redefining \% on input line 2979.
+
+[173
+
+
+] [174
+
+]
+Package biblatex Info: Resetting trackers on input line 2979.
 LaTeX Font Info:    Font shape `TU/LibertinusSerif(0)/m/sc' will be
-(Font)              scaled to size 10.61993pt on input line 2894.
-LaTeX Info: Redefining \. on input line 2894.
-LaTeX Info: Redefining \% on input line 2894.
-LaTeX Info: Redefining \. on input line 2894.
-LaTeX Info: Redefining \% on input line 2894.
- [57]
-LaTeX Info: Redefining \. on input line 2894.
-LaTeX Info: Redefining \% on input line 2894.
-LaTeX Info: Redefining \. on input line 2894.
-LaTeX Info: Redefining \% on input line 2894.
- [58]
-LaTeX Info: Redefining \. on input line 2894.
-LaTeX Info: Redefining \% on input line 2894.
-LaTeX Info: Redefining \. on input line 2894.
-LaTeX Info: Redefining \% on input line 2894.
- [59]
-(./artcap/colofon.tex
+(Font)              scaled to size 10.61993pt on input line 2979.
+LaTeX Info: Redefining \. on input line 2979.
+LaTeX Info: Redefining \% on input line 2979.
+LaTeX Info: Redefining \. on input line 2979.
+LaTeX Info: Redefining \% on input line 2979.
+ [175]
+LaTeX Info: Redefining \. on input line 2979.
+LaTeX Info: Redefining \% on input line 2979.
+LaTeX Info: Redefining \. on input line 2979.
+LaTeX Info: Redefining \% on input line 2979.
+ [176]
+LaTeX Info: Redefining \. on input line 2979.
+LaTeX Info: Redefining \% on input line 2979.
+LaTeX Info: Redefining \. on input line 2979.
+LaTeX Info: Redefining \% on input line 2979.
+ [177] (./artcap/colofon.tex
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
- [60]
+ [178]
 Package biblatex Info: Resetting trackers on input line 1.
 )
-LaTeX Info: Redefining \. on input line 2902.
-LaTeX Info: Redefining \% on input line 2902.
-LaTeX Info: Redefining \. on input line 2902.
-LaTeX Info: Redefining \% on input line 2902.
- [61
+LaTeX Info: Redefining \. on input line 2987.
+LaTeX Info: Redefining \% on input line 2987.
+LaTeX Info: Redefining \. on input line 2987.
+LaTeX Info: Redefining \% on input line 2987.
+ [179
 
-] 
+]
+
 AED: pageslts setting LastPage 
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-utf32be.def
 File: se-utf32be.def 2019/11/29 v1.12 stringenc: UTF-32BE
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/se-pdfdoc.def
 File: se-pdfdoc.def 2019/11/29 v1.12 stringenc: PDFDocEncoding
-) [62]
+) [180]
 
 Package glossaries Warning: No \printnoidxglossary or \printnoidxglossaries
  found. (Remove \makenoidxglossaries if you don't want any glossaries.)
@@ -5436,26 +6713,26 @@ LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `pdf-20250629MAURO.out' has not changed.
-(rerunfilecheck)             Checksum: 67B2E92C462AA34BC63C3B2A3B4D98BA;951.
+(rerunfilecheck)             Checksum: 88D0D1C8A41AFB73C612DCC1E48815EB;1381.
 Package logreq Info: Writing requests to 'pdf-20250629MAURO.run.xml'.
 
 \openout1 = pdf-20250629MAURO.run.xml
 )
 
 Here is how much of LuaTeX's memory you used:
- 67213 strings out of 476553
- 2845590,2848258 words of node,token memory allocated
- 2294123 words of node memory still in use:
-   14013 hlist, 393 vlist, 7992 rule, 49 ins, 3 adjust, 27090 disc, 1807 local_p
-ar, 212 math, 41983 glue, 17141 kern, 4257 penalty, 460 margin_kern, 172288 glyp
-h, 67454 attribute, 3177 glue_spec, 9648 attribute_list, 387 write, 26 pdf_liter
-al, 285 pdf_start_link, 289 pdf_end_link, 91 pdf_dest, 192 pdf_action, 1210 pdf_
-colorstack, 8 pdf_setmatrix, 8 pdf_save, 8 pdf_restore nodes
-   avail lists: 1:9,2:213,3:562,4:109,5:141,6:23,7:3408,8:136,9:304,10:28,11:288
+ 67401 strings out of 476553
+ 6947443,2848258 words of node,token memory allocated
+ 5924934 words of node memory still in use:
+   17733 hlist, 781 vlist, 7988 rule, 184 ins, 2 adjust, 78262 disc, 3837 local_
+par, 422 math, 101231 glue, 60296 kern, 9294 penalty, 974 margin_kern, 496943 gl
+yph, 98989 attribute, 6723 glue_spec, 14153 attribute_list, 387 write, 36 pdf_li
+teral, 390 pdf_start_link, 396 pdf_end_link, 350 pdf_dest, 277 pdf_action, 1798 
+pdf_colorstack, 4 pdf_setmatrix, 4 pdf_save, 4 pdf_restore nodes
+   avail lists: 1:6,2:213,3:562,4:109,5:141,6:23,7:3410,8:137,9:232,10:31,11:288
 ,12:1
- 87282 multiletter control sequences out of 65536+600000
- 103 fonts using 28613835 bytes
- 117i,15n,123p,5827b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 87287 multiletter control sequences out of 65536+600000
+ 104 fonts using 28724007 bytes
+ 117i,15n,123p,5883b,2668s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.10'
 
@@ -5463,18 +6740,18 @@ warning  (pdf backend): unreferenced destination with name 'Hfootnote.9'
 
 warning  (pdf backend): unreferenced destination with name 'Hfootnote.1'
 </usr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/Libertinus
-Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/ibm/plex/IBMP
-lexSansCondensed-Italic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public
-/libertinus-fonts/LibertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/fonts/
-opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texlive/texmf-di
-st/fonts/opentype/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share
+Serif-BoldItalic.otf></usr/share/texlive/texmf-dist/fonts/opentype/public/libert
+inus-fonts/LibertinusSerif-Bold.otf></usr/share/texlive/texmf-dist/fonts/opentyp
+e/public/libertinus-fonts/LibertinusSerif-Italic.otf></usr/share/texlive/texmf-d
+ist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-SemiBold.otf></usr/share/texliv
+e/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Italic.otf></usr/share
 /texlive/texmf-dist/fonts/opentype/ibm/plex/IBMPlexSansCondensed-Regular.otf></u
 sr/share/texlive/texmf-dist/fonts/opentype/public/libertinus-fonts/LibertinusSer
 if-Regular.otf>
-Output written on pdf-20250629MAURO.pdf (76 pages, 355542 bytes).
+Output written on pdf-20250629MAURO.pdf (190 pages, 753131 bytes).
 
-PDF statistics: 821 PDF objects out of 1000 (max. 8388607)
- 622 compressed objects within 7 object streams
- 208 named destinations out of 1000 (max. 131072)
- 293 words of extra memory for PDF output out of 10000 (max. 100000000)
+PDF statistics: 1538 PDF objects out of 1728 (max. 8388607)
+ 1197 compressed objects within 12 object streams
+ 403 named destinations out of 1000 (max. 131072)
+ 309 words of extra memory for PDF output out of 10000 (max. 100000000)
 
