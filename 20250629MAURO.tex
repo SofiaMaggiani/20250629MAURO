@@ -1,65 +1,65 @@
-% referencias
+%% referencias
 \addbibresource{./files/gbTeXbib-20250629MAURO.bib}
-
-% glosarios
-\input{./files/gbTeXglo-20250629MAURO.tex}
-
-\ifPDF
-% separata de capítulos solo en pdf de pantalla
-
-\input{./files/gbTeXseparata-20250629MAURO.tex}
-% control de inconsistencias de principio y fin de linea
-\usepackage[hyphenation,homeoarchy,homeoarchywordcolor=orange, homeoarchycharcolor=orange,draft]{impnattypo}
-\usepackage[allcolors=magenta, colorlinks, unicode]{hyperref}
-\usepackage{easyReview}
-\usepackage{hyperxmp}
-\input{./files/gbTeXmeta-20250629MAURO.tex}
-\else
-\ifBNPDF
-\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
-\newcommand*\infofont[1]{\sf{\footnotesize #1 (sofia.maggiani@gmail.com)}}
-\crop[font=infofont]
-\usepackage[hidelinks, unicode]{hyperref}
-\usepackage{hyperxmp}
-\input{./files/gbTeXmeta-20250629MAURO.tex}
-\else
-\ifPNGEPUB
-\usepackage[hidelinks, unicode]{hyperref}
-\else
-\ifHTMLEPUB
-\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
-\fi
-\fi
-\fi
-\fi
+%
+%% glosarios
+%\input{./files/gbTeXglo-20250629MAURO.tex}
+%
+%\ifPDF
+%% separata de capítulos solo en pdf de pantalla
+%
+%\input{./files/gbTeXseparata-20250629MAURO.tex}
+%% control de inconsistencias de principio y fin de linea
+%\usepackage[hyphenation,homeoarchy,homeoarchywordcolor=orange, homeoarchycharcolor=orange,draft]{impnattypo}
+%\usepackage[allcolors=magenta, colorlinks, unicode]{hyperref}
+%\usepackage{easyReview}
+%\usepackage{hyperxmp}
+%\input{./files/gbTeXmeta-20250629MAURO.tex}
+%\else
+%\ifBNPDF
+%\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
+%\newcommand*\infofont[1]{\sf{\footnotesize #1 (sofia.maggiani@gmail.com)}}
+%\crop[font=infofont]
+%\usepackage[hidelinks, unicode]{hyperref}
+%\usepackage{hyperxmp}
+%\input{./files/gbTeXmeta-20250629MAURO.tex}
+%\else
+%\ifPNGEPUB
+%\usepackage[hidelinks, unicode]{hyperref}
+%\else
+%\ifHTMLEPUB
+%\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
+%\fi
+%\fi
+%\fi
+%\fi
 
 % Definir el color de fondo: gris con 10% de magenta
 %\definecolor{chaptercircle}{cmyk}{0,0.1,0,0}
 \begin{document}
 \frontmatter
 
-\ifPDF
-\input{./artcap/inicio-frontmatter.tex}
-\Author{Sumario}
-\tableofcontents
-	\else
-	\ifBNPDF
-	\input{./artcap/inicio-frontmatter.tex}
-	\Author{Sumario}
-	\tableofcontents
-		\else
-		\ifPNGEPUB
-		\input{./artcap/inicio-frontmatter.tex}
-		\Author{Sumario}
-		\tableofcontents
-		\fi
-	\fi
-\fi
-
-
-\ifHTMLEPUB
-\tableofcontents
-\fi
+%\ifPDF
+%\input{./artcap/inicio-frontmatter.tex}
+%\Author{Sumario}
+%\tableofcontents
+%	\else
+%	\ifBNPDF
+%	\input{./artcap/inicio-frontmatter.tex}
+%	\Author{Sumario}
+%	\tableofcontents
+%		\else
+%		\ifPNGEPUB
+%		\input{./artcap/inicio-frontmatter.tex}
+%		\Author{Sumario}
+%		\tableofcontents
+%		\fi
+%	\fi
+%\fi
+%
+%
+%\ifHTMLEPUB
+%\tableofcontents
+%\fi
 
 \input{./artcap/inicio-frontmatter.tex}
 \author{Mauro Dobruskin}
@@ -993,7 +993,7 @@ Categorías de periodistas:
   Predicadores
 \end{itemize}
 
-\ul{Pseudoperiodistas}
+%\ul{Pseudoperiodistas}
 
 \begin{itemize}
 \item
