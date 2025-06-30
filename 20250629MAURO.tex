@@ -1,179 +1,95 @@
-%
-%% referencias
-%\addbibresource{./files/gbTeXbib-20250629MAURO.bib}
-%
-%% glosarios
-%\input{./files/gbTeXglo-20250629MAURO.tex}
-%
-%\ifPDF
-%	% separata de capítulos solo en pdf de pantalla
-%	\input{./files/gbTeXseparata-20250629MAURO.tex}
-%	% control de inconsistencias de principio y fin de linea
-%	\usepackage[hyphenation,homeoarchy,homeoarchywordcolor=orange, homeoarchycharcolor=orange,draft]{impnattypo}
-%	\usepackage[allcolors=magenta, colorlinks, unicode]{hyperref}
-%	\usepackage{easyReview}
-%	\usepackage{hyperxmp}
-%	\input{./files/gbTeXmeta-seminarioUBA.tex}
-%		\else
-%		\ifBNPDF
-%		\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
-%		\newcommand*\infofont[1]{\sf{\footnotesize #1 (alberto.alejandro.moyano@gmail.com)}}
-%		\crop[font=infofont]
-%		\usepackage[hidelinks, unicode]{hyperref}
-%		\usepackage{hyperxmp}
-%		\input{./files/gbTeXmeta-seminarioUBA.tex}
-%			\else
-%			\ifPNGEPUB
-%			\usepackage[hidelinks, unicode]{hyperref}
-%				\else
-%				\ifHTMLEPUB
-%				\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
-%				\fi
-%		\fi
-%	\fi
-%\fi
+% referencias
+\addbibresource{./files/gbTeXbib-20250629MAURO.bib}
+
+% glosarios
+\input{./files/gbTeXglo-20250629MAURO.tex}
+
+\ifPDF
+% separata de capítulos solo en pdf de pantalla
+
+\input{./files/gbTeXseparata-20250629MAURO.tex}
+% control de inconsistencias de principio y fin de linea
+\usepackage[hyphenation,homeoarchy,homeoarchywordcolor=orange, homeoarchycharcolor=orange,draft]{impnattypo}
+\usepackage[allcolors=magenta, colorlinks, unicode]{hyperref}
+\usepackage{easyReview}
+\usepackage{hyperxmp}
+\input{./files/gbTeXmeta-20250629MAURO.tex}
+\else
+\ifBNPDF
+\usepackage[width=18truecm,height=25.5truecm,cam,center]{crop}
+\newcommand*\infofont[1]{\sf{\footnotesize #1 (sofia.maggiani@gmail.com)}}
+\crop[font=infofont]
+\usepackage[hidelinks, unicode]{hyperref}
+\usepackage{hyperxmp}
+\input{./files/gbTeXmeta-20250629MAURO.tex}
+\else
+\ifPNGEPUB
+\usepackage[hidelinks, unicode]{hyperref}
+\else
+\ifHTMLEPUB
+\usepackage[allcolors=blue,colorlinks,hyperindex=true,unicode]{hyperref}
+\fi
+\fi
+\fi
+\fi
 
 % Definir el color de fondo: gris con 10% de magenta
 %\definecolor{chaptercircle}{cmyk}{0,0.1,0,0}
 \begin{document}
 \frontmatter
+
+\ifPDF
+\input{./artcap/inicio-frontmatter.tex}
+\Author{Sumario}
+\tableofcontents
+	\else
+	\ifBNPDF
+	\input{./artcap/inicio-frontmatter.tex}
+	\Author{Sumario}
+	\tableofcontents
+		\else
+		\ifPNGEPUB
+		\input{./artcap/inicio-frontmatter.tex}
+		\Author{Sumario}
+		\tableofcontents
+		\fi
+	\fi
+\fi
+
+
+\ifHTMLEPUB
+\tableofcontents
+\fi
+
 \input{./artcap/inicio-frontmatter.tex}
 \author{Mauro Dobruskin}
 
-%esto va a al inicio-frontmatter
-%\textbf{Maestría en Periodismo}
-%
-%\textbf{Facultad de Ciencias Sociales}
-%
-%\textbf{Universidad de Buenos Aires}
-%
-%\textbf{Tesis de Maestría}
-%
-%\textbf{Periodistas en Debate. Aportes al Estudio del Campo Periodístico}
-%
-%\textbf{(2009 -- 2015)}
-%
-%\textbf{Mauro David Dobruskin}
-%
-%\textbf{Director: Dr. Julio Moyano}
-%
-%\textbf{Septiembre 2020}
+\chapter{Resumen}
 
+Entre los años 2009 y 2015, el debate entre periodistas sobre el periodismo y el quehacer periodístico adoptó, en Argentina, un volumen e intensidad con pocos antecedentes. Mesas redondas, jornadas, nuevos programas periodísticos en canales de aire y de cable, innumerables artículos periodísticos de crítica y defensa de periodistas se desplegaron en la prensa cotidiana y en revistas políticas. Sin embargo, este debate se destacó por la edición de un gran número de libros escritos por periodistas sobre el periodismo, los periodistas o las empresas periodísticas.
 
+Este fenómeno estuvo inscripto en el conflicto entre el gobierno de Cristina Fernández de Kirchner (2007-2015) y los principales medios de comunicación (Arrueta, 2013; Stefoni, 2013; Gindin, 2014; Ure y Schwarz, 2014; Mastrini y Becerra, 2017), que se vio reflejado en una intensa producción y circulación de este tipo de libros de no ficción.
 
-%\hypertarget{resumen}{%
-%\section{Resumen}\label{resumen}}
-%
-%Entre los años 2009 y 2015, el debate entre periodistas sobre el periodismo y el quehacer periodístico adoptó, en Argentina, un volumen e intensidad con pocos antecedentes. Mesas redondas, jornadas, nuevos programas periodísticos en canales de aire y de cable, innumerables artículos periodísticos de crítica y defensa de periodistas se desplegaron en la prensa cotidiana y en revistas políticas. Sin embargo, este debate se destacó por la edición de un gran número de libros escritos por periodistas sobre el periodismo, los periodistas o las empresas periodísticas.
-%
-%Este fenómeno estuvo inscripto en el conflicto entre el gobierno de Cristina Fernández de Kirchner (2007-2015) y los principales medios de comunicación (Arrueta, 2013; Stefoni, 2013; Gindin, 2014; Ure y Schwarz, 2014; Mastrini y Becerra, 2017), que se vio reflejado en una intensa producción y circulación de este tipo de libros de no ficción.
-%
-%Estas tensiones y conflictos no han sido exclusivos o propios del gobierno de Cristina Fernández de Kirchner. Ruiz (2014), en \emph{Guerras Mediáticas}, reseña la sucesión de conflictos entre el poder político y los medios de comunicación en Argentina desde sus orígenes; lo novedoso del período es que este conflicto se trasladó al interior del colectivo de los periodistas, produciendo disputas discursivas y críticas recíprocas alrededor de la deontología de la actividad, su función en la sociedad y la democracia y los principios que la deben regir, personalizando en colegas y/o medios la crítica sobre el quehacer de la profesión.
-%
-%Este trabajo se propone analizar el debate entre periodistas sobre el periodismo y lo periodístico a los efectos de identificar algunos de los argumentos que los periodistas desplegaron para describir y disputar la voz legítima dentro del campo periodístico. Estrictamente, estudiar el discurso metaperiodístico a fin de avanzar, en el conocimiento de los mecanismos regulatorios del campo, en los aspectos de su identidad profesional y sus intereses latentes y manifiestos, como así también en las dinámicas de legitimación y reconocimiento del campo periodístico argentino contemporáneo que se configuran en la producción ensayística de los periodistas entre los años 2009 y 2015.
-%
-%
-%\section{Palabras clave}
-%
-%Campo periodístico; Metaperiodismo; Legitimación; Independencia; Libertad de expresión
-%
-%
-%\section{Summary}
-%
-%Between 2009 and 2015, the~debate~among journalists about journalism and the journalistic work adopted, in Argentine, a volume and intensity with few background. Round tables, conferences, new journalistic TV programs on air and cable~tv, countless journalistic articles on criticism and defense of journalists were deployed in the daily press and in political magazines. However, this debate was highlighted, above all, by the edition of a large number of books written by journalists about journalism, journalists or media enterprises.
-%
-%This phenomenon was inscribed in the conflict between the government of Cristina Fernández de Kirchner (2007-2015) and the main media (Arrueta, 2013; Stefoni, 2013; Gindin, 2014; Ure y Schwarz, 2014; Mastrini y Becerra, 2017), which was reflected in an intense production and circulation of this type of non-fiction books.
-%
-%These tensions and conflicts have not been exclusive of the Government of Cristina Fernández de Kirchner. Ruiz (2014), in \emph{Guerras Mediáticas}, summarizes~a~number~of conflicts between political power and the media in Argentina since its origins. The novelty of the period is that this conflict moved within the collective of journalists, producing discursive disputes and reciprocal criticisms around the deontology of the activity, its role in society and democracy and the principles that should govern it, personalizing in colleagues and / or media, the criticism of the work of the profession.
-%
-%This thesis intends to analyze the debate among journalists about journalism itself~in order to identify some of the arguments that journalists deployed to describe and dispute the legitimate voice inside the journalistic field. Specifically, I intend to analyze the meta journalistic discourse in order to advance in the knowledge of the regulatory mechanisms of the field, in the aspects of their professional identity and their latent and manifest interests, as well as to describe the dynamics of legitimation and~recognition of the contemporary Argentine journalistic field~that are configured in the essay production of journalists between 2009 and 2015.
-%
-%\textbf{Keywords}
-%
-%Journalistic field; Meta journalism; Legitimation; Independence; Freedom of expression
+Estas tensiones y conflictos no han sido exclusivos o propios del gobierno de Cristina Fernández de Kirchner. Ruiz (2014), en \emph{Guerras Mediáticas}, reseña la sucesión de conflictos entre el poder político y los medios de comunicación en Argentina desde sus orígenes; lo novedoso del período es que este conflicto se trasladó al interior del colectivo de los periodistas, produciendo disputas discursivas y críticas recíprocas alrededor de la deontología de la actividad, su función en la sociedad y la democracia y los principios que la deben regir, personalizando en colegas y/o medios la crítica sobre el quehacer de la profesión.
 
-%INDICE
+Este trabajo se propone analizar el debate entre periodistas sobre el periodismo y lo periodístico a los efectos de identificar algunos de los argumentos que los periodistas desplegaron para describir y disputar la voz legítima dentro del campo periodístico. Estrictamente, estudiar el discurso metaperiodístico a fin de avanzar, en el conocimiento de los mecanismos regulatorios del campo, en los aspectos de su identidad profesional y sus intereses latentes y manifiestos, como así también en las dinámicas de legitimación y reconocimiento del campo periodístico argentino contemporáneo que se configuran en la producción ensayística de los periodistas entre los años 2009 y 2015.
 
-%\protect\hyperlink{resumen}{Resumen \protect\hyperlink{resumen}{2}}
-%
-%\protect\hyperlink{palabras-clave}{Palabras clave \protect\hyperlink{palabras-clave}{2}}
-%
-%\protect\hyperlink{summary}{Summary \protect\hyperlink{summary}{3}}
-%
-%\protect\hyperlink{pre-texto}{Pre texto \protect\hyperlink{pre-texto}{7}}
-%
-%\protect\hyperlink{periodistas-en-debate.}{Periodistas en Debate. \protect\hyperlink{periodistas-en-debate.}{8}}
-%
-%\protect\hyperlink{aportes-al-estudio-del-campo-perioduxedstico}{Aportes al estudio del campo periodístico \protect\hyperlink{aportes-al-estudio-del-campo-perioduxedstico}{8}}
-%
-%\protect\hyperlink{introducciuxf3n}{1. Introducción \protect\hyperlink{introducciuxf3n}{8}}
-%
-%\protect\hyperlink{planteo-del-problema-de-investigaciuxf3n}{1.1. Planteo del problema de investigación \protect\hyperlink{planteo-del-problema-de-investigaciuxf3n}{8}}
-%
-%\protect\hyperlink{_Toc50463137}{1. 2. Objetivos y supuestos de la investigación \protect\hyperlink{_Toc50463137}{12}}
-%
-%\protect\hyperlink{consideraciones-preliminares}{1. 3. Consideraciones preliminares \protect\hyperlink{consideraciones-preliminares}{12}}
-%
-%\protect\hyperlink{cambio-tecnoluxf3gico-y-crisis-de-financiamiento}{1. 3. 1. Cambio tecnológico y crisis de financiamiento \protect\hyperlink{cambio-tecnoluxf3gico-y-crisis-de-financiamiento}{14}}
-%
-%\protect\hyperlink{el-peruxedodo-dorado}{1. 3. 2. El período dorado \protect\hyperlink{el-peruxedodo-dorado}{18}}
-%
-%\protect\hyperlink{fin-de-la-uxe9poca-dorada}{1. 3. 3. Fin de la época dorada \protect\hyperlink{fin-de-la-uxe9poca-dorada}{19}}
-%
-%\protect\hyperlink{abordaje-metodoluxf3gico}{1. 4. Abordaje Metodológico \protect\hyperlink{abordaje-metodoluxf3gico}{22}}
-%
-%\protect\hyperlink{_Toc50463143}{2. Estado de la cuestión y consideraciones teórico-metodológicas \protect\hyperlink{_Toc50463143}{24}}
-%
-%\protect\hyperlink{antecedentes-sobre-la-temuxe1tica}{2. 1. Antecedentes sobre la temática \protect\hyperlink{antecedentes-sobre-la-temuxe1tica}{24}}
-%
-%\protect\hyperlink{el-campo-perioduxedstico}{2. 2. 1 El campo periodístico \protect\hyperlink{el-campo-perioduxedstico}{29}}
-%
-%\protect\hyperlink{la-credibilidad}{2. 2. 2. La credibilidad \protect\hyperlink{la-credibilidad}{30}}
-%
-%\protect\hyperlink{la-legitimidad-del-campo-perioduxedstico}{2. 2. 3. La legitimidad del campo periodístico \protect\hyperlink{la-legitimidad-del-campo-perioduxedstico}{38}}
-%
-%\protect\hyperlink{autonomizaciuxf3n-del-campo-perioduxedstico}{2. 2. 4. Autonomización del campo periodístico \protect\hyperlink{autonomizaciuxf3n-del-campo-perioduxedstico}{39}}
-%
-%\protect\hyperlink{_Toc50463149}{3. Descripción del campo periodístico en la Argentina, 2009 - 2015 \protect\hyperlink{_Toc50463149}{44}}
-%
-%\protect\hyperlink{los-periodistas-y-el-fenuxf3meno-editorial}{3. 1. Los periodistas y el fenómeno editorial \protect\hyperlink{los-periodistas-y-el-fenuxf3meno-editorial}{44}}
-%
-%\protect\hyperlink{el-contexto-poluxedtico-del-conflicto-en-la-mirada-de-la-prensa}{3.2. El contexto político del conflicto en la mirada de la prensa \protect\hyperlink{el-contexto-poluxedtico-del-conflicto-en-la-mirada-de-la-prensa}{45}}
-%
-%\protect\hyperlink{acerca-del-campo-perioduxedstico}{3. 3. Acerca del campo periodístico \protect\hyperlink{acerca-del-campo-perioduxedstico}{48}}
-%
-%\protect\hyperlink{propuesta-de-clasificaciuxf3n-de-periodistas-seguxfan-su-lugar-en-el-campo}{3. 3. 1. Propuesta de clasificación de periodistas según su lugar en el campo \protect\hyperlink{propuesta-de-clasificaciuxf3n-de-periodistas-seguxfan-su-lugar-en-el-campo}{49}}
-%
-%\protect\hyperlink{categoruxedas-de-periodistas}{3. 3. 2. Categorías de periodistas \protect\hyperlink{categoruxedas-de-periodistas}{51}}
-%
-%\protect\hyperlink{pseudoperiodistas}{3. 3. 3. Pseudoperiodistas \protect\hyperlink{pseudoperiodistas}{53}}
-%
-%\protect\hyperlink{_Toc50463156}{4. Análisis de Contenido del \emph{Corpus} Bibliográfico \protect\hyperlink{_Toc50463156}{54}}
-%
-%\protect\hyperlink{corpus-de-anuxe1lisis}{4.1. Corpus de Análisis \protect\hyperlink{corpus-de-anuxe1lisis}{54}}
-%
-%\protect\hyperlink{periodizaciuxf3n}{4. 2. Periodización \protect\hyperlink{periodizaciuxf3n}{56}}
-%
-%\protect\hyperlink{etapa-preparatoria}{4. 2. 1. Etapa Preparatoria \protect\hyperlink{etapa-preparatoria}{56}}
-%
-%\protect\hyperlink{_Toc50463160}{4. 2. 2. Periodismo de Guerra \protect\hyperlink{_Toc50463160}{74}}
-%
-%\protect\hyperlink{conclusiones}{5 Conclusiones \protect\hyperlink{conclusiones}{136}}
-%
-%\protect\hyperlink{presentaciuxf3n}{5.1. Presentación \protect\hyperlink{presentaciuxf3n}{136}}
-%
-%\protect\hyperlink{composiciuxf3n-del-campo}{5. 2. Composición del campo \protect\hyperlink{composiciuxf3n-del-campo}{137}}
-%
-%\protect\hyperlink{estrategias-de-protecciuxf3n-de-la-legitimidad-del-campo-perioduxedstico}{5. 3. Estrategias de protección de la legitimidad del campo periodístico \protect\hyperlink{estrategias-de-protecciuxf3n-de-la-legitimidad-del-campo-perioduxedstico}{141}}
-%
-%\protect\hyperlink{protecciuxf3n-de-la-legitimidad-del-campo.-libertad-de-expresiuxf3n}{5. 3. 1. Protección de la legitimidad del campo. Libertad de expresión \protect\hyperlink{protecciuxf3n-de-la-legitimidad-del-campo.-libertad-de-expresiuxf3n}{141}}
-%
-%\protect\hyperlink{protecciuxf3n-de-la-legitimidad-del-campo-perioduxedstico.-la-independencia}{5. 3. 2. Protección de la legitimidad del campo periodístico. La independencia \protect\hyperlink{protecciuxf3n-de-la-legitimidad-del-campo-perioduxedstico.-la-independencia}{144}}
-%
-%\protect\hyperlink{_Toc50463167}{Post scriptum \protect\hyperlink{_Toc50463167}{146}}
-%
-%\protect\hyperlink{bibliografuxeda}{BIBLIOGRAFÍA \protect\hyperlink{bibliografuxeda}{147}}
+\chapter{Palabras clave}
+Campo periodístico; Metaperiodismo; Legitimación; Independencia; Libertad de expresión
 
+\chapter{Summary}
+
+Between 2009 and 2015, the~debate~among journalists about journalism and the journalistic work adopted, in Argentine, a volume and intensity with few background. Round tables, conferences, new journalistic TV programs on air and cable~tv, countless journalistic articles on criticism and defense of journalists were deployed in the daily press and in political magazines. However, this debate was highlighted, above all, by the edition of a large number of books written by journalists about journalism, journalists or media enterprises.
+
+This phenomenon was inscribed in the conflict between the government of Cristina Fernández de Kirchner (2007-2015) and the main media (Arrueta, 2013; Stefoni, 2013; Gindin, 2014; Ure y Schwarz, 2014; Mastrini y Becerra, 2017), which was reflected in an intense production and circulation of this type of non-fiction books.
+
+These tensions and conflicts have not been exclusive of the Government of Cristina Fernández de Kirchner. Ruiz (2014), in \emph{Guerras Mediáticas}, summarizes~a~number~of conflicts between political power and the media in Argentina since its origins. The novelty of the period is that this conflict moved within the collective of journalists, producing discursive disputes and reciprocal criticisms around the deontology of the activity, its role in society and democracy and the principles that should govern it, personalizing in colleagues and / or media, the criticism of the work of the profession.
+
+This thesis intends to analyze the debate among journalists about journalism itself~in order to identify some of the arguments that journalists deployed to describe and dispute the legitimate voice inside the journalistic field. Specifically, I intend to analyze the meta journalistic discourse in order to advance in the knowledge of the regulatory mechanisms of the field, in the aspects of their professional identity and their latent and manifest interests, as well as to describe the dynamics of legitimation and~recognition of the contemporary Argentine journalistic field~that are configured in the essay production of journalists between 2009 and 2015.
+
+\chapter{Keywords}
+
+Journalistic field; Meta journalism; Legitimation; Independence; Freedom of expression
 
 
 \chapter{Agradecimientos}
@@ -186,14 +102,11 @@ A Martín Güelman por su paciencia y dedicación en la corrección de los avanc
 
 A Esther Jodice, por haberme acompañado en lo mejor de mi vida
 
-
-
-
 \chapter{Pre texto}
 
 Cuando durante 2015 comencé a dar forma al proyecto de tesis, la bibliografía sobre sociología del periodismo argentino era escasa y/o fragmentaria. De hecho, distintos autores que estudiaban el tema lo presentaban como un déficit a subsanar. Por otra parte ese año, y los precedentes, habían dado lugar a una producción desusada de libros sobre la actividad periodística como expresión del conflicto, inicialmente, entre el gobierno y uno de los grandes grupos de medios de Argentina, pero luego el conflicto se extendió, en apariencia, a todo el periodismo argentino. A la luz de ese conflicto, creí observar la estructuración de un discurso, que daba cuenta del hacer y del sentir del conglomerado de periodistas que intervenían en la serie editorial y que, a mi entender, permitiría descubrir, o al menos reconocer, las formas que la acción del campo periodístico adopta, de manera especial, en una situación de conflicto abierto.
 
-Pierre Bourdieu (\citeyear{@6961-BOURDIEU2008}) plantea que en todo campo hay conflicto, pero que el campo lo gestiona de manera tal que no eclosione. El campo periodístico es experto en la gestión del conflicto. Su capacidad de convertir el conflicto entre actores significativos de la sociedad en acontecimientos de actualidad es, justamente, el sentido de su especificidad. Sin embargo, el conflicto al interior de sus entrañas, parece haberlo descentrado poniendo en riesgo el principio de su existencia, la creencia social colectiva en la identidad entre el discurso periodístico y la realidad, en la verosimilitud de los discursos de los periodistas. Cuando se escriben estas líneas (entre marzo y agosto de 2020), el conflicto ha escalado a niveles difíciles de imaginar en 2015, cuestionando en el escenario público, a periodistas de gran prestigio en Argentina.
+\textcite{@6961-BOURDIEU2008} plantea que en todo campo hay conflicto, pero que el campo lo gestiona de manera tal que no eclosione. El campo periodístico es experto en la gestión del conflicto. Su capacidad de convertir el conflicto entre actores significativos de la sociedad en acontecimientos de actualidad es, justamente, el sentido de su especificidad. Sin embargo, el conflicto al interior de sus entrañas, parece haberlo descentrado poniendo en riesgo el principio de su existencia, la creencia social colectiva en la identidad entre el discurso periodístico y la realidad, en la verosimilitud de los discursos de los periodistas. Cuando se escriben estas líneas (entre marzo y agosto de 2020), el conflicto ha escalado a niveles difíciles de imaginar en 2015, cuestionando en el escenario público, a periodistas de gran prestigio en Argentina.
 
 Mientras los medios gráficos poseían la exclusividad como medios de información, estos detentaban una unidad discursiva estructural, es decir los periodistas no eran públicamente reconocidos, ya que escasamente firmaban sus notas, por lo que la responsabilidad del periódico residía en los editores y el director. Sin embargo, el advenimiento de los medios audiovisuales promovió el proceso de identificación y autonomización de un número significativo de periodistas, fortaleciendo, a mi entender, el campo periodístico. Sin embargo, el conflicto del que damos cuenta en la tesis parece haber puesto en crisis esa creencia colectiva, haciendo que la existencia misma del campo se halle en riesgo.
 
@@ -208,8 +121,10 @@ Mientras los medios gráficos poseían la exclusividad como medios de informaci�
 		--Por si acaso, seré una tumba --le prometí-. Lo juro por mi adhesión personal, por mi lealtad al equipo, por usted, por Limardo, por Renovales.
 		--Diga lo que se le dé la gana, nadie le va a creer.}
 
-	\emph{Esse est percipi} (Ser es ser percibido)}
-{\cite{@6962-BORGESBIOY1967}}
+	\emph{Esse est percipi} (Ser es ser percibido) \parencite{@6962-BORGESBIOY1967}}
+
+
+\newpage
 
 \chapter{Introducción}
 
@@ -2643,229 +2558,19 @@ Iniciamos este trabajo bajo la premisa que el conflicto generaba el riesgo de fr
 
 Septiembre de 2020
 
-\hypertarget{bibliografuxeda}{%
-\section{BIBLIOGRAFÍA}\label{bibliografuxeda}}
-
-Alberdi, Juan B. (2015): Cartas sobre la prensa y la política militante de la República Argentina (cartas quillotanas). Biblioteca Saavedra Fajardo, Madrid. {[}1853{]}.
-
-Alonso, Paula (1997): ``\,``En la primavera de la historia'': el discurso político del roquismo de la década del ochenta a través de su prensa''. En: Boletín del Instituto de Historia Argentina y Americana ``Dr. Emilio Ravignani'', Tercera serie, N° 15, 1er. Semestre de 1997, Buenos Aires.
-
-Alonso, Paula (2004): ``La tribuna nacional y Sud-América: tensiones ideológicas en la construcción de la ``Argentina moderna'' en la década de 1880''. En: Construcciones impresas. Buenos Aires: Fondo de Cultura Económica.
-
-Altamirano, Carlos y Myers, Jorge (2008) Historia de los intelectuales en América Latina. Tomo I. Buenos Aires: Katz Editores.
-
-Altheide, D. y Rasmussen, P.(1976) Becoming News. A Study of Two Newsrooms, en Sociology of works an occupations, Vol. 3 N. 2, Pags. 223-226.
-
-Amado, Adriana (2016) El periodismo por los periodistas. Perfiles profesionales en las democracias de América Latina. Buenos Aires: Konrad-Adenauer-Stiftung e. v.
-
-Anguita Eduardo (2002) Grandes hermanos. Alianzas y negocios ocultos de los dueños de la información. Buenos Aires: Colihue.
-
-Arrueta, C. (2010). ¿Qué realidad construyen los diarios? Una mirada desde el periodismo en contextos de periferia. Buenos Aires: La Crujía Ediciones.
-
-Arrueta, Cesar (2013) Identidad(es) periodística(s) Una mirada desde los escenarios de tensión, en Revista:~Tram{[}p{]}as de la Comunicación y la Cultura; Núm 76, ISSN:~2314-274X pp. 81-87 Recuperado 05/03/2017: \url{http://sedici.unlp.edu.ar/handle/10915/37153}
-
-Auza, Néstor T. (1978) El periodismo de la Confederación. Buenos Aires: Eudeba.
-
-Baldoni (2012) Kirchnerismo, mediatización e identidades políticas: reflexiones en torno a la política, el periodismo y el discurso . 2003-2008 / Maestri Mariana ... {[}et.al.{]} ; coordinado por Irene Lis Gindin ; 1a ed. - Rosario: UNR Editora. Editorial de la Universidad Nacional de Rosario, 2014.
-
-Barbier, Frédéric y Bertho-Lavenir, Catherine (1999) Historia de los medios deDiderot a Internet, Buenos Aires: Colihue.
-
-Bargach, A. y Suárez, M. (2014). Télam, el hecho maldito del periodismo argentino. Una historia narrada por sus trabajadores. Buenos aires: Ediciones TXT.
-
-Barone, Orlando (2011) K Letra bárbara. Buenos Aires: Sudamericana.
-
-Barrera Carlos (2004) Historia del Periodismo Universal. Barcelona: Ariel.
-
-Beliz y Zuleta Puceiro (1998) La cultura profesional del periodismo argentino en Cuadernos Autrales de Comunicación 1. Buenos Aires: Universidad Austral
-
-Benhamou, F. (2015). El libro en la era digital: papel, pantallas y otras derivas. Ciudad Autónoma de Buenos Aires: Editorial Paidós.
-
-Bernays, Edward (2008) Propaganda. Madrid: Melusina
-
-Blaustein, Eduardo (2014) Las locuras del Rey Jorge. Buenos Aires: Ediciones B.
-
-Blaustein, Eduardo. (2013). Años de rabia. El periodismo, los medios y las batallas del kirchnerismo. Buenos Aires: Ediciones B.
-
-Borderia Ortiz, Enrique; Laguna Platero, Antonio; Martínez Gallego, Francesc (2015) Historia social de la comunicación: mediaciones y públicos. Madrid, Síntesis.
-
-Borges-Bioy Casares (1967). Crónicas de H. Bustos Domecq. Buenos Aires: Losada.
-
-Borrat, H. (2009). El periódico, actor político. Barcelona: Editorial Gustavo Gili.
-
-Bourdieu, P. (2008). Cuestiones de Sociología. Madrid: Ediciones Itsmo.
-
-Bourdieu, P. y Wacquant Loïc (2008) Una invitación a la Sociología reflexiva, Buenos Aires: Siglo XXI Editores.
-
-Bourdieu, Pierre (1997) Sobre la televisión. Barcelona: Anagrama.
-
-Bourdieu, Pierre (1999). La miseria del mundo, Buenos Aires: Fondo de Cultura Económica.
-
-Bourdieu, Pierre (2002). Campo de poder, campo intelectual, Barcelona: Montressor
-
-Brancatelli, Diego (2015). Todos contra BRANCA contra todos. Buenos Aires: Ediciones B
-
-Bücher, K. (1917) Die Anfänge des Zeitunswesens, en Die EnstehungderVolkswirtschaft, Vol I, Berlín.
-
-Capasso, J. (2013). Victor Hugo. Una historia de coherencia y convicción. Buenos Aires: Ediciones Al Arco.
-
-Castells, M. (1998). La era de la información. Economía, sociedad y cultura. Vol 2 El poder de la identidad. Madrid: Alianza Editorial.
-
-Cecchini, D. y Mancinelli, J. (2010). Silencio por sangre. La verdadera historia de Papel Prensa. Buenos Aires: Perito Mundo.
-
-Creswell, J. W. (1994). Research Design. Qualitative \& Quantitative Approaches. London: Sage.
-
-De Diego, J. (2012).~Concentración económica, nuevos editores, nuevos agentes. Primer Coloquio Argentino de Estudios sobre el Libro y la Edición, 31 de octubre, 1 y 2 de noviembre de 2012, La Plata, Argentina. EN: Actas. La Plata: UNLP-FAHCE.
-
-De Marco, Miguel Ángel (2006) Historia del periodismo argentino. Desde los orígenes hasta el Centenario de Mayo. Buenos Aires: EDUCA.
-
-Dessein, D y Roitberg G. (Comps.). (2014). Nuevos desafíos del periodismo. Buenos Aires: Ariel.
-
-Díaz Claudio (2009) Diario de guerra. Clarín el gran engaño argentino. Buenos Aires: Gárgola
-
-Díaz, César (2012). Comunicación y Revolución. 1759-1810. La Plata: Universidad Nacional de La Plata -- Ediciones EPC.
-
-Donsbach Wolfgang (2014). Cómo entender al periodismo : selección de la obra de Wolfgang Donsbach; compilado por Fernando J. Ruiz. - 1a ed. - Ciudad Autónoma de Buenos Aires : Konrad Adenauer Stiftung
-
-Fontevecchia, J. (2015). \href{https://www.boutiquedellibro.com.ar/9789504946175/Quienes+Fuimos+En+La+Era+K/}{Quiénes fuimos en la era k}. Buenos Aires. Planeta
-
-Fontevecchia, J. (2018) \url{https://www.perfil.com/noticias/medios/fontevecchia-quienes-critican-a-los-medios-estan-criticando-al-sitema-democratico.phtml}. Seminario ``Telecomunicaciones, Medios Privados y Públicos en la era de la Convergencia'', organizado por el Sistema Federal de Medios y Contenidos Públicos y la Embajada Británica en Argentina. 05/11/18
-
-Fontevecchia, J. (2018). Periodismo y Verdad. C.A.B.A: Editorial Paidós.
-
-Fraga Roserndo (comp.) (1997) Autopercepción del periodismo en la Argentina. Buenos Aires: Editorial de Belgrano.
-
-Gans (1979) Deciding What´s News, Newsweek an Time, Nueva York: PantheonBooks
-
-Gil Bellota, Carlos J. (2012) Periodismo, metaperiodismo y bienes públicos. \url{https://www.datanalytics.com/2012/09/07/periodismo-metaperiodismo-y-bienes-publicos/}
-
-Gindin Irene Lis (2014) Identidades fragmentadas: apuntes teóricos sobre las identidades políticas, en Kirchnerismo, mediatización e identidades políticas: reflexiones en torno a la política, el periodismo y el discurso .2003-2008. Rosario: UNR Editora.
-
-Glaser, B y Strauss, A (1967) The discovery of gronunded theory strategies for qualitative reserarch. New York: Aldine Publishing Company.
-
-Glaser, B. (1978),~ Theoretical Sensitivity. San Francisco, University of California, 1978.~Traducción: Ada Freytes Frey.
-
-Golding-Elliott (1979) Making the news, Londres: Longman
-
-González, Gustavo (2011) Noticias Bajo Fuego. Buenos Aires: Planeta
-
-Habermas, J. (2006). Historia y Crítica de la Opinión Pública. Barcelona: Editorial Gustavo Gili.
-
-Habermas, Jurguen (1982) Teoría de la Acción Comunicativa, Madrid, Ed.: Taurus
-
-Halperín, Jorge (2007), Noticias del poder, Buenas y malas artes del periodismo político. Buenos Aires: Aguilar.
-
-Humphreys, Peter (2008) Subvenciones a la prensa en Europa. Una visión histórica. Extraído de Revista \href{https://dialnet.unirioja.es/servlet/revista?codigo=6769}{Telos: Cuadernos de comunicación e innovación},~ISSN~0213-084X,~\href{https://dialnet.unirioja.es/ejemplar/195612}{Nº. 75, 2008},~págs.~71-84
-
-Jorge Asís (2011) El kirchnerismo póstumo. Buenos Aires: Ediciones B
-
-Jornet, C. y Dessein, D (Comps.). (2014). Tiempos Turbulentos. Medios y libertad de expresión en la Argentina de hoy. Buenos Aires: Ariel.
-
-Levinas, Gabriel (2013) El pequeño Timerman. Buenos Aires: Ediciones B
-
-Levinas, Gabriel (2015) Doble agente. La biografía inesperada de Horacio Verbitsky. Buenos Aires: Sudamericana
-
-Llonto, Pablo. (2007). La Noble Ernestina. Ciudad Autónoma de Buenos Aires: Editorial Punto de Encuentro
-
-Lopez Echagüe, Hernan (2015) El perro. Horacio Verbitsky, un animal político. Buenos Aires: Ediciones B
-
-Majul Luis (1999) Periodistas. Qué piensan y que hacen los que desiden en los medios. Buenos Aires: Editorial Sudamericana.
-
-Majul, L. (2012). Lanata. Buenos Aires: Margen Izquierdo
-
-Márquez, V. y Ces, A. (2010). Periodismo de infantería. Buenos Aires: Clarinete.
-
-Martini, Stella;~Luchessi, Lila (2004). Los que hacen la noticia: periodismo, información y poder. Buenos Aires: Biblos
-
-Mastrini y Becerra (2017). Medios en guerra. Balance, crítica y desguace de las políticas de comunicación 2003-2016. CABA: Biblos
-
-Mauss, M. (2009). Ensayo sobre el don. Forma y función del intercambio en las sociedades arcaicas. Buenos Aires: Katz Editores.
-
-Meneses Fernández, \href{https://www.researchgate.net/profile/Maria_Meneses_Fernandez}{M. Dolores (2010)} Aportaciones del metaperiodismo al estudio de la prensa y del periodismo en contextos históricos delimitados. La Transición democrática, en Zer, Vol. 15 - Núm. 29, ISSN: 1137-1102, pp. 175-191
-
-Meneses Fernández, María Dolores (2008). Noticias sobre la prensa. Imagen propia en la Transición democrática española. Madrid: Ediciones Fragua.
-
-Mercado, Silvia Diana (2012) El inventor del peronismo. Buenos Aires: Planeta
-
-Mochkofsky, G. (2011). Pecado original. Clarín, los Kirchner y la lucha por el poder. Buenos Aires: Planeta.
-
-Molina, Eugenia (2012) El poder de la opinión pública. Trayectos y avatares de una\\
-nueva cultura política en el Río de la Plata, 1800-1852. Santa Fe: UNL.
-
-Morales, Victor Hugo (2015) \href{http://www.cuspide.com/9789876842686/El+Rebenque+Del+Diablo/}{El rebenque del diablo}. Buenos Aires: Colihue
-
-Morales, Victor Hugo (2015) Mentime que me gusta. Buenos Aires: Aguilar.
-
-Moyano, Julio (1996) Prensa y Modernidad. Paraná: CEPCE -- EDUNER.
-
-Moyano, Julio (2008) Prensa, modernidad y transición. Buenos Aires, UBA, Facultad de Ciencias Sociales.
-
-Moyano, Julio (2013): ``Seis años decisivos: La Revolución de Mayo y la construcción de la prensa moderna en el Río de la Plata''. En: Pineda, Adriana, y Gantús, Fausta (Comp.): Miradas y acercamientos a la prensa decimonónica. México: Universidad Michoacana de San Nicolás de Hidalgo/Red de Historiadores de la Prensa y el Periodismo en Iberoamérica.
-
-Muchnik, Daniel (2012) Aquel periodismo: política, medios y periodistas en la Argentina, Buenos Aires: Edhasa
-
-Novaro, M. y Birmajer, M. (2015). Grandes y pequeñas mentiras que nos contaron. La guerra contra la prensa. Qué nos dejan doce años de acoso al periodismo. Buenos Aires: Planeta.
-
-Ojeda Alejandra y Moyano Julio (2019): ``En la forja de un diario moderno''. En: Ojeda, Alejandra, Moyano Julio y Levenberg Rubén: Prácticas de oficio e innovación tecnológica. Tensiones y estrategias en dos momentos clave del diario argentino La Nación. Buenos Aires: IEALC -- UBA.
-
-Ojeda, Alejandra (2010) ``De la Arenga Faccional al Reclame Publicitario''. En: revista Pensar la Publicidad, nº 2, Barcelona.
-
-Oliván, M. J. y Alabarces, P. (2010). 6 7 8. La creación de otra realidad. Buenos Aires: Paidós.
-
-Piccone, N. (2015). La inconclusa Ley de Medios. La historia menos contada. Buenos Aires: Ediciones Continente.
-
-Ramonet, I. (2011). La explosión del periodismo. Internet pone en jaque a los medios tradicionales. Buenos Aires: Capital Intelectual.
-
-Rivera, Jorge (1990) ``De la facción al folletín''. En: Diario Clarín, suplemento cultural Cultura y Nación, 23 de agosto.
-
-Rivera, Jorge (1998) El escritor y la industria cultural. Buenos Aires: Atuel.
-
-Rosso, Daniel (2012) Máquinas de captura. Los medios concentrados en tiempos del kirchnerismo. Buenos Aires: Colihue.
-
-Rotemberg, Abrasha (1999), Historia confidencia. La Opinión y otros olvidos. Buenos Aires: Editorial Sudamericana
-
-Ruiz, F. (2014). Guerras mediáticas. Las grandes batallas periodísticas desde la Revolución de Mayo hasta la actualidad. Ciudad Autónoma de Buenos Aires: Sudamericana.
-
-Saferstein, E. (2016). ``La década publicada'' Los bestsellers políticos y sus editores. Producción de libros, difusión de temas e intervención pública en el mercado editorial argentino (2003-2015), Tesis de doctorado, Universidad de Buenos Aires.
-
-Schlesinger, (1978) Putting ``reality'' together. BBC news, Londres: Constable.
-
-Shumway, Nicolás (2003) La invención de la Argentina. Buenos Aires: Emecé.
-
-Siebert F. y Peterson T. (1967) Tres teorías sobre la prensa en el mundo capitalista. Buenos Aires: De la Flor.
-
-Sirvén, Pablo (2011) Perón y los medios de comunicación. Buenos Aires: Sudamericana.
-
-Sirvén, Pablo (2013) Converso. Buenos Aires: Margen izquierdo.
-
-Sivak, M. (2013). Clarín, el gran diario argentino. Una historia. Buenos Aires: Planeta.
-
-Sivak, Martín (2015) Clarín, La era Magnetto. Buenos Aires: Planeta.
-
-Stefoni Jorge Andrés. (2013) Controversias contemporáneas en el periodismo argentino. Los nudos de la política y el debate sobre la condición profesional (2009-2011) Revista Astrolabio, Núm 10 Nueva Época ISSN 1668-7515 pp. 389 -- 419.
-
-Strauss, A. y Corbin, J. (1998). Basics of Qualitative Research: Techniques and Procedures for Developing Grounded Theory. London: Sage.
-
-Ure, Mariano y Schwarz Christian (2014) Las identidades del periodismo argentino : estudio cualitativo de la percepción de los propios periodistas, Ciudad Autónoma de Buenos Aires: Konrad Adenauer Stiftung.
-
-Vargas, Walter (2015) Periodistas depordivos. Buenos Aires: Ediciones al arco.
-
-Verón, E. (1987). Construir el acontecimiento. Buenos Aires: Gedisa.
-
-\href{http://www.cuspide.com/resultados.aspx?c=VILLARRUEL+DARIO\&por=AutorEstricto\&aut=291343\&orden=fecha}{Villarruel} Dario (2014) (In)justicia mediática. Buenos Aires: Sudamericana.
-
-Vommaro, G. y Baldoni, M. (2012). Bernardo y Mariano: las transformaciones del periodismo político en Argentina, de los años ochenta a los noventa, en Mediálogos, Revista de Comunicación Social, nº 2, Universidad Católica del Uruguay, Montevideo, pp. 59-82.
-
-Weber, Max (1992) Para una sociología de la prensa en \href{http://bddoc.csic.es:8080/ver/ISOC/revi/0034.html}{Revista Española de Investigaciones Sociológicas} nº 57 ISSN:~0210-5233. (pp. 251-259) Madrid.
-
-Wiñazki, Miguel (comp.) (2000) Puro periodismo. Buenos Aires: Editorial de Belgrano.
-
-Wolf, M. (2004). La investigación de la comunicación de masas: Crítica y perspectivas. Ciudad Autónoma de Buenos Aires: Paidós.
-
-Zukernik Eduardo (2006) , Hechos y noticias. Claroscuros de la prensa gráfica en la Argentina. Buenos Aires: La Crujía Ediciones - Konrad Adenauer Stiftung.
-
-Zunino, E. (2011) Patria o medios. Buenos Aires: Sudamericana.
-
-Zunino, E. (2014). Periodistas en el barro. Peleas, aprietes, traiciones y negocios. Miserias y razones de la guerra mediática en la Argentina reciente Buenos Aires: Sudamericana.
-
+\printbibliography[title=Referencias]
+
+\input{./artcap/colofon.tex}
+
+\ifPDF
+% "exit" para cerrar el script
+\immediate\write\script{exit}%
+\immediate\closeout\script%
+\PaginaEnBlanco
+	\else
+	\ifBNPDF
+	\PaginaEnBlanco
+	\fi
+\fi
 
 \end{document}
